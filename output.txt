@@ -582,3 +582,226 @@ You see Barry.
 Hey! Only ghouls get a water ration.
 I'm gonna get you for waking me up!
 The mutant ignores you.
+I dunno.
+Yer standin in it.
+He's a wus. We should just wipe out him and his ghouls.
+That's here.
+I dunno.
+He Harry's boss.
+Wimpy things.
+Wimpier than ghouls.
+You see Billy.
+Hi there.
+Hi, what are you doing?
+Can I have a brahmin?
+Hi. Uh, bye.
+Arg!
+Ta.
+Why would you want a brahmin? Do you have a Caravan? Well, it doesn't matter. I only take care of them. Dan is the one that owns them; he won't sell them though.
+Why?
+I was just kidding.
+Cuz of all the missing caravans. He doesn't have any to spare, the caravans use most of them. The others are sold for food. Well, I better stop talking; Dan will get mad if he sees me talking to a stranger.
+Oh, okay.
+Nothing . . . I mean, I'm taking care of the brahmin.
+What's the spear for? Are they dangerous?
+What's a brahmin?
+What's a brahmin? You must be joking. Why they're one of the major food sources and forms of transportation around here. They haul the caravans. Dan says this is a really important job, but it's the Bone.
+Oh, I knew that!
+Dan's right. You are doing a great job.
+Yea, it looks that way. Have fun.
+Hey, you're one of those skags aren't you?
+Really? You think so? Gee, thanks.
+You're not from around here, are you? I'll give you one tip: Don't get caught stealing!
+Sure, thanks.
+I wouldn't dream of stealing. Stealing is wrong.
+Yea, I think I'm starting to agree with you. This job isn't so bad, really. It makes me feel good for some reason. Well, I've got to go before I get in trouble.
+Please don't hurt me or my brahmin.
+Don't hurt me!
+Stop it!
+Please leave me alone.
+You're scaring me.
+Hey what are you trying to do? I don't have anything you'd want.
+Stop that!
+Dangerous? No, not really. They can give you a really nasty bite, but they're pretty cool. They fart and burp a lot. I don't know why.
+So what's the spear for?
+Okay, thanks.
+Oh, they can be awfully stubborn when I want them to do something. I just gently stick them to get them to move around . . . plus I don't want to get too close; they sometimes kick. 
+Please don't talk to me. Dan is going to yell at me again. He really gets pissed - I mean - mad, when I'm not paying attention to what I'm doing.
+He's just trying to help. Work hard and I'm sure he'll be nicer.
+Here kid, take  bucks and get away from this jerk.
+Okay.
+Aaaaaarg!
+Rhu?
+Please don't, I'm already in enough trouble.
+I AM working hard!
+I'm sorry, I didn't mean that. He's just trying to help you.
+No you aren't, you lazy little skeev!
+Okay. 
+Yea, maybe you're right . . . actually, he seems pretty cool, but I wish he wouldn't yell at me so much.
+Yea, right.
+Up yours, you old fart!
+Up yours, you old hag!
+WOW! I can live on this for the rest of my life! Thanks a lot, mister!
+WOW! I can live on this for the rest of my life! Thanks a lot, ma'am!
+WOW! Thanks . . . Well? . . . You're just trying to get me in trouble again!
+Please don't talk to me, Dan is really mad.
+Don't worry. I had a talk with him, he'll try to be nicer to you.
+And he should be! You're a terrible kid!
+Wac.
+Hi!
+Those girls over there sure are dumb.
+Hi again.
+Brahmin are cool.
+Dan's taking me to the Falcon if I do a good job.
+Dan's going to take me on a caravan some day!
+I'm going to be an adventurer when I grow up.
+Really? Oh, okay. I hope you didn't hurt him. He's really not so bad. He just yells a lot.
+Hello again.
+What is it you do again?
+Can I have a brahmin?
+Just stopping by to see how things are going. Bye.
+Arg!
+Ta.
+I'd better get back to work.
+Those girls over there sure are dumb.
+Hi again.
+I'm going to be an adventurer when I grow up.
+Brahmin sure do shi . . . uh, poop a lot.
+I can't talk right now.
+I don't want to get in trouble.
+You see Bob, proprietor of Bob's Iguana Bits.
+Ok, Ok, I've got your money.
+I've got more expenses. I need to increase the payment.
+Screw this. I want ALL of your money now, or you're a dead Bob.
+I can't take the heat. I'm calling off the payments.
+I want information on Decker.
+I want information on Doc Morbid.
+Gimme' an iguana on a stick.
+I'm sorry. I ain't payin' no more. Do what you want with me.
+Bob, I thought we were pals! In fact, I was thinking about giving you a promotion in my organization. Instead, you betray me. This is very disappointing...
+Bob, why should I take no for an answer? Especially from a scumbag like you?
+Glad to see you're standing up for yourself.
+Your reputation is history, Bob. Hi-sto-ree!
+Fine, I'll decide what to do with you later.
+Well, it was nice knowing you Bob. Say 'hi' to Satan for me.
+What are you doing back so soon? It ain't time for the payment.
+You've got a lot of nerve showing your face around here. Get lost!
+Hey, I don't want any trouble!
+Hi! Welcome to Bob's Iguana Bits, the family eating place. Can I take your order?
+Forget it.
+You are? Well, Ok...
+He's a mean son of a bitch. You don't want to mess with him. Anything else?
+Fine. What do you want me to pay?
+I want 
+ bucks every five days.
+Doc Morbid? All I know is that he's up around Junktown and he's the cheapest source of food I could find. That's all!
+Let's see what I've got in stock.
+I've got a whole iguana for twenty caps.
+I've got prime cut choice for eight caps.
+I'll take one of the real ones.
+Nothing for me right now. I'm on a diet.
+I'll take one of the prime cuts.
+I could go for some prime cut right now. I'll even pay for it.
+Uhh... Me no hungry now.
+Fine! Take your money and get out!
+You can stick it! I ain't ever payin' you! Get lost!
+Yeah, sure. Why don't you find someone else to screw over.
+You can't throw crap without getting some of it on your fingers. Get out of here!
+Sure you will. Get lost!
+Sorry. We're all out of iguana.
+We only have whole iguana on a stick. Twenty bucks each.
+We only have prime select choice. It tastes great, though. Eight bucks each.
+Sure. We got whole iguana on a stick for twenty bucks, and our prime select pieces for eight bucks.
+I'll take a whole iguana.
+I'll take your prime select.
+You know, I hear your prime select tastes like chicken. Do you like eating cowardly guys?
+No sissy portions! Me want all iguana! Ugh!
+Hmm, smell good! Me want prime!
+Never seen any of them around here. Water Merchants don't need 'em.
+Water Merchants?
+Mr. Decker is a distinguished businessman in a less than distinguished business. Anything else?
+
+What kind of business?
+What are you talking about?
+Your secret ingredients. How fresh does the corpse have to be before it develops a bitter aftertaste? Do you use mutants, humans, or a mix?
+I found an invoice in Doc Morbid's lair. An invoice for dead bodies...
+If you've got a memory loss, I can talk to the sheriff.
+Prime Choice Select is made of people!!!! It's made of people!!!
+Nothing. Sorry to bring it up. Now is there anything else I can do for you?
+Well, he's dead now, and my cash flow has increased because of it.
+Someone killed Decker. We're in mourning. [snicker]
+Someone shot Sheriff Greene. Don't know about the deputy, though.
+Daren Hightower was murdered. And all that money couldn't save him. Ironic, ain't it?
+Someone stole a necklace from the Hightowers. Man, did they ever make a big mistake. They're dead for sure!
+Someone killed Jain over at the Cathedral. I hear she was a real pain in the butt!
+Well, the only new thing is that the Children of the Cathedral has taken over the Hospital. It's pretty boring around here lately.
+Anything else?
+Man, I'm gonna be out of business in a week. Anything else, oh high and mighty?
+I don't like your attitude.
+Sorry, you can't afford it.
+One whole iguana coming up! Anything else?
+You know what they're made from and you still want one? You make Decker look like a charity worker! Anything else?
+I don't like your attitude.
+Sorry, you can't afford it.
+One iguana prime select choice, coming up! Anything else?
+Smart choice. You could stand to lose a few pounds.
+Wh...what! Oh, I see, you're joking...
+Of course I am...
+No, I'm not. I'm going to see that you pay for your crime.
+No, I'm not. And I want a piece of the action.
+You must be new in town if you're asking me about the Water Merchants. Water is life, and you don't get much more powerful than life and death.
+Who's in charge of the Water Merchants?
+If there's anything that involves misery and suffering in the Hub, Decker either controls it or wants to control it. Anything else?
+I don't know what you're talking about, and I don't appreciate your slander! I suggest you don't show your face in here again.
+Don't do that! Fine, I've been using some questionable portions. But it's not like I'm committing murder. Doc Morbid's stuff is already dead, isn't it?
+I'm sure it is, Bob. Have a nice day...
+Cannibalism is a crime against humanity, Bob. I'm going to see that you pay for it.
+Maybe it is. Maybe it isn't. I don't care. I want a piece of the action.
+Not so loud! I don't need you saying that all over the Hub...
+I guess I was rude. Have a nice day...
+You know, the police station is just across the street. I really should take a little walk.
+I can get even louder. But I can also shut up. Noise is cheap, silence is expensive.
+How the hell am I gonna pay you if you eat all my stock? Fine! Have another iguana! I hope you choke on it!
+I don't like your attitude.
+Tough. You want money, I'll give it to you. You want food, I'll give it to you. You want to die, I'll arrange it. But "like" ain't part of the equation.
+Nothing I can think of. Now if you'll excuse me, I have a business to run.
+Sorry, we're all out of iguana.
+We only have whole iguana on a stick. Twenty bucks.
+We only have prime select choice. Eight bucks.
+Again? Man you must be hungry. We got whole iguana on a stick for twenty bucks, and our prime select pieces for eight bucks.
+I'll take a whole iguana.
+I'll take your prime select.
+You know, I hear your prime select tastes like chicken. Do you like eating cowardly guys?
+No sissy portions! Me want all iguana! Ugh!
+Hmm, smell good! Me want prime!
+How the hell am I gonna pay you if you eat all my stock? Fine! Have another iguana! I hope you choke on it!
+I don't like your attitude.
+Uh, bye.
+Wait a minute. We've got to find a way to reach a mutual understanding!
+The only way you'll be able to keep me quiet is to kill me.
+Sorry, no deal.
+Fine. What can I get out of this?
+Fine. What do you want me to pay?
+I want bucks every five days.
+I don't think I'll blackmail you. Carry on.
+I'd change your mind if I were you, friend. People have died for less in the Hub.
+Fine. It's a deal. 
+bucks, due every five days. I guess I'll see you in five...
+No way I'm going for that. I can't afford more than what I'm paying you now.
+Too bad, Bob. I'd hate to start singing.
+Fine. We'll stay with the current arrangement... for now.
+Can you afford a funeral, Bob?
+Fine. Maybe it would be good if our paths didn't cross again.
+You may be a songbird, but I'm the golden goose. You ain't gonna sing, not when I'm the only goose you've got. Now get out!
+First sensible thing I remember you saying. Now get out!
+Gimme' an iguana on a stick.
+What can you tell me about a Water Chip?
+What can you tell me about Decker?
+I think we need to talk about Doc Morbid and some of your secret ingredients.
+Do you know anything about the missing caravans?
+What, me trouble? What gives you that impression?
+Anything interesting happening in the Hub?
+Me hungry! Grrrrr!
+Terrible business. Those poor people. Oh, those poor people. Losing their lives in such a ghastly way! Is there anything else I can do for you? Like feed you, perhaps?
+Nothing, bye.
+Me go now.
