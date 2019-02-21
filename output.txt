@@ -1,0 +1,360 @@
+You see Abel.
+You see a large mutant.
+You are not supposed to be here.
+Hng.
+Of course not. I'm here to kill you!
+Why do you say that?
+Oh, yeah? Your momma!
+Pik!
+I'm gonna kick yer ass if you say that again!
+Pik! Pik!
+Oh, you gonna get it now!
+You human. Me mutant. Mutant kill human.
+How can you do that? What about the force field?
+Abel take care of that. Then Abel kick yer ass!
+Children are not allowed here. This mutant place. Go away.
+Hng!
+I have to get through this force field. Please lower it.
+No.
+You again. Abel kick yer ass!
+ tell me about name
+Me Abel.
+ tell me about generic
+Hng.
+Why do you say that?
+You see an inhabitant of Adytown.
+Looks like rain . . . as always.
+Sorry, have to go. Got work to do.
+We don't get many outsiders here.
+Gotta get back to work.
+I'd get back to the Hub, if I were you.
+Good day . . . if that is what you can call it.
+Yeah . . . whatever.
+No time to talk.
+Can't talk right now.
+Hope the rain ain't glowin' like yesterday.
+Looks like we're going to be short food again.
+I hope the caravans pass by again soon.
+We have a chance to make it now.
+Adytum will be the town we want it to be.
+Thank you for your help.
+Thank you for getting rid of the Regulators.
+Thank you for our freedom.
+It is good that the Regulators are gone.
+Welcome to the New Adytum.
+You see a super mutant. He is guarding the airlock door.
+You see a super mutant guard.
+Jeremiah, you may pass.
+Move along.
+Move faster, messenger.
+Normals cannot carry weapons here! Halt and identify yourself!
+Grrr!
+Uh, sorry. I'll put it away.
+I'm just passing through. No need for identities here.
+Die! Die! Die! I always wanted to say that.
+I will not be spoken to that way. You will be punished.
+Halt! What is your business here, 'child'.
+Hng!
+I'm, uh, doing stuff.
+I'm on important business. You have no right to stop and question me.
+Don't talk to me, big boy.
+Your answer does not settle my nerves. Speak quickly and clearly, or I will assume you are here for foul purposes. I assure you that you will not like that...
+Uh, no, really, honestly. I'm doing stuff.
+I'm bringing a message to our leader.
+I sense the untruth behind your words. You will not be allowed in. This I promise you...
+You may pass, but next time, follow the proper procedure...
+Ok, thanks. See you around.
+And what's that?
+Blessing to you, brother.
+A true follower of the Master would have that knowledge. You are an intruder!
+Move along. I don't have time for your questions.
+You are annoying me.
+I have work to do. Do you?
+You are making a mistake by coming here. Explain yourself or perish...
+Nuggie!
+I have nothing to say.
+I'm here to protect humanity from the likes of you.
+Oh, shut up!
+You should not try to fool me by playing dumb. I tire of this...
+What kind of foolish bigotry is that, we are 'humanity.' We're just as human as you are.
+What kind of crap is that?
+There is no possible way that you are human.
+My name is Kyle. I was born to a mother and a father, like yourself. The Master just oversaw my rebirth. These muscles, this skin, this strength does not make me any less human than you. I do not like all that the Unity stands for, but it is the best chance for peace that we have.
+Not on my watch, it isn't. I'm here to put an end to you and your kind.
+You may be human, but that still doesn't make your Unity right. I guess we will be enemies.
+It is a pity that you act this way, but you will not proceed further...
+It will be a true shame to see your head on a pike.
+Intruders!
+I no speak to you.
+You gain 
+ experience points for bluffing your way past the guards.
+You see Mitch of the All-N-One store.
+How may I help you today?
+aI'd like to buy something.
+bI'd like to sell something.
+cNothing. Thanks.
+dRunk.
+Great. Here's what I have.
+Great, always looking for new things.
+Sorry, I can't understand you. Come back when you get more of a brain.
+Thanks. Come again.
+You see Jake the Arms Dealer.
+You see Alya, a desert raider.
+I am Alya of the Khans. How might I help you today?
+aI'm looking for a woman named Tandi. Have you seen her?
+bHow about a little kiss?
+cWhy has your band of Raiders attacked Shady Sands?
+dNo, thank you.
+eHooroo!
+If she is one of those women from Shady Sands, maybe you should look there. Now go, I need to finish sharpening my knives. 
+aKiss this!
+We do not attack those of Shady Sands. We are from the same place they are. It is only right that they share with us!
+aBut you are hurting their livestock and terrifying them.
+bThat seems fair to me.
+cUh, yeah. I think I will be going now.
+You sound just as wimpy as they are. Look, if they were in any trouble of starvation, then it is their own fault for not planning ahead. Consider what we do a trade in talents.
+aA trade in talents?!? How can this be a trade in talents? You don't give them anything.
+Sure, and chickens have three legs.
+Uh, yeah. I think I will be going now.
+I am sorry, but I can't understand you. I'm sharpening my knives and would not like to be bothered.
+We give them the most important thing possible. We give their dreary lives excitement.
+I don't think they want your type of excitement.
+I think I will make their lives boring again. I'll start with you!
+Uh, yeah. I think I will be going now.
+I didn't ask. But since you obviously don't have any concept of fun, I think I will end your existence.
+Mocking me does not bode well for you. I suggest you leave my presence.
+Darn straight that it's fair. Now get out of my face.
+I am busy right now preparing for our next raid.
+You see Andrew, the jail guard.
+Okay, you can go now.
+Hey! You! Stop!
+Can I help you?
+Who are you?
+What are you doing?
+cNo thanks.
+I'm Andrew. My job is to guard the jail.
+I'm guarding the jail. I make sure that miscreants don't get in or out.
+Why would you keep people from getting in the jail?
+Oh.
+You have a good day. And stay out of trouble.
+Someone might leave something to help a prisoner escape. Or someone might get locked inside, and stuck until we could get the keys.
+Eergh!
+Move along, fella.
+Move along, miss.
+Hey! Knock it off!
+You see Aradesh.
+Greetings, wanderer. Please do not be offended if the gentlefolk about seem rude. As Dharma said, 'Tough times tan the human hide.' Your business in Shady Sands might be?
+Greetings. Your business in Shady Sands might be?
+bWe don't take to strangers much. Your business in Shady Sands?
+I'm from a small village west of here. I'm just exploring and mean you no harm.
+What's it to you?
+My reasons are mine to keep.
+I'm from a Vault to the west. My people are dying of thirst and I need to find a water purifier chip for them to survive.
+I'm saving an entire people from destruction!
+Shady Sands? Whoops, I'm lost! I'll just be going now.
+Hunh?
+I know of no village to the west.
+Have you been through the mountains west of here?
+So?
+Are you saying you know every location from here to the ocean?
+I'm sure you've been many places, but you must have missed my tiny village.
+Ah well, to my regret, I have not. Which begs the question, how did you make that passage?
+It was pretty tough, but I made it.
+What's it to you?
+Look, all I wanted was a few supplies and things, but I will gladly go elsewhere.
+I don't need to answer you.
+Yes, hmmm, yes, yes. yes. I shall believe you...for now. But we do not trust easily, especially those who might be dangerous. Know that Seth and I will be watching you.
+It is my town, wanderer. You must answer my questions or leave. This is not a matter of choice.
+I don't have to tell you anything.
+I mean you no harm, really.
+Don't worry, I'm leaving.
+You are quite insolent. I believe you should leave. Do not return. You will not be welcome.
+So be it, wanderer. Seth will show you out.
+You must think me quite gullible, wanderer. You conquered the mountains by yourself?
+Doesn't matter how I think. It's true I came from the mountains.
+No, just stupid.
+As Dharma said, 'Caution is life in troubled times. Your origin is not the issue. Your intent is.
+Okay.
+AI will let you pass, but know this: Seth and I will watch you very, very closely. Do not even consider bringing trouble here.
+And keep them you may. But this is not a city of open hospitality. If you desire that, go to Junktown. You may enter, but know we have our eyes on you.
+A Vault. How shall I trust you, wanderer, when you are not honest with me?
+No, honestly, I come from a Vault!
+The Vault is . . . the name of my village.
+You're right, I was lying.
+Hmmm, yes, yes, yes. Then tell me of this Vault.
+Well . . . the Vault is actually the name of my town. We name it that because it's in between two big cliffs.
+It's a big place built into a mountain far to the west. My people have been there for the last  years.
+Why do you want to know?
+Wanderer, I shall believe you . . . for now. You may enter Shady Sands, but be warned your every move will be watched.
+I will not be lied to, wanderer.
+I don't have to tell you anything.
+I mean you no harm, really.
+Don't worry, I'm leaving.
+Hmmm. You may enter. But stay out of trouble.
+What can you tell me about the other towns around here?
+What's going on around here?
+Thanks. Bye.
+Greetings again, young wanderer. I hope your stay here has been pleasant.
+It's been great. Can I ask you some questions?
+It has. I gotta run though.
+If you like sewers.
+Nuh-huh.
+nGreetings. What may I help you with this fine day?
+bIs there something you want?
+Can you tell me about Shady Sands?
+I was wondering if I could ask you a few questions?
+Nothing, really, I was just leaving.
+Nuh-uh.
+Certainly. What do you wish to know?
+bYou may ask, but please hurry. There are more important uses for my time.
+What can you tell me about the other towns around here?
+What's going on around here?
+Thanks. Bye.
+gAh. Happy journeys, wanderer.
+nGoodbye.
+bI certainly hope so.
+Dharma said, 'A man and his wayward tongue are soon parted.' Come back when you have learned some manners.
+That is quite enough, wanderer. Seth will show you out of the city. Do not return. Your welcome will not be pleasant.
+gShady Sands is much like a family, one that keeps to itself.
+bWe are a very protective community. As Dharma said, 'Many sticks can be broken. A bundle cannot.'
+What kind of things do you have around here?
+Interesting. Are there any other cities around here?
+How cute. Well, I better be going.
+The Gardens are on the south side. The Brahma Pens are north, although the smell is, I fear, quite intense this time of year.
+Anything else?
+aWe are small and self sufficient so there is little else to tell.
+Thanks. Can I ask you a few more questions?
+Thanks. Bye.
+bIt is a small place. You have feet.
+Thanks. Can I ask you a few more questions?
+bDharma said, 'Heed not the call of the wolf when the fox is raiding the hen house.'
+gJunktown lies south of here, though there is little in the way of visitation. From stories, I'm certain there are cities south of that.
+Thanks. I . . . Can I ask you a few more questions?
+It is a quiet time, thankfully.
+Sounds . . . boring
+Well, then, can I ask you a few more questions?
+Good. Hopefully it will stay that way for a while.
+Yes. We like it that way.
+What can you tell me about the other towns around here?
+What's going on around here?
+Thanks. Bye.
+Oh my yes. Great packs of Rad Scorpions are killing our herds. We don't know where they're from, and no matter how many we kill, there's always more!
+Go on.
+aAnd now the monsters are attacking my people! Razlo is trying to find a cure for their poison, but I'm not sure how it goes.
+Well, I'll help you get rid of these things!
+I can help you for a price.
+That's terrible. Can I ask you a few more questions?
+Ummm, yes, yes, yes, yes, yes! Please talk to Razlo. He possesses far more information on these creatures than I.
+As Dharma said, 'Those who tend their own flock, know the shepherd.'
+I know it's hard for you to trust, but I would like to help.
+Your choice. Can I ask you some more questions?
+aPlease hurry and rid us of those Rad Scorpions!
+Things are much more settled now. Razlo has been working on a cure for Rad Scorpion poison, and with that, we should be able to fight what's left of them.
+It was nothing. Can I ask you some more questions?
+You don't need to worry anymore. I destroyed the Nest.
+You are truly a hero! Know that the people of Shady
+Sands are most grateful.
+Thanks. Can I ask you a few more questions, though?
+Thanks. Bye!
+If you can understand me, please try to find my daughter.
+Since you brought my Tandi back to me, things are quite fine. My eternal gratitude to you, wanderer.
+What can you tell me about the other towns around here?
+What's going on around here?
+Thanks. Bye.
+Yes, yes. Umm. Have a good stay.
+Ahh, wanderer. How goes the search for my daughter?
+Sorry, but I haven't found her. I will, though.
+I'm sorry, but she is dead.
+Duh-nada.
+Sorry, but I haven't found her. I will, though.
+Slow, but I am making some progress. Can I ask you a few more questions?
+Guunngggg!
+aThank you for trying. Please leave me to my grief.
+May my thoughts be wings to your feet. Please hurry.
+Thank goodness you came! I am in desperate need of assistance. My daughter, Tandi, is missing. I do not know what to do!
+Have you tried to save her?
+Uhh?
+aMy people are not skilled in this. Already three patrols have gone out to look, but none returned. Will you help me?
+Okay. Who could have taken her?
+I'll do it . . . for a fee.
+I am sorry, but I have other things I have to do.
+Seth and I believe one of the raider clans is responsible - retribution for our resistance to them. Take this spear. It was found where my daughter was last seen.
+Okay, I'll check it out.
+APlease, talk to Seth. He knows much about these raiders. And God speed, wanderer.
+Of course, I will reward you. Bring her and you will receive  in Hub Script. Will you help me?
+Okay. Who could have taken her?
+Ah . . . no thanks. I got other stuff I gotta take care of.
+As Dharma said, 'While you are out hunting the wolves, do not bring the lion to your den.' If you will not help, you must leave here.
+I will be forever in your debt for your courage and bravery, wanderer. Here is your reward.
+Thanks. Can I ask you a few more questions, first?
+Thanks.
+Until we meet again, my friend. May the water you find in the desert not shine at you in the dark.
+What are you doing? Put that back at once!
+That is not yours. Please do not take it.
+Stop that at once!
+What are you doing here? I am resting, come back in the morning!
+I am he. I lead this humble town of Shady Sands.
+ADharma was a great, religious man. You would do well to listen closely to his sayings.
+She is my daughter. It is she that makes this hard life worth living.
+Hmm, yes, yes. Razlo is our doctor. If it ails you, he can heal it. I would wager he is just a little north of here at this moment.
+A fine young man, Seth. Captain of our guards. He is likely to be at the Guard House. 
+A wonderful woman. She just celebrated her sixtieth birthday! She spends much time with Razlo, talking his ear off with her veritable treasure trove of stories.
+Ummm, um, um. Very bad. There are two bands of raiders that we know of. They call themselves the Vipers and the Khans.
+Be very careful with such as these. Raiders who are fanatically religious can be quite dangerous. No one here knows of their base.
+Umm, yes, yes. The Khans are nastier then the Vipers, let me tell you. These barbarians attack from the southeast.
+Mean creatures, they are. Be careful of their tail.
+Their poison can be lethal if not looked after.
+Yes, yes. yes. It is a rumor of a monster created during the War.
+Junktown is south or here. Their merchants occasionally come to trade, but not often.
+The Vipers and Khans both use spears. We know this from their attacks.
+You will find it at the front of town. Seth will likely be there.
+No one knows for certain, but the packs seem to be coming from the northeast.
+I don't know.
+I can't really say I have heard of that.
+Hm, no. No, I have not heard of that.
+As I said . . .
+Like I mentioned earlier . . .
+Like I said . . .
+As I had told you before . . .
+I shall not repeat myself so often as to make myself sound stupid. Please listen next time.
+I will not stand here like a sputtering candle simply because you cannot listen.
+Go talk to Seth about that. He'll know more than I.
+
+I will not waste my time on treacherous outsiders.
+ tell me about generic responses
+I don't know.
+I can't really say I have heard of that.
+Hm, no. No, I have not heard of that.
+Aradesh
+Dharma
+Tandi
+Razlo
+Raiders
+Vipers
+Khans
+Scorpions
+Claw
+Junktown
+Spear
+Station
+Lair
+Scorpion
+Tower
+Seth
+
+I am he. I lead this humble town of Shady Sands.
+ADharma was a great, religious man. You would do well to listen closely to his sayings.
+She is my daughter. It is she that makes this hard life worth living.
+Hmm, yes, yes. Razlo is our doctor. If it ails you, he can heal it. I would wager he is just a little north of here at this moment.
+Ummm, um, um. Very bad. There are two bands of raiders that we know of. They call themselves the Vipers and the Khans.
+Be very careful with such as these. Raiders who are fanatically religious can be quite dangerous. No one here knows of their base.
+Umm, yes, yes. The Khans are nastier then the Vipers, let me tell you. These barbarians attack from the southeast.
+Mean creatures, they are. Be careful of their tail. Their poison can be lethal if not looked after.
+Yes, yes. yes. It is a rumor of a monster created during the War.
+Junktown is south of here. Their merchants occasionally come to trade, but not often.
+The Vipers and Khans both use spears. We know this from their attacks.
+You will find it at the front of town. Seth will likely be there.
+No one knows for certain, but the packs seem to be coming from the northeast.
+Mean creatures, they are. Be careful of their tail. Their poison can be lethal if not looked after.
+You will find it at the front of town. Seth will likely be there.
+A fine young man, Seth. Captain of our guards. He is likely to be at the Guard House. 
