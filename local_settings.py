@@ -30,12 +30,12 @@ SRC_URL = ['http://www.example.com/one', 'https://www.example.com/two']  # A com
 WEB_CONTEXT = ['span', 'h2']  # A comma-separated list of the tag or object to search for in each page above.
 WEB_ATTRIBUTES = [{'class': 'example-text'}, {}] # A list of dictionaries containing the attributes for each page.
 
-ODDS = 8  # How often do you want this to run? 1/8 times?
+ODDS = 0  # How often do you want this to run? 1/8 times?
 ORDER = 2  # How closely do you want this to hew to sensical? 2 is low and 4 is high.
 
 DEBUG = False  # Set this to False to start Tweeting live
 TWEET_ACCOUNT = "falloutebooks"  # The name of the account you're tweeting to.
 
 #Configuration for Twitter parser. TEST_SOURCE will be re-used as as the corpus location.
-TWITTER_ARCHIVE_NAME = "tweets.csv" #Name of your twitter archive
+TWITTER_ARCHIVE_NAME = "output.txt" #Name of your twitter archive
 IGNORE_RETWEETS = True #If you want to remove retweets
