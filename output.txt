@@ -358,3 +358,227 @@ No one knows for certain, but the packs seem to be coming from the northeast.
 Mean creatures, they are. Be careful of their tail. Their poison can be lethal if not looked after.
 You will find it at the front of town. Seth will likely be there.
 A fine young man, Seth. Captain of our guards. He is likely to be at the Guard House. 
+You see damaged Power Armor.
+You cannot use this until it is repaired.
+It seems to be missing a part that you can't find.
+It is obvious that you do not yet have the skill to repair this.
+You repair the armor.
+That does nothing.
+You fail to repair the armor.
+You gain 
+experience points for repairing the power armor.
+Kalnor, a Junktown guard.
+You'd better watch yourself here.
+This isn't a good town to get in trouble in.
+Behave, and we won't have to get nasty.
+You're OK.
+Keep up the good work.
+Nice day, isn't it?
+This is Junktown. Nice place to live, as long as you stay on our good side.
+Watch out for Gizmo and his cronies.
+I like my boss.
+You'd better put that away. Junktown is a friendly place, friend, and we want to keep it that way.
+Put what away?
+Don't tell me what to do, loser boy.
+Sounds fair. By the way, what is the local law regarding weapons?
+Uh, oh.
+Your weapon, idiot. Killian won't take your arms away, but you'd better damn well keep them in your holster.
+Oh, sorry.
+No way! I'm not putting down my shooters for nobody!
+You'd better behave, since it's the law, and I enforce the law. Put your weapon away. Don't draw it unless in self-defense and you won't have a problem with us guards. Disobey the law and we will return you to the lawless wasteland--dead or alive.
+Sure, since you put it that way.
+Bite your laws!
+Well, uh, fine with me. But you'd better be careful.
+Good you asked. No weapons can be drawn except in self-defense. If you start a fight, it's your fault. Other than that, it's your right to go around armed. Just don't pull a knife or gun without just cause. Have a good day.
+Hey you, no weapons! And I don't care if your momma dropped you on our head as a kid. No weapons.
+Hey! You! What are you doing sneaking around?
+Nothing.
+I'm not sneaking around. I just like to walk cautiously.
+Uhhh.
+Whatever you're doing, don't do it in this town.
+Hey! No shady characters in town! Get out of here before we throw you out!
+Well, uh, OK. Whatever. Just don't do anything out of line.
+Thanks, bye.
+Certainly. I will throw caution to the wind, sir.
+Certainly. I will throw caution to the wind, ma'am.
+You'd better watch your step around here, because we'll be watching you.
+Welcome to Junktown. What can I do for you?
+Nothing, thanks.
+What are you doing here? What is this place?
+Where can I get some supplies?
+Wa-wa!
+I dunno about that. You might want to check with Killian. He's to the north. That's up that way, OK?
+What does it look like? I'm a guard, and I'm keeping an eye out for strangers like you. And this place is called Junktown. Hey, don't laugh. I happen to like the name myself. We mostly do trading. Sometimes we trade with those stuck up bastards from Hub. Hey, you're not from the Hub are you?
+What? The Hub? Sure I am!
+Me? No, I'm not from the Hub.
+Then you must know most of the rules. Have a good day. And I am sorry about the bastards part, OK?
+Yeah! Hey, no problem. Bye.
+It's going to cause me some severe mental trauma. Later.
+Hmmm. OK. It's not our place to ask questions. Have a good day and don't make any trouble.
+Oh, heck. The place for that is Darkwater's. Killian runs it. It's a little to the north. Killian has the best supplies in town.
+Thanks. Bye.
+You wanna show me where you keep "your" supplies?
+Uh, no. Sorry, lady. I got work to do here.
+Have a nice day.
+Keep out of trouble.
+Boy, I sure hope my replacement gets here soon. It feels like I've been standing guard duty forever.
+I'm sorry, the gates are closed for the night. Come back in the morning.
+Hey, I need to get in!
+No problem. See you in the morning.
+I'm sorry to disturb you, sir, but I would like to enter your town. You can see that I would cause no harm.
+Hunh-huh!
+Come . . . back . . . day . . .
+Sorry, the rules are the rules. No strangers admitted during the night.
+Well, I shouldn't do this, but you seem like a nice enough person. Come on in, but don't make any trouble.
+Hey! It's you! Come on in, 
+. Good to see you again!
+Hey, you'd better turn right around and walk back out of here.
+Go on in.
+Hey buddy, can you spare some change?
+I'm tryin' to drink here!
+I don't feel so good.
+Man, I gotta get some work.
+Could you pass the peanuts?
+Not drunk enough . . .
+Jaeger . . . jaeger . . .
+You see Ton.
+You see a huge member of the Children.
+man
+woman
+[Done]
+[More]
+Sorry man, but you passed the point of no return with us. Time to slam off!
+Sorry woman, but you passed the point of no return with us. Time to slam off!
+Why would I want to talk with someone who goes around killing kids? Get out of my face!
+I hear you're pretty tough. But tough don't impress Ton. You got something to say or you wanna get it on? Let's do it!
+Peace, brother! I'm just checking the place out.
+I'm not interested in impressing you. You got something intelligent to say, say it!
+Get it on? Mister, I don't go for scrawny little boys.
+What do you want?
+You talk too much.
+You wanna die, and I wanna kill someone. Works for me.
+Waa!
+Man, I already talked to you! Take your shit somewhere else!
+boy
+girl
+Hey, you think your weapon's gonna earn you some 'spect? It's gonna earn you a grave, man. Put it away.
+Hey, you think your weapon's gonna earn you some 'spect? It's gonna earn you a grave, girl. Put it away.
+What do you want, you stupid zombie? Get outta my face before I break it.
+I was looking for someone smart enough to tell me what's really going on around this joint!
+What will the priests say if they hear you talking like this?
+Any time, pal. I've been waiting for a good scrap!
+Hey, what's the problem? A few drinks and we'll be buds!
+Did you know that even a child can apply enough pressure to the right spot in your kneecap to cripple you for life? Just thought you'd want to know.
+You wanna talk to Ton? Fine. But if I hear the word "praise," I'll kill you.
+You're not a big fan of worship services?
+What's your problem, pal?
+I want to speak with the man in charge.
+Sure thing. The only thing I feel like praising is a bottle of Rad Scorpion.
+Fine. The first one of us who says that word dies. Bargain?
+Hello, miss. I am Ton, , pounds of the Master's toughest fighter. I have also been evolved by the FEV into something that you need to check out. Let's get it on, baby.
+No way in hell.
+That's a little too fast. Let's get to know each other first.
+Hello. I've been evolved by the FEV so that anyone that annoys me dies. Stop annoying me, little man.
+Check it out somewhere else. Ton don't like your company.
+Fine. You want to play it straight? Sometimes killing's necessary. Sometimes I even like it. But I hear you love killing . . . all the time. Every time I've met a psycho, either he dies, or Ton dies. Ton is still here. So why don't you go elsewhere.
+Man, I could learn to like you. You're either an incredible asshole, or you got guts. Either way is fine with Ton, as long as you don't jam me up. You want to join up?
+Whatever happened to peace and love?
+What's involved?
+No way in hell, pal.
+I'll jam whatever I want, wherever I want. So let's kick out the jams!
+To see you suffer. Let's go, hombre, give me what I want.
+Beware of what you want. You may not like what you get.
+I'd rather be your friend.
+You aren't worth my time.
+Go ahead. Make the first move. The last one's mine.
+Fine. Talking's over. Make your move.
+I just wanted to talk.
+You're dead . . .
+Shit! You're dumber than the zombies! Just get out of here!
+The Master wants peace, and he wants us to get it for him, so we're going to have fun. Capiche?
+Yeah, but there's got to be more going on than just that.
+Does the Master really want peace or does he just want killing?
+Who is this Master?
+Sounds good to me.
+Screw the Master! Let's kill them all!
+It's not healthy to ask the wrong question, compadre. They have all the answers they want you to hear. People who ask the wrong questions, or people who screw up, well, they don't stay around here very long.
+I do my job. They like it when I do my job. They like it when street trash and Followers stop breathing. It lets the Nightkin do other things. Don't mess with me . . . it ain't healthy.
+What are you doing dressed like a zombie? If you got the 'tude, you gotta let it show!
+I don't care about the clothes, man. I just want to know what's going on here!
+They don't bother you as much if you don't look like they might want to convert you.
+None of your business, pal.
+I've been thinking of converting.
+It ain't 'tude. It's a way of death.
+We don't drink in here. Nightkin don't like it. You better get a few more clues before you talk to Ton again.
+You're crazy! I could almost like you, except that I have the feeling that people who hang around you don't live long. Get the hell out of here.
+You stand around this for months and you go crazy as them. What do you want from Ton?
+How'd these people get like this?
+I want sex and violence, without the sex. You know where I can get it?
+I am losing it in this zombie pit, and I don't need you helping me. Get the hell away from me.
+That's Morpheus. He stays upstairs, except to give sermons. He don't even do that much anymore. He's smart and he's a winner, and that's all that counts. Go see him for yourself.
+You need to go out into the Boneyard, pal. Ain't no slosh in here, and I've looked!
+Agree. What can Ton do for you?
+Bitch! You don't know what you're missing! Get out!
+Life is too short for that. Let me show you why you don't want to wait.
+But I want someone who knows what's going on.
+No thank you. But I wouldn't mind being friends.
+Get lost, you piece of trash.
+Sure.
+Life IS shorter than you think. Die, asshole!
+I'm not LITTLE, bitch!
+Who believes in that bullshit? They have to program these morons to believe in that stuff anyway.
+How did it happen?
+Really?
+What a bunch of losers.
+Tell me more about your posse.
+Okay, I'll join up.
+Someone should put them out of their misery. Like me . . .
+When we get the word, we go out and kill people. People like the Followers or some of the more dangerous gang types.
+So the Followers are a problem?
+This sounds pretty sick to me.
+Who needs the word? Why not just kill them?
+Fine. Do what you want. But I'd get out before it becomes unhealthy around here.
+You annoying little piece of shit. You're worse than a Junktowner, you coward. Get the hell out.
+What else is there to know? I get to eat well, sleep in peace and kill some of the people who used to screw me over. You want something more from life?
+Who knows? Who cares? I get to eat well, sleep in peace and kill some of the people who used to screw me over. You want something more from life?
+Hmmm, Ton never thought of that. But if they bother me too much, I break their face. Then they stop bothering Ton. What do you want?
+Converting? Well, good luck. You'll need it.
+Why would I need luck?
+That doesn't sound good.
+Thanks. You're a true friend.
+I don't need luck as long as I've got ammo.
+These people, these zombies, weren't always like this. I could even stand a few of them. Then they got converted. Some of them came out like this. Some of them didn't come out at all. Ton doesn't like it, but these people pay Ton well.
+Why do you keep jumping between first and third person?
+Tell me more about the conversion process.
+Did you go through the conversion process?
+This place is strictly low-rent.
+Really, how much?
+Nobody's gonna do this to me!
+You talk to Morpheus or to Lasher, or you can bother Ton, and Ton give you more violence than you can handle.
+Well baby, what's going on is that there are a lot of zombies chanting, a lot of people dying and the Children are going to take over everything. And there's you and me and nothing else matters!
+But Barracas, darling, surely there's more going on than that . . .
+Oh, Ton!
+Forget it, creep. You ain't my type.
+Nothing else matters? Hell no! I wanna hear about the dying part!
+Unfortunately, this is the worst place on earth to experience what Ton does best. Too many zombies cramp my style. I'll let you know when I think about some place more convenient . . .
+You'll find out soon enough what happens upstairs. If you tough, you get through it fine. It happened to Ton, and Ton is just fine!
+Uh . . . I didn't say anything. You forget what Ton told you or Ton will make you forget, permanently!
+They used to be whiners. But Ton talks too much. You get out of my face.
+Fine. You stay low-profile until I give you the word. Then we have fun.
+They're cowards. They set ambushes against our patrols. They send spies and saboteurs. They know they can't win a real fight. The Master says we should feel sorry for them, but Ton just want to kill them. Smart man, Ton.
+We need discipline, fool! We're soldiers now! We obey orders. Killers die, but soldiers win their battles. We're going to beat the Followers. We're going to beat EVERYONE!
+Who the hell knows? Maybe it's just Morpheus pulling the strings. Things are good, and if this dries up, Ton goes somewhere else.
+Well, don't get too eager. Even with the Nightkin, it's still tough fighting. But if we play it smart, we get out ahead. That's the only thing Ton cares about.
+The conversion isn't easy. You see these people, all these zombies? They used to be like you and me. Ton survived. These people didn't. But why should Ton care about you?
+You don't like the way Ton talk? Then Ton kill you!
+Ton go through it fine. I . . . uh . . . I . . . uh . . . Ton . . . Ton just fine.
+I used to be with the Dead Dog gang. Always hungry, always tired. This place is much better for Ton. Why should I worry about anyone else? Nobody ever worry about me.
+You greedy asshole! Get outta here before Ton kills you!
+Then get out of here now, before it's too late.
+Nothing important as you and me. Unfortunately, this is the worst place on earth to experience what Ton does best. Too many zombies cramp my style. I'll let you know when I think about some place more convenient . . .
+Why you manipulative bitch! Nobody screws with Ton like that!
+You have enraged Barry!
+You see Barry.
+Hey! Only ghouls get a water ration.
+I'm gonna get you for waking me up!
+The mutant ignores you.
