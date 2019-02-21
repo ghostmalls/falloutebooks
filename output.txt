@@ -805,3 +805,737 @@ Me hungry! Grrrrr!
 Terrible business. Those poor people. Oh, those poor people. Losing their lives in such a ghastly way! Is there anything else I can do for you? Like feed you, perhaps?
 Nothing, bye.
 Me go now.
+This is no time to sit down! Get moving!
+You see a teenager.
+You! You did it! When I grow up I'm gonna get you! I'm gonna hunt you down and kill you! You killed them all! Aaaaaalllll! [Uncontrolled sobbing].
+It was the only way. The only way to stop them.
+How in Hell did you survive the nuke?
+It's a lie, kid. I didn't do it!
+You'd better go find a doctor, kid. You've got radiation sickness.
+You know kid, I don't need some tough guy trying to take me out twenty years down the road. Say good-night, brat.
+I heard about you. You run around the Wastes killing kids! Help! Nightkin!
+You're mistaken, child. I'm a good man.
+Yeah, and if you don't shut up, you won't live long enough to have nightmares.
+I ain't here to bother you kid, so just be quiet.
+I do what? They not just small guys?
+Okay. I'll be quiet. But I hope the Nightkin get you!
+Nightkin! Nightkin!
+Maybe it was someone else. But if it was you, I'll find you one day when I get older, and I'll make you pay!
+Hello, sir. Do you need a meditation flower?
+Hello, ma'am. Do you need a meditation flower?
+Child, has anything interesting happened here lately?
+Of course, child.
+Not right now.
+Flower pretty?
+Get that weed out of my face, you little brat!
+I heard Father Morpheus had a visit from the Master himself. He's real happy right now.
+Anything else?
+I'll bet.
+Not right now.
+Flower pretty?
+Get that weed out of my face, you little brat!
+Father Lasher says I have to keep my big mouth shut. He's no fun!
+C'mon kid. Surely, you've seen something!
+Father Lasher?
+Fun good.
+Sounds like he and I have a lot in common.
+That's great! May the Master bless you. [He hands you a flower.]
+Aw! You're no fun. Maybe I should tell the Nightkin about you!
+The Nightkin are my friends.
+You're a little too young to understand how much fun I can be.
+Go ahead. And I'll tell them about you.
+You start telling anyone about me, kid, and you're dead!
+Sure is. I picked it myself from a grove across town. Well, it was nice meeting you. May the Master bless you.
+What'd I do? What'd I do?!
+Are you sure you don't want a flower?
+I'll take it if you tell me what's going on around here.
+Fine. I'll take it.
+Sorry kid. I'm not a flower kinda guy.
+Sorry kid. You're a little too young to be giving me flowers.
+I dunno. Why you ask?
+I can't tell you that! The Nightkin would eat me!
+He's my teacher. He says every lash we receive brings us closer to the Master!
+What a charming man. We really must talk.
+Don't believe him kid.
+Where is this bastard? I'll kill him.
+Teacher? What need teacher?
+And you still haven't learned when to shut up? You must have dung for brains, kid.
+Uh, bye!
+Yeah. It is. Well good-bye_ ur_ may the Master bless you!
+But the Nightkin like me! They told me that if anyone bothered me, they'd kill 'em. So there!
+I heard there's a secret passage around here, but I haven't found it yet. Supposed to be real dangerous. Only Morpheus and the Nightkin are allowed there. Well, I'd better go. Praise the Master!
+That's too bad. May the Master bless you anyway.
+Please don't tell him I said anything to you! Please!
+Don't worry. When I'm through with him, he won't remember a thing.
+I won't. I promise.
+Mind your own business, kid.
+Rar! What you say?
+Life is tough. Learn to take it, kid, and quit whining.
+But I must! I must! Disbelief is pain!
+Please don't! He loves me! He's the only one who does.
+That's okay, I guess. May the Master bless you. Bye.
+Thank you! Oh thank you! May the Master bless you. Bye.
+Okay I will . . . (sniff) Maybe Father Lasher will be more kind to me after the Master takes over the world.
+And when's the Master going to take over the world?
+Tell me more about this, kid.
+He won't be. He'll get worse. But if you're smart, make yourself her favorite and he'll let you torture the new kids that come in.
+Ugh! Me like kindness.
+Soon, or so they tell me. We're going to have peace, and unity and the Holy Flame will be lit. And maybe Father Morpheus won't be quite so loud, either.
+Anything else?
+Father Morpheus?
+Loud sucks!
+Uh, I really don't know very much. Honest. Bless the Master! Bye!
+Hi. How are you?
+Fine, kid. What's the good news?
+Okay. So you got any dirt for your old friend?
+Pretty good. How about you?
+I dunno. Bored.
+I feel lousy. Do you know how long it's been since I killed anything?
+Uh, hello.
+Hello kid. Can you tell me what this place is about?
+Hi kid. What're you doing in this joint?
+Hi kid. How're you doing?
+Out of my face, brat, or I'll turn you into a belt!
+Hello? Rhyme with yellow! Funny!
+This is the Cathedral of the Children of the Cathedral.
+I don't know why they say Cathedral twice. We worship the Master, and we yell a lot about Peace and Unity. It sounds kind of dumb, but the Master's real smart, so I guess it must be okay.
+Tell me more about the Master.
+Sounds dumb to me, too. What are you doing here?
+Don't talk about your elders that way, okay?
+What kind of a brainwashed little fool are you? You're going to grow up to be one of these zombies! I should kill you now!
+I give out flowers. Every petal is peace, and the stem is unity. Or are the petals unity and the stem peace? Oh no, I don't remember! Do you want one?
+I'll take one if you tell me what's going on around here.
+Sure.
+No, thanks.
+Screw peace. Screw unity. And get that flower out of my face!
+Father Lasher says I shouldn't talk to strangers . . . until we have Unity, of course; then nobody'll be a stranger. Bye!
+I'm okay. At least until Father Lasher's next lesson.
+Maybe if you studied harder, the lessons wouldn't be so bad.
+Tell me more about Father Lasher.
+What kind of lesson?
+Stop whining, you little brat, and be grateful that somebody's bothering to teach you!
+I never do good enough! Never!
+[done]
+You see a Chanter of the Children.
+The Master will forgive your sins! Join us and be free! Praise to the Master and his mercy!
+Hello, friend! The Master's vision has made me truly alive for the first time. May I share my wonderful story with you?
+Where might I meet this Master?
+Go ahead.
+Who's in charge here?
+Master's Vision? Is it better than Rad Scorpion Juice?
+Does it end in death? If not, I can change that!
+Me like story!
+The Master looks above! The Master sits below! Watch the Peace and the Unity grow!
+There was once a man who was so full of hate that he nearly died. But now . . . Praise the Master! Praise the Holy Flame! Praise the Vineyard of Life! Whee!
+You are in charge, friend, but the Master is your guide. Praise the Master! Praise the Holy Flame that lights our way!
+The Master's vision is much better than any drink, or even sex! Ohhhh! He transcends both vice and virtue! Ahhhh! The Master is both father and lover to us all!
+No story ends in death, as long as the Master is here to protect us!
+But I must praise the Master! Farewell, my friend! I'll tell the story later!
+But I must praise the Master! Farewell, my friend! I'll tell the story later!
+You see a small child.
+Hi!
+Hello.
+Where are your parents?
+Erf.
+I dunno. Around here somewhere.
+You're funny!
+Hey, are you gonna kill someone?
+Yes.
+No!
+Erf.
+I'm gonna tell my mommy!
+Then you shouldn't carry around a weapon like that.
+Huh?
+I da know. Ask mommy.
+Ask daddy.
+Wah! Nightmare monster!
+Big meanies!
+I da know.
+Big stinkies.
+Ask mommy.
+Funny sea songs.
+Big meanies!
+Bad man.
+I'm not tellin' ya.
+Big city.
+I'm not tellin'.
+Nope, not gonna tell ya.
+Mommy doesn't want me to talk about him.
+Daddy thinks he's funny.
+Big peoples.
+They have those stinkies that pull them.
+Nice people. They give me candy.
+They don't like to play hide and seek.
+Scary place.
+Yucky place.
+Scary place.
+Scary place.
+Mommy won't let us play there.
+Daddy keeps telling us to play there.
+Big people area.
+Big people area.
+Moo.
+Moo!
+Moo, I say.
+It's a wild Brahmin.
+There is nothing natural about these cows. The second head can only be the result of some strange mutation.
+Looks pretty normal to you.
+You see a weather-beaten farmer.
+Good day.
+Hello.
+Hubip.
+Hello again.
+What can I do for you?
+What's your name?
+What can you tell me about your village?
+What are you doing?
+Nothing, thanks.
+I am called Curtis.
+Our village is small, but we support ourselves. Aside from the attacks by raiders and the occasional Rad Scorpion, we have no problems. Aradesh is a good leader.
+I am a farmer. We irrigated the desert many years ago. Although the wasteland is harsh, it is possible to grow things with patience and time.
+I see. You seem to be doing pretty well.
+*You have all of your fields planted right now? You could
+probably do better with crop rotation.
+Crop rotation? What's that?
+Never mind.
+You only plant some of your fields, allowing the others to get back some of the nutrients that the plants used up. You let the other fields become fertile again by just tilling up whatever grows there.
+Huh. Never thought of that. Makes sense, though. Good idea.
+an I ask you another question?
+You gain  experience points for helping to improve the agriculture of Shady Sands.
+Decker has no wish to talk to you any more.
+You see Decker.
+Decker is too busy to speak to you. Do your joband come back later.
+So. You're looking for a job. How fortunate. I have one that needs doing. Ahh, but where are my manners? What's your name?
+I am 
+.
+What business is it of yours?
+Well, the pleasantries are now concluded. Do you wish to hear about the job?
+That's why I'm here.
+Not particularly.
+Background: There's a certain merchant who's . . . how to phrase this . . . not cooperating fully with the Underground.
+And the job?
+Quite simple. Hunt down the merchant and his wife and exterminate them. 
+You mean kill them?
+How much for the job?
+I can't do that!
+All a matter of semantics, but yes. Kill them. Will you take the job?
+Umm, sure -- why not?
+No! That would be wrong!
+How much?
+Oh, excellent. The standard pay is  Scripts to open, and another  . . . to close.
+Where can I find this merchant?
+They live in the Heights, on Barter Street and Thunder Avenue. Complete the job and return.
+Okay, I will.
+How will you know I killed them?
+I don't think so.
+Quite excellent. My assistant will renumerate you on the way out. Please, close the door behind you.
+Trust me. I'll know.
+Okay, I'll do it.
+Pass.
+I must confess feeling a bit . . . disappointed in you. But these things happen. You will remember this is confidential. Good day.
+It's standard pay.  caps to start, another  when the job is done. Will you do it?
+No, thanks.
+Yeah, I'll do it.
+Very nice. The merchant lives in the Heights, on Barter Street and Thunder Avenue. Your initial pay will be handed to you on your way out.
+Everything is my business in the Hub. Either tell me, or you may leave.
+My name is 
+.
+I'm not telling you anything.
+I see . . . My assistant will show you to the door.
+I'm very proud of you. You're ruthless, an attribute I admire. Kane will give you your payment. I hope you're available in the future.
+Can I ask you a few questions?
+Thanks.
+Under the circumstances, yes.
+What's in the Hub?
+Heard any rumors?
+Nevermind.
+bKeep it brief, please.
+The Merchant Market is in the center of town, surrounded by a number of establishments. You have the Heights to the west, and Old Town to the east.
+What kind of establishments?
+Thanks for the information. Can I ask you a few more questions?
+You're in the Maltese Falcon. There's also the All in One Store, the Armory, the Friendly Lending Company, the police and, unfortunately, the Children of the Cathedral hospital.
+Doesn't sound like you're a fan of the Children. What's up?
+Thanks. Can I ask you some more questions?
+They . . . encroach. Let's leave it at that, shall we?
+Okay. Can I ask you a few more questions?
+I'm not a tour guide. Go see for yourself.
+Can I ask some more questions?
+True. Tour guides would be much nicer.
+No. Please get your payment and leave.
+Pardon me? 
+You heard me.
+Nothing. Can I ask you some more questions?
+You are arrogant. My assistant will show you through . . . I mean . . . to the door.
+No.
+Well, can I ask you something else?
+You're a cranky guy.
+Someone appears to be stealing whole caravans from the Far Go Traders. And the Thieves' Circle is causing their normal minor difficulties.
+# Line  has been changed due to gender issues. See lines -.
+
+Sure.
+No way in Hell!
+Excellent. You see, the last job I gave you was a test and you did exceedingly well. Now comes a job of importance.
+Which is?
+Sounds scary. I don't think I'm interested.
+As you may know, the Children of the Cathedral have been gaining influence in this town, and frankly, I won't stand for it.
+So what do you want me to do?
+A small matter. Kill the High Priestess, Jain. Once she's gone, this little nuisance will be ended. Interested?
+Absolutely.
+But that would be immoral!
+I believe I'm beginning to like you. The pay is  up front and  upon completion. And trust me, I'll know when it's done.
+Okay.
+Talk to Kane on your way out. He'll provide you with details.
+And killing the merchant wasn't?
+Well, all right, I'll do it.
+I don't care. I won't do it.
+The pay is  in advance and  upon . . . execution. And trust me, I'll know when it's over.
+Okay.
+# Line  has been changed due to gender issues. See -.
+
+What a pity. Are you certain you won't even hear what the job is?
+Yep, I'm not gonna do it.
+Okay, what is it?
+Then we have nothing more to discuss.
+Exceptional job. I believe the religious faction shall not interfere anymore. Speak with Kane for your reward. My thanks -- and I will certainly keep you in mind in the future.
+Put that down.
+I am quite a patient man, but even I have limits. Kane, teach this simpleton a lesson.
+Stop that.
+Talk to Kane about that. He can tell you more.
+As I said . . .
+Like I said . . .
+I already told you . . .
+Weren't you listening to me? I said . . .
+Be advised: I am unaccustomed to repeating myself.
+I will not say that again.
+You have no need to know anything else about me.
+Most people do not bandy the name of my organization around lightly. We control the Hub.
+My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.
+They steal from the merchants and give to the poor, or some such nonsense. They are inconsequential to me. That old mutant, Harold would know more.
+He's the head of the police. Nice guy, if you like the straight arrow, honest type. Not like his father; now there was a loyal man.
+Harold's been around for some time. He's over in Old Town. A good source for certain types of information.
+They control the water. Go to the south end of the Merchant Market, you'll find them there.
+He's the head of the Water Merchants.
+They used to control the hospital until the Children took over. Now they sit and brood in their warehouse - very strange. You will find them at the northwest end of the Merchant Market.
+He's the head of the Crimson Caravan.
+They're the last of the merchants, and I mean that literally. Small time stuff, mostly. Look northeast of the Merchant Market.
+Amusing. He considers himself the leader of the Far Go Traders. More of a figurehead, actually. He knows better than to interfere with my business.
+She's in charge of the Weapons Store.
+Something is making the Far Go Traders' caravans disappear. I'd like to know the cause, since it does disrupt a piece of my business.
+It's in the center of town.
+Myths and legends. The Death Claw is supposedly a ghost or something.
+Old Town takes up the entire east side. The skags live there.
+Most merchants live there. Simply go west from here.
+An annoying organization. Soon they may need a demonstration in the management of power.
+Morpheus is the head of the Children of the Cathedral. He resides down in the Boneyard.
+She's presently the head of the Children of the Cathedral in the Hub. I've reason to believe that may change soon.
+One of the fabrications of the Children. He's supposedly some minor deity, or something.
+It's a small place that sells . . . fair weapons. Over by the Far Go Traders.
+Just out the door and to the north. You can't miss it.
+That's not important.
+What? That isn't important now.
+Really. Now why would I want to do that?
+I see you have disposed of my Second. I will have to take care of you myself.
+How good to see you Sheriff Greene! I see you've come to say your goodbyes.
+Good day again, my friend. I have another job for you. Are you interested?
+Good day again, my friend. I have another job for you. Are you interested?
+And I had such hopes for you! But I can't have you warning the Children. Kane, remove our friend here and pass along some instructions on silence.
+And I had such hopes for you! But I can't have you warning the Children. Kane, remove our friend here and pass along some instructions on silence.
+That's not important.
+What? That isn't important now.
+You see a dying mutant.
+The mutant is near death.
+You see the body of a mutant.
+The mutant is dead.
+It was so fast... My brothers were gone... Could not help...
+Who are you?
+I, I'm... I can't remember... Was the leader of... It... Maybe my holodisk... [The mutant weakly hands you a bloody Holodisk]
+Where did you come from?
+We... We were scouting for primes... Came from... From the northwest.
+Who sent you?
+Father... Where are you father?... Yes Master... [The mutant breathes his last breath and collapses]
+Uhhhh.... Arrgghh....
+Master....
+Brothers... Where...?
+I don't want to talk to you.
+Go away.
+Leave me alone!
+Someone should do something about you.
+Get out of here, you asshole.
+I want nothing to do with you.
+Although the fruit here appears abnormal, you recognize it and recall that it has healing properties.
+What do you want?
+Leave me alone.
+What?
+Don't mess with my stuff.
+Hi.
+Arrrr!
+Grrrrr!
+Uungh.
+Uhh.
+Hey, did you hear that Set was offed?
+Set's dead. Set's dead. Set's dead . . .
+There's enough water to go around for everyone. Set makes sure of that.
+I heard that the mutants got run out of town.
+Ever since the mutants left, it's been better.
+Hello.
+You examine the pitiful thing, but can not figure out what might have made it the way it is.
+It seems to have been human once, or at least descended from humans. You guess that the deteriation in the body is most likely due to acid or radiation.
+The body of the humanoid looks to be highly irradiated, but still functioning. While it was once human, it seems to have reverted to a more animalistic lifestyle.
+The body of the humanoid looks to be higly irradiated, and much of the muscle and brain matter seem to have deteriorated. However, genetic indicators lead you to believe that it desceded, like you, from those that entered the Vaults.
+You have been radiated!
+Stop!
+Die, human!
+To the death.
+You will pay for your sins!
+You are not supposed to be armed in this area, little brother. Explain yourself.
+You are not supposed to be armed in this area, little sister. Explain yourself.
+Hngg.
+It's okay, I work here.
+It's okay, I have a pass.
+I am armed by permission of the Lieutenant.
+What manner of treason is this?!
+Show me your pass, then.
+I, uh, left it in my other robe.
+It's right here, stapled to the front of my gun.
+Hurry on your task then, but be warned, I'm watching you.
+Yes, little brother. What is it that you need from me?
+Yes, little sister. What is it that you need from me?
+Hng!
+Hmm, where's this Master guy?
+Praise to the Unity, brother.
+I am sorry, but you will have to find the way to Unity yourself.
+You are obviously a heathen! Pay for your sins!
+He resides on Level , as he must. Why do you ask such a silly question?
+Oh, uh, no reason.
+I am going to kick his ass from here to, uh, someplace really far away!
+What question? I said 'Hail to the Master, goodbye.'
+You insult me! Die!
+Praise to the Unity.
+You sound like you do not believe what you say. Could this be true? Or have you left the path of righteousness?
+You mistake the tremor in my voice for fear when it is actually a cold of some sort.
+I think your kind is doomed, actually. Here, let me prove it with some help from my friends . . .
+When you become one of us, you will not fear such minor things. Begone.
+What do you want this time? I have little time for your talk.
+Labbo!
+I have little time for your life . . . Die!
+Nothing, sorry.
+Praise to the Unity, brother.
+Just who are you? Let me see . . . Argh! An intruder . . .
+Move along. Do your part for the Unity and stop bothering me!
+Get going.
+Move along. Do your part for the Unity.
+Stay out of our way!
+Kill or be killed!
+Enjoy your victory, and pray to your gods that we never meet again!
+I have no time for talk!
+ Beth is female. She speaks with a normal accent. She is a friendly person
+ who is mostly interested in selling equipment and information.
+You see Beth, owner of the Weapon Shop.
+Hi there. How can I help you?
+Can I ask you some questions?
+Could I ask you some more questions?
+I want to buy something.
+I have something to sell.
+How does someone make money around here?
+Nothing. Bye.
+Ruk?
+What's the word out on the street about the missing caravans? 
+ the Deathclaw is male
+What do you know about the Deathclaw?
+Could you tell me about the Deathclaw again?
+ Decker is male
+What can you tell me about Decker? 
+What can you tell me about the different merchants?
+Have you heard any good rumors?
+Thanks, that's all. Bye.
+Umm, never mind.
+ Jain is a female religious figure
+Well, I'm not one to gossip, but I heard that Decker's death is somehow related to the assassination hit on Jain.
+ The Maltese Falcon is a bar
+Well, I usually don't talk behind people's backs, but I know someone who knows someone that says that they saw three
+extremely large robed figures go into the Maltese Falcon right before the murders.
+ the Children of the Cathedral is an organization - religious
+Well, I usually don't talk behind people's backs, but someone killed Jain, the High Priestess of the Children of the Cathedral. I don't care for them myself, but I don't know what she could have done to deserve that.
+ The Brotherhood of Steel is an organization - religious
+Well, I usually don't talk behind people's backs, but a merchant friend of mine saw a group of mutants wandering around in the desert up past the Brotherhood of Steel, far to the Northwest.
+Well, I usually don't talk behind people's backs, but the Children of the Cathedral have been asking people where you are. I'd be careful. They're a strange bunch.
+Well, I'm not one to gossip, but I heard that Decker's death is somehow related to the assassination hit on Jain.
+There is something else. I know someone who knows someone that says that they saw three extremely large robed figures go into the Maltese Falcon right before the murders.
+There is something else. Someone killed Jain, the High Priestess of the Children of the Cathedral. I don't care for them myself, but I don't know what she could have done to deserve that.
+There is something else. A merchant friend of mine saw a group of mutants wandering around in the desert up past the Brotherhood of Steel, far to the Northwest.
+There is something else. The Children of the Cathedral have been asking people where you are. I'd be careful. They're a strange bunch.
+Anything else?
+Thanks, can I as you another question?
+Okay, thanks.
+I'm sorry, what was that?
+ Klug and Ruk are a stupid person saying something incomprehensible
+Klug?
+Ruk!
+I'm sorry, I don't understand. Please come back when you are feeling better.
+ The Merchant Market is a location
+Well I'm not hiring but there's a job post in the center of the Merchant Market, you might want to check there.
+Okay, thanks.
+No, nothing good at least. Give me a chance to do some digging. <She winks at you>. Anything else?
+Yes.
+No.
+What else can I do for you?
+Of course you can, don't be silly.
+Why sure, I'd be happy to help. What did you need to know?
+All right. Well it's been nice talking to you, have a nice day.
+No, that's all. Was there something else you wanted to talk about?
+Yes.
+No.
+Well come back soon. Don't be a stranger.
+Now there's someone you don't ever want to mess with, he scares me. He 'owns' the Maltese Falcon.
+Why did you say it like that? He 'owns' the Maltese Falcon.
+Why does he scare you? 
+Sorry, it just reminds me of a friend that used to own it before him. Decker wanted it really bad, but my friend wouldn't sell. Two days later they found him dead in a back alley of Old Town.
+Why do you think Decker's responsible?
+Well he should have known better than to mess with Decker.
+Sorry, but I have to go.
+My friend was a clean freak. He wouldn't come within a hundred yards of Old Town. He was shot with a Magnum; no one in Old Town could afford one of those. Plus, he was shot once in the head and twice in the back. Does that sound like a robbery? My friend was just trying to get his life back.
+Hey, I like his style. After you kill him, put his body in the place he despises the most.
+Get his life back?
+I'm sorry to hear that.
+Oh, okay.
+You probably don't understand, but most of us look forward to the day when we own our own lives. When our lives don't belong to the merchants or the money lenders.
+Oh, thanks.
+Don't you ever stop talking?!
+That's the dumbest thing I've ever heard!
+Is there anything else I can do for you?
+Well, excuse me. YOU asked.
+He's the deadliest person in the Hub; most say that he runs this place, not the merchants or the police. If you ever cross him, watch out.
+That gives him no right to kill anyone.
+You make me sick, please leave. I'm sure he's missing your company.
+Well, there are three main merchant groups. There's the Water Merchants, the Crimson Caravan, and the Far Go Traders. They also run the city council. What do you want to know about?
+The Water Merchants.
+The Crimson Caravan.
+The Far Go Traders.
+The City Council.
+That's all. Thanks for the information.
+Actually, never mind.
+They're in charge of all the water. Greedy people, I wouldn't want to work for them. Their pay is the worst and the jobs are just as bad.
+Did they always control all the water? 
+Are they the ones behind the missing caravans?
+Thanks, another question about the merchants . . .
+Thanks, bye.
+What else would you like to know about?
+No. From what I've heard, a while back a group of merchants seized control of the water tower and proclaimed that they were the water merchants and people had to get water from them. The merchant war raged on for years until a man named Roy Greene - yeah, Justin's Grandfather, that's it - helped to negotiate an agreement that ended the war.
+What kind of agreement?
+Damn! Sorry I asked.
+Thanks, another question about the merchants . . .
+Thanks, bye.
+Well he set up the city council and set a limit on the price of water. Personally I think they should have beat the tar out of them - oh, sorry. I mean they should have showed them who's boss.
+Great. I didn't need quite that much information but thanks just the same.
+Thanks, another question about the merchants . . .
+Thanks, bye.
+Sorry I tend to get carried away with myself. Was there anything else you wanted to know about?
+The Crimson Caravan are a bunch of crazy people. They will do any job, no matter what the risk. I'm surprised they aren't missing more caravans than they are.
+They're missing caravans too?
+How risky?
+Thanks, another question about the merchants . . .
+Thanks, bye.
+They will pass right through an area known to be attacked by raiders. They charge a lot so they can hire extra hands. The pay's great but you have to be alive to spend it, right?
+They're missing caravans too?
+Thanks, another question about the merchants.
+Thanks, bye.
+Actually all the merchants have had a few caravans disappear. The Far Go Traders are just unlucky, I suppose.
+How risky?
+Thanks, another question about the merchants . . .
+Thanks, bye.
+The Far Go Traders pay well and their jobs aren't too deadly. Butch owns this shop, a good man. They're fair and let me do as I please with the place; I like working with them. Plus you get a discount on anything you buy here if you work for Butch.
+Personally I don't think so. I think it was the Deathclaw or maybe the Brotherhood of Steel.
+Why don't you think it's the Water Merchants?
+What exactly is a Deathclaw?
+Could you tell me about the Deathclaw again? 
+Who are the Brotherhood?
+Why do you think it was the Brotherhood of Steel?
+Thanks, let's get back to the merchants.
+Okay, well I got to go.
+Some people think the Water Merchants are responsible, but I don't think so. I think it was that darn Deathclaw, or maybe the people over at the Brotherhood of Steel.
+Well, I thought that it was destroying the caravans, but I guess not. It's still out there though. There are too many rumors floating around for it not to exist.
+I think that's what's taking the caravans. It could also be the Brotherhood of Steel; they're a strange bunch. Some people think it's the Water Merchants, but they're wrong.
+Sure.
+Because, like I've been telling everyone, they've had a few caravans disappear too. Nothing like what's happening to the Far Go Traders, but they are being affected.
+They could be lying or it could be part of their plan to make you believe them.
+Why would it happen to the Far Go Traders more than the others? 
+Another question about the missing caravans . . .
+Thanks, let's get back to the merchants. 
+You're full of crap!
+Thanks, but I have to go.
+Excuse you! You're awfully quick to judge, are you afraid of the truth?
+There are six representatives two from each of the main merchant groups. Everything needs at least four votes to be passed. They can never agree on anything.
+Good thought, but I highly doubt it. They've been sabotaging each other for years, but this is not their style. They wouldn't spend that much money to take out the caravans. Plus all the caravans are very heavily guarded. You would think someone would escape. They don't have the man power or the cash to pull that off. There would have been at least one survivor.
+Yeah, but why would it happen to the Far Go Traders more than the others?
+Another question about the missing caravans . . .
+Thanks, let's get back to the merchants.
+Thanks, but I have to go. 
+Bad luck? I don't know, maybe they're traveling along different routes than the others. Maybe because they aren't as heavily guarded as the Crimson Caravan but . . . they might have better cargo than the Water Merchants. Who knows. There doesn't seem to be any clear difference between
+the three.
+The Water Merchants could be lying or it could be part of their plan, to make you believe them. 
+Another question about the missing caravans . . .
+Thanks, let's get back to the merchants. 
+You NEVER stop talking do you!
+Thanks, but I have to go.
+Excuse me! You're free to leave at any time. If you didn't want the answer you shouldn't have asked.
+The Deathclaw is the most evil thing to rise out of the ashes after the War. Some say it's a powerful ghost from the war that haunts the land. It's no ghost, it's as real as you and me. It's  feet tall with teeth as big as your arm. It's some kind of demon that found it's way here when the world was engulfed in fire.
+Uh, sorry I asked.
+You're crazy! I should just end your misery right here and now.
+Do you know anything else about the Deathclaw?
+Wow! Do you know where it is?
+Well, I know this old mutant in Old Town named Harold. He's seen it. He's the 'only' one that's seen it and lived.
+The only one that's seen it and lived?
+Yeah, sure, and I'm the Deathclaw's daddy
+Yeah, sure, and I'm the Deathclaw's mommy.
+Another question about the missing caravans . . .
+Thanks, let's get back to the merchants.
+I'll check it out. See ya.
+Uncle Slappy over in Old Town talks about it sometimes, but he's just a crazy old fool.
+Another question about the missing caravans . . .
+Thanks, let's get back to the merchants.
+Thanks. I'll check it out. Bye.
+You'll see!
+Yeah, pretty amazing isn't it. It's down to the southwest somewhere. There's an old mutant in Old Town named Harold who actually saw this thing in its lair. Nicest Skag I know.
+Another question about the missing caravans . . .
+Thanks, let's get back to the merchants.
+Thanks. I'll check it out. Bye.
+The Brotherhood of Steel is full of crazy people that worship technology; they're to the northwest of here. They make human sacrifices and do all sorts of other terrible things.
+That's absurd! Who told you that?
+Another question about the missing caravans . . .
+Thanks, let's get back to the merchants.
+That's terrible, thanks for the warning. Bye.
+Well, um. I don't remember, but who ever it was wouldn't lie . . . I mean, it might be true! You should be careful just the same.
+Another question about the missing caravans . . .
+Well, let's get back to the merchants.
+You're an idiot!
+Look at the time, I've got to go! See ya.
+Why, you don't know? [whispering] I heard that they make human sacrifices and do all sorts of other terrible things!
+Yes, we do. What's wrong with that?
+As a 'MEMBER' of the Brotherhood, I can ASSURE you that NOTHING like that is going on!
+Really? I've been there, they seemed strange but not that bad.
+Really? I had no idea.
+Like you don't know. You're obviously one of them, walking around in that metal suit. You're all a bunch of sick people.
+I don't know what you're getting at, but I can assure you nothing 'sick' is going on at the Brotherhood.
+Yeah, so. Aren't we all?
+I had no idea.
+Excuse me, sir. Please put your weapon down.
+Excuse me, ma'am. Please put your weapon down.
+I'm sorry but I won't help you unless you put your weapon away. This is a shop not an arena.
+Uhh . . . well, yeah . . . umm You . . . I . . . Is there anything else you needed?
+You never know what a person's really like behind closed doors. You've got to be careful with who you associate yourself with. Was there anything else you needed?
+ Not believing the player for a moment, then getting nervous
+You're a . . . ? I mean. I didn't mean . . . Umm . . . Lovely day we're having. Don't you think so? So, was there anything else I can do for you?
+Another question about the missing caravans . . .
+Thanks, let's get back to the merchants.
+No, that's it. Bye.
+Sure, whatever you say. Was there anything else that I can do for you?
+Great! Let me show you what I've got.
+I've got the best goods, what are you looking for?
+That's what I like to hear! What do you need?
+Let's get down to business.
+If you've got money, you've got my attention.
+My favorite kind of customer!
+You want to buy something? Maybe I was wrong about you.
+Oh, that's right. You're working for Butch, you get the % discount.
+I'll still give you the % discount, because I like you.
+Sorry, you don't get a discount anymore.
+Show me what you've got.
+Do you have anything good?
+Well, let's see.
+Sure.
+What do you have for me today?
+That's great. I can always use more merchandise.
+I'd be happy to take a look at what you've got.
+Don't try to rip me off.
+I might let you sell me something, it better be good.
+You better not be wasting my time.
+I hope you have something I need, this time.
+Hello again. Nice to see you. How can I help you on this fine day?
+Why hello! It's nice to see you again. What can I do for you today?
+I wish I could get a day off, it's been so lovely out.
+Why hello again, aren't we looking handsome today?
+Back so soon? 
+You just left. Miss me already?
+Need something already.
+Long time no see, what can I get you today?
+It's been a while, I hope you've been well.
+Still alive I see. I was starting to worry. What can I get you today?
+There you are. It's been more than a week since you last stopped in. You must stay in touch, you ARE my favorite customer!
+Yes?
+What?
+Are you hear to buy something or what?
+This is my shop, you better behave.
+What is it!
+You again?
+Time is money, what is it?
+Did you need something?
+Did you hear? He's dead! I'm overjoyed! That's the best thing that's ever happened to this city.
+I already told you. He's dead! Let's just forget about him, his name brings back bad memories.
+Oh, yeah.
+Yeah, he deserved it and I don't feel bad about doing it.
+ Sid works for Beth. Sid is male.
+You did it? Really? I love you! [Beth looks over at Sid] Don't even think about it wise guy . . . Here, to show my gratitude . . . [Beth gives you six stimpaks. It's not much, but I really appreciate it!
+You did it? Really? You're the best! You have no idea how happy I was to hear that he was dead. Here take these . . . [Beth gives you six stimpaks.] It's not much, but I really appreciate it!
+Sorry I don't have anything you like.
+Don't see anything you like? I'll try to get better goods.
+Sorry if you didn't like my offer, but I've got to be able to sell if for a profit.
+Don't want to sell after all? That's okay.
+Sorry I couldn't help you. Have a nice day.
+Maybe next time. Bye.
+Hope I can help you better next time.
+Stop wasting my time.
+If you're not going to buy anything, please leave.
+If you didn't want to buy something I wish you would leave me alone.
+If you're not selling, please leave.
+Don't bother me if you don't want to sell.
+Please leave.
+I knew you where going to waste my time again.
+Figures, I knew you didn't have any money.
+Thanks for all the business, maybe I'll go home early today.
+You almost cleaned me out!
+Hope you can carry all that!
+Thanks, I hope I can sell all this stuff!
+These should sell well, thank you.
+I can use these. Thanks.
+I hope I have room for all this!
+Well thanks a lot! I hope you have a wonderful day!
+Thanks for the business, please drop by anytime.
+You're welcome here anytime, during business hours that is.
+Thanks you and have a nice day.
+Bye! And thanks!
+That's it, just ammunition? I'm disappointed. Well, next time you'll need to spend more!
+Stocking up on ammunition? It's a good idea. You can never have enough.
+Just the essentials, right? Bye!
+Well, I didn't think you where actually going to buy anything.
+Thanks for the business, you're not so bad.
+Thanks for the goods.
+Have a nice day.
+Bye.
+Thank you.
+Thanks for the purchases, have a nice day.
+I heard that!
+No kidding.
+Sid! Stop that!
+I'll give you a gift if you don't shut up.
+I heard that! You're fired!
+Ignore him, I always do.
+Oh, you're just hilarious Sid.
+You wish.
+Shut up.
+Hey. Stay put Sid.
+I don't think so slick.
+I'll make you blue if you don't leave my customer's alone.
+Please excuse my 'obnoxious' guard.
+You're such a knob!
+Sid!
+Honey? Where do you come up with these disturbing names?
+[Beth sighs] I
+ should lock him up. Don't you think?
+I think he's jealous!
+Sid! Don't be rude to the customers!
+Anyone else you know who might have some information about the Death Claw?
+Goodbye.
+Thanks.
+Ook.
+Is there anyplace in town I should avoid?
+Oh yes. You ought to stay as far away from the Maltese Falcon as you possibly can. Decker and his greasy lapdog Kane are bad news. They'll eat you alive if you're not careful. I'd also give Lorenzo at the Friendly Lending company a wide berth.
