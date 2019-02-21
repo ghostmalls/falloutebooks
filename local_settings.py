@@ -7,10 +7,10 @@ Local Settings for a heroku_ebooks account.
 # Configuration for Twitter API
 ENABLE_TWITTER_SOURCES = True # Fetch twitter statuses as source
 ENABLE_TWITTER_POSTING = True # Tweet resulting status?
-MY_CONSUMER_KEY = environ.get('sgHOAma2BGP4npbOYn33xH4LR')#Your Twitter API Consumer Key set in Heroku config
-MY_CONSUMER_SECRET = environ.get('NBQ4i62ZYTlt2175j4KFRJYSdsysW1iZpKTizhkhXC4SnYHqVf')#Your Consumer Secret Key set in Heroku config
-MY_ACCESS_TOKEN_KEY = environ.get('1098655684151910405-yoNnDHWNq94nIT317L7EjpZw1A8Nzv')#Your Twitter API Access Token Key set in Heroku config
-MY_ACCESS_TOKEN_SECRET = environ.get('ZMA9q1Fj53lV1JIE8uRFWcvv1g83rO6oqaJJ2g34Wf5YK')#Your Access Token Secret set in Heroku config
+MY_CONSUMER_KEY = environ.get('TWITTER_CONSUMER_KEY')#Your Twitter API Consumer Key set in Heroku config
+MY_CONSUMER_SECRET = environ.get('TWITTER_CONSUMER_SECRET')#Your Consumer Secret Key set in Heroku config
+MY_ACCESS_TOKEN_KEY = environ.get('TWITTER_ACCESS_TOKEN_KEY')#Your Twitter API Access Token Key set in Heroku config
+MY_ACCESS_TOKEN_SECRET = environ.get('TWITTER_ACCESS_SECRET')#Your Access Token Secret set in Heroku config
 
 # Configuration for Mastodon API
 ENABLE_MASTODON_SOURCES = False # Fetch mastodon statuses as a source?
@@ -22,8 +22,8 @@ USER_ACCESS_FILENAME = '' # The MASTODON user credential file you created at ins
 # Sources (Twitter, Mastodon, local text file or a web page)
 TWITTER_SOURCE_ACCOUNTS = [""]  # A list of comma-separated, quote-enclosed Twitter handles of account that you'll generate tweets based on. It should look like ["account1", "account2"]. If you want just one account, no comma needed.
 MASTODON_SOURCE_ACCOUNTS = [""] # A list, e.g. ["@user@instance.tld"]
-SOURCE_EXCLUDE = r'^$'  # Source tweets that match this regexp will not be added to the Markov chain. You might want to filter out inappropriate words for example.
 STATIC_TEST = True  # Set this to True if you want to test Markov generation from a static file instead of the API.
+SOURCE_EXCLUDE = r'^$'  # Source tweets that match this regexp will not be added to the Markov chain. You might want to filter out inappropriate words for example.
 TEST_SOURCE = "output.txt"  # The name of a text file of a string-ified list for testing. To avoid unnecessarily hitting Twitter API. You can use the included testcorpus.txt, if needed.
 SCRAPE_URL = False  # Set this to true to scrape a webpage.
 SRC_URL = ['http://www.example.com/one', 'https://www.example.com/two']  # A comma-separated list of URLs to scrape
