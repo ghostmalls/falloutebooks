@@ -4297,7 +4297,6 @@ it's kind of embarrassing really. once a year, bob decides he's going to go ahea
 well, all it takes is a good wind and the seeds just fly everywhere.
 i call them herbert's seeds. he hates that!
 okay.
-
 hold on jonas, i need to record this first. muted - away from mike
 i don't really know how to tell you this. i hope you'll understand, but i know you might be angry. pause at the beginning, like he's trying to think of what to say
 i thought about it for a long time, but in the end i decided it was best for you not to know.
@@ -4420,7 +4419,6 @@ take cover!
 look out!
 do you know where that's been?
 is that really necessary?
-
 hey, it's not my call. those are the rules.
 you're sixteen now, so this year you take the g.o.a.t.
 come on. it's not so bad. everyone has to take it. you'll do just fine.
@@ -4554,3 +4552,160 @@ oh, yeah! i do remember a guy like that.
 honestly, i usually keep my head down. i tend to get smacked around if i look customers in the eyes. but talk to moriarty, he'll know more.
 i can't talk about that anymore. moriarty will beat me again if i do.
 sorry, smoothskin. i can't take the risk. moriarty will beat the shit out of me for even talking to you!
+no entry without tickets. please present your tickets.
+unauthorized metro use detected. target list... acquired.
+metro security protocol initializing...
+station security grid... offline. metro central... not responding.
+threat level omega. lethal force authorized.
+metro security protocol in progress. please stand clear of the offenders.
+stand clear, please.
+do not be alarmed. the metro will resume normal operation shortly.
+authorized ticketholders, please proceed to the main platform.
+tickets please.
+scanning for valid ticket... verified. thank you for riding with metro.
+no entry without tickets. please present your tickets.
+unauthorized metro use detected.
+tickets please.
+move along, please.
+my boys are huntin' 'lurks. finest meat you can get, and it don't move around in your stomach like mole rat does.
+right dangerous, those things. just as soon take your head off as look at'cha. watch yourself out here. they're all over.
+some fellas came by here a while ago that said they was lookin' for some troublemaker that came from out of one of them vaults.
+i told 'em i ain't seen nobody like that and set 'em on their way.
+they might still be around here though, if'n you think you can help 'em.
+some fellas came by here a while ago that said they was lookin' for some dogooder that came from out of one of them vaults.
+i told 'em i ain't seen nobody like that and set 'em on their way.
+they might still be around here though, if'n you think you can help 'em.
+nope. can't say that i heard anything but them 'lurks in quite some time.
+we always need bullets. takes damn near a hundred of 'em to kill a 'guai.
+always good ta hear. lesse what ya got.
+well lookit this! we got us a wanderer all the way out here in will'im's wharf! you mus' got some import'int bus'ness out here to be wandrin' around.
+but, 'taint none of my beeswax what yer doin'. but if yer interested in tradin', maybe we can help each other.
+you again! y'all interested in tradin' this time?
+'lurks ain't got ya yet, i see. you need some tradin'?
+that ought to keep things settled for awhile. hope it stays that way.
+howdy. what can easy pete do for you?
+howdy.
+what in tarnation?
+what in blazes?
+for pete's sake...
+no respect.
+that'll show 'em!
+got any more of those?
+here it comes!
+here comes the boom!
+was a prospector until i decided to settle here to get away from the ncr. now i just take it easy and help out with the brahmin and bighorners.
+the one in the fancy suit seemed to be calling the shots, that's as much as i know. other folks in town might know more. text is correct, not sound file.
+word of advice, though: if you ever catch up with him, watch out. the man's got cold eyes like a snake. can't be trusted, i'd say.
+meat and hide, mostly. can't put a pack on 'em - they just lay down until you take it off.
+can find a bunch of wild ones high up in the hills, but gotta be careful around 'em. they can put up a decent fight if cornered.
+nope. had a pretty good claim once, way out east by the river, but got run off by raiders. eventually, got too old to keep going out.
+the machine? harmless, no matter what trudy says. she thinks it's hiding something, but i think it's just a broken down relic with no place to be.
+yup.
+nah, nah - means i poked through old buildings looking for working tech and such. some folks just call it "salvaging," but never liked the term.
+way i see it, salvage means it's broken, near-worthless. me, i looked for the good stuff - guns, chems, spare parts. good money in it.
+don't get me wrong - the ncr's got a lot of decent folk in it. it's just that they make you part of them whether you like it or not.
+towns like goodsprings and primm don't stay independent for long, not if you've got something the ncr wants. still, the ncr keeps the legion away.
+they're slavers, led by a guy named see-zer caesar. or less certainly, kai-zar caesar. not sure how you're supposed to say it.
+a couple of years ago they tried to take over hoover dam, but the ncr beat them back. the ncr didn't - or couldn't - finish the job, though.
+the legion's got its strength back and is getting ready for another round at the dam. my money's still on the ncr winning, but you never know.
+warning we've been hearing stories about legionaries on the nevada side of the river, so keep a gun handy. you don't want to get caught by them.
+the dam powers a lot of new vegas. and then there's all that clean water lying in lake mead, too. anybody who owns the dam owns the territory.
+too dangerous. gonna kill all yourselves if i let you touch it. better to leave it buried - safer that way.
+told you before - it's too dangerous for a bunch of amateurs to handle.
+[succeeded] uh huh. guess you know what you're doing. i'll go dig it up and get it ready. you'll have it by the time the fighting starts.
+[failed] too dangerous, sorry. blow yourself up, blow your neighbor up, blow the whole town up.
+bad trouble.
+keep your gun handy if you go poking around some of the abandoned places around here, like the schoolhouse.
+wasteland critters like to move in when sunny's not looking, so watch out.
+yup.
+welcome.
+uh huh.
+goddammit! why did you tell carol that gob was dead? you couldn't have kept that to yourself?
+you know, not everyone needs to hear the truth about everything. she was perfectly fine thinking that he'd found happiness out there.
+just... order something and get away from me.
+sorry. i'm on a break. i'll be back in a bit if you need some food.
+oh look. it's everyone's favorite bearer of bad news.
+oh, hey. it's you. did you bring some good news for us?
+hey. i say you over there talking to carol. she's friendly, isn't she? but don't you get any ideas about her. got it? good.
+now, do you want something to eat?
+mornin', hon. what'll it be?
+if you want something to eat, you should order it quick, hon. the stew just stopped moving.
+you need somethin', hon?
+he's an odd one. why just a few months ago he decided he didn't like people calling us zombies.
+no ghoul likes to be called a zombie, but crowley was going up to humans and almost daring them to do it.
+to tell you the truth, hon, i don't really know much about it. all i know is that it used to be some sort of exhibit.
+something about hell or the afterlife or something. tulip knows that sort of stuff.
+not like anyone around here ever buys anything from that shop of hers.
+you're in for a treat, the finest food in dc. four stars.
+yep. get it while it's lukewarm.
+just don't ask what it's made of. you humans seem to have weak stomachs.
+if you're lucky, maybe it's gone rancid already. mmmmmmmmm...
+i don't think we got any more to discuss here.
+is everything all right? awful late to be dropping in unexpected.
+well. welcome to you. you look tired from the road. why don't you relax a spell, let this fine town take care of you?
+i hope you're finding everything to your liking.
+well, let's see. dusty mcbride's been losing some brahmin, but that's probably the heat more than anything. honestly, it's been real quiet.
+ranger andy's still hurt, but we got these two gentlemen snipers watching the road day and night, keeping the trash out of novac.
+they've been a blessing.
+oh, what am i doing? i got to thinking about making a good impression and plain forgot to tell you my name.
+i'm jeannie may. i take care of folks here at the motel. long as they aren't trouble makers.
+well, saints alive. that is a load off. nothing to be done, though. those ghouls just didn't know when they weren't wanted. couldn't take a hint.
+and aren't you just the most unexpected gift our little town ever had? here, take this. and go buy yourself something nice.
+leave? i don't believe that was what was discussed. they could be back tomorrow knocking on my door wanting hand-outs.
+i'm sorry, i know what i promised, but my mind is just not at ease about this. i'm afraid i can't pay you for what you done.
+i just know what i've heard. there's supposed to be some ghouls that went in a while back.
+every so often there'll be a commotion from that direction - explosions and such.
+well it is. not everybody appreciates it like they oughtta.
+go see cliff briscoe at the dino bite gift shop, and tell him i sent you.
+i think he gets lonely standing around in that dino belly all day. he'll be glad for the company.
+you can jump out the window, for all i care, mister.
+you got no right to come in here and start criticizing our town. folks work hard to keep it clean and safe.
+we do the best we can. but still there's always some of you finicky types that there's just no pleasing.
+you can jump out the window, for all i care, lady.
+you got no right to come in here and start criticizing our town. folks work hard to keep it clean and safe.
+we do the best we can. but still there's always some of you finicky types that there's just no pleasing.
+well, there's dinky, the town mascot. he's a sight. you probably already saw him when you came in, but you can go up inside, too.
+up the road a ways to the west, there's repconn. that's the old rocket factory.
+there's been some sinister characters out there lately, so you may want to stay clear.
+other than that, nothing to do but take it easy and enjoy good company.
+we're in a little desert oasis, name of novac. this is the dino dee-lite motel, and it's mine.
+how should i put it? i guess you could say she was kinda like a cactus flower. real pretty to look at, but there was just no getting close to her.
+she never did take to living here. she liked the big lights and fast living of new vegas.
+i got the feeling she was trying to get boone to leave with her, but i guess she got tired of waiting.
+okay, if that's what you think.
+again? all right.
+if it's just the same to you, i think i'll stay in town. i feel safer that way.
+nothing that wouldn't be wrong with any man who loses a wife, i suppose. poor dear.
+i know he thinks she was kidnapped, but i'm not so sure she didn't just run off on her own.
+you could tell she was thinking about it ever since they arrived.
+well, up north a ways you'll see a big tower. that's helios one. used to be a power plant in its day.
+and there's a town just east of here called nelson. used to be such a quaint little place until those slavers took it over.
+but we got our wonderful snipers keeping an eye in that direction, and so far the slavers have left us alone.
+i can't see as how i'd charge you after the generous things you've done for the town. the room's on me.
+well, i think that's a fine idea. i'll give you a good flat rate, and you can stay as long as you like. least till the busy season comes. sound good?
+i'm glad you can stay with us.
+well that's nothing to be ashamed of. we all have money troubles from time to time.
+you just come on back when you can afford it, and that room's all yours.
+oh. well, all right.
+your room will be the one upstairs, closest to the lobby side.
+here's your key. let me know if there's anything i can do to make your stay better for you.
+i don't know what they're up to and i don't want to know. i just hope no harm comes to novac.
+not much to live off of around here, except salvage from that factory. if they made off with anything expensive, we'd be hurting something fierce.
+but i will say this. if all of 'em turned up dead tomorrow, i couldn't see as to how they'd be missed.
+that might even be a desirable thing, knowing the town was safe from the likes of them. there'd be a reward in it if some brave soul made it happen.
+whatever suits you.
+despite their vigilance against potential attacks by the legion, the citizens of novac were no match for the courier.
+the motel and dinky the dinosaur were left vacant, a rare stop at best for travelers along highway 95.
+though novac was a low-priority target for the legion, many of novac's citizens died in its defense.
+in the weeks that followed, feral ghouls, overflowing from the repconn test site, ravaged the weakened town.
+though novac was a low-priority target for the legion, many of novac's citizens died in its defense.
+with no other communities coming to its defense, novac would eventually fall to the legion's persistent attacks.
+though novac was a low-priority target for the legion, many of novac's citizens died in its defense.
+in the weeks that followed, several bright followers returned to novac to help restore its defenses, allowing it to remain independent of ncr.
+during the legion's attack on novac, bright followers, returning from their long pilgrimage, assisted in its evacuation.
+though novac eventually fell to the legion, many citizens of novac were able to escape, alive and intact.
+while the destruction of the repconn rockets appeared to be a boon to the salvagers of novac, the benefit would never be realized.
+radioactive fuel from the wrecked ships seeped out and contaminated the area. salvagers were forced to move on, and the town was abandoned.
+well he might've been wearing a fancy outfit, but he wasn't any kind of a gentleman to me.
+had his nose stuck so high in the air, you couldn't see it above the clouds. city folk, they always think they deserve better than what they got.
+those hoodlums he was with seemed to know manny for some reason. he's our daytime sniper, up in the dinosaur's mouth.
