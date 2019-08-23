@@ -37,5 +37,5 @@ DEBUG = False  # Set this to False to start Tweeting live
 TWEET_ACCOUNT = "falloutebooks"  # The name of the account you're tweeting to.
 
 #Configuration for Twitter parser. TEST_SOURCE will be re-used as as the corpus location.
-TWITTER_ARCHIVE_NAME = "tweets.csv" #Name of your twitter archive
+TWITTER_ARCHIVE_NAME = "output.txt" #Name of your twitter archive
 IGNORE_RETWEETS = False #If you want to remove retweets
