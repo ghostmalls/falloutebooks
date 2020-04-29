@@ -445,8 +445,8 @@ you see ton.
 you see a huge member of the children.
 man
 woman
-[done]
-[more]
+done
+more
 sorry man, but you passed the point of no return with us. time to slam off!
 sorry woman, but you passed the point of no return with us. time to slam off!
 why would i want to talk with someone who goes around killing kids? get out of my face!
@@ -729,7 +729,7 @@ if you've got a memory loss, i can talk to the sheriff.
 prime choice select is made of people!!!! it's made of people!!!
 nothing. sorry to bring it up. now is there anything else i can do for you?
 well, he's dead now, and my cash flow has increased because of it.
-someone killed decker. we're in mourning. [snicker]
+someone killed decker. we're in mourning. snicker
 someone shot sheriff greene. don't know about the deputy, though.
 daren hightower was murdered. and all that money couldn't save him. ironic, ain't it?
 someone stole a necklace from the hightowers. man, did they ever make a big mistake. they're dead for sure!
@@ -807,7 +807,7 @@ nothing, bye.
 me go now.
 this is no time to sit down! get moving!
 you see a teenager.
-you! you did it! when i grow up i'm gonna get you! i'm gonna hunt you down and kill you! you killed them all! aaaaaalllll! [uncontrolled sobbing].
+you! you did it! when i grow up i'm gonna get you! i'm gonna hunt you down and kill you! you killed them all! aaaaaalllll! uncontrolled sobbing].
 it was the only way. the only way to stop them.
 how in hell did you survive the nuke?
 it's a lie, kid. i didn't do it!
@@ -839,7 +839,7 @@ c'mon kid. surely, you've seen something!
 father lasher?
 fun good.
 sounds like he and i have a lot in common.
-that's great! may the master bless you. [he hands you a flower.]
+that's great! may the master bless you. he hands you a flower.]
 aw! you're no fun. maybe i should tell the nightkin about you!
 the nightkin are my friends.
 you're a little too young to understand how much fun i can be.
@@ -915,7 +915,7 @@ tell me more about father lasher.
 what kind of lesson?
 stop whining, you little brat, and be grateful that somebody's bothering to teach you!
 i never do good enough! never!
-[done]
+done
 you see a chanter of the children.
 the master will forgive your sins! join us and be free! praise to the master and his mercy!
 hello, friend! the master's vision has made me truly alive for the first time. may i share my wonderful story with you?
@@ -1148,11 +1148,11 @@ you see the body of a mutant.
 the mutant is dead.
 it was so fast... my brothers were gone... could not help...
 who are you?
-i, i'm... i can't remember... was the leader of... it... maybe my holodisk... [the mutant weakly hands you a bloody holodisk]
+i, i'm... i can't remember... was the leader of... it... maybe my holodisk... the mutant weakly hands you a bloody holodisk
 where did you come from?
 we... we were scouting for primes... came from... from the northwest.
 who sent you?
-father... where are you father?... yes master... [the mutant breathes his last breath and collapses]
+father... where are you father?... yes master... the mutant breathes his last breath and collapses
 uhhhh.... arrgghh....
 master....
 brothers... where...?
@@ -1409,7 +1409,7 @@ another question about the missing caravans . . .
 well, let's get back to the merchants.
 you're an idiot!
 look at the time, i've got to go! see ya.
-why, you don't know? [whispering] i heard that they make human sacrifices and do all sorts of other terrible things!
+why, you don't know? whispering i heard that they make human sacrifices and do all sorts of other terrible things!
 yes, we do. what's wrong with that?
 as a 'member' of the brotherhood, i can assure you that nothing like that is going on!
 really? i've been there, they seemed strange but not that bad.
@@ -1474,8 +1474,8 @@ i already told you. he's dead! let's just forget about him, his name brings back
 oh, yeah.
 yeah, he deserved it and i don't feel bad about doing it.
  sid works for beth. sid is male.
-you did it? really? i love you! [beth looks over at sid] don't even think about it wise guy . . . here, to show my gratitude . . . [beth gives you six stimpaks. it's not much, but i really appreciate it!
-you did it? really? you're the best! you have no idea how happy i was to hear that he was dead. here take these . . . [beth gives you six stimpaks.] it's not much, but i really appreciate it!
+you did it? really? i love you! beth looks over at sid don't even think about it wise guy . . . here, to show my gratitude . . . beth gives you six stimpaks. it's not much, but i really appreciate it!
+you did it? really? you're the best! you have no idea how happy i was to hear that he was dead. here take these . . . beth gives you six stimpaks.] it's not much, but i really appreciate it!
 sorry i don't have anything you like.
 don't see anything you like? i'll try to get better goods.
 sorry if you didn't like my offer, but i've got to be able to sell if for a profit.
@@ -1529,7 +1529,7 @@ please excuse my 'obnoxious' guard.
 you're such a knob!
 sid!
 honey? where do you come up with these disturbing names?
-[beth sighs] i
+beth sighs i
  should lock him up. don't you think?
 i think he's jealous!
 sid! don't be rude to the customers!
@@ -1550,7 +1550,7 @@ there's usually a gun merchant hanging around topside. i'm sure she'll take care
 like you have a clue what that even means. scoffing
 we used to. but every caravan carrying them was getting ambushed and wiped out. by someone sophisticated enough to know which was which.
 still plenty of other problems keeping the 15 shut down, though. thanks for playing.
-[succeeded] you might be on to something. i like to hang on to any weapons mods i run across...
+succeeded you might be on to something. i like to hang on to any weapons mods i run across...
 you like it any better if i tell you to fuck off?
 is there some reason i should be talking to you? disdaining
 tell me about gun runner caravans.
@@ -2088,12 +2088,12 @@ really? huh, never thought of that. the crimson caravan isn't really in the drug
 won't be a problem. we have plenty of spice traders working with us back home, and we could get meat from local brahmin ranchers.
 the bigger issue is payment. to supply the camp with meat with cost some serious caps.
 excellent. we should be able to get the shipments started in about a week.
-[succeeded] well, the far go traders have been trying to edge us out on the new armor contract for the troops. this could swing things in our favor.
+succeeded well, the far go traders have been trying to edge us out on the new armor contract for the troops. this could swing things in our favor.
 all right, let mccarran know they should expect the first shipment in a week or so.
-[failed] this is business. i really can't cut them a deal on the cost.
-[succeeded] that should work. we'll do a weighted exchanged based on the going value of meat and vegetables. water is invaluable in this dusty hole.
+failed this is business. i really can't cut them a deal on the cost.
+succeeded that should work. we'll do a weighted exchanged based on the going value of meat and vegetables. water is invaluable in this dusty hole.
 let mccarran know they should expect the first shipment in a week or so.
-[failed] we don't need vegetables, and besides, they spoil. the meat you can dry and turn into jerky.
+failed we don't need vegetables, and besides, they spoil. the meat you can dry and turn into jerky.
 maybe. what do you want to know?
 trade routes, my friend, trade routes. just about every major town in the wasteland has a crimson caravan branch in it.
 out here, we usually split our caravans into smaller bands - that way, we don't lose everything if they get hit.
@@ -2114,48 +2114,48 @@ raaarr!
 agghh!
 arrggh!
 
-[christine nods.]
-[christine raises an eyebrow.]
-[christine narrows her eyes, then shrugs.]
-[christine nods.]
-[christine glances at your companion, shakes her head, then raises her index finger.]
-[christine nods.]
-[christine nods.]
-[christine puts her palm flat and lowers it to the ground, shakes her head.]
-[christine crouches down.]
-[christine raises an eyebrow suspiciously.]
-[christine looks at you and waits.]
-[christine narrows her eyes, nods.]
-[christine frowns, taps the back of her wrist, then circles her finger.]
-[christine nods.]
-[christine nods, and her stance changes slightly.]
-[christine raises an eyebrow, then shrugs.]
-[christine nods, closes one eye and slowly pulls an invisible trigger.]
-[christine tilts her head slightly.]
-[christine nods.]
-[christine nods.]
-[christine nods.]
-[christine nods, makes a half circle with her hand.]
-[christine nods, waits.]
-[christine nods, adjusts her gear.]
-[christine nods.]
+christine nods.]
+christine raises an eyebrow.]
+christine narrows her eyes, then shrugs.]
+christine nods.]
+christine glances at your companion, shakes her head, then raises her index finger.]
+christine nods.]
+christine nods.]
+christine puts her palm flat and lowers it to the ground, shakes her head.]
+christine crouches down.]
+christine raises an eyebrow suspiciously.]
+christine looks at you and waits.]
+christine narrows her eyes, nods.]
+christine frowns, taps the back of her wrist, then circles her finger.]
+christine nods.]
+christine nods, and her stance changes slightly.]
+christine raises an eyebrow, then shrugs.]
+christine nods, closes one eye and slowly pulls an invisible trigger.]
+christine tilts her head slightly.]
+christine nods.]
+christine nods.]
+christine nods.]
+christine nods, makes a half circle with her hand.]
+christine nods, waits.]
+christine nods, adjusts her gear.]
+christine nods.]
 be patient, i'm going. to herself but chiding the playermaybe emph you should know when to let go. christine is walking to the vault elevator, asks player to be patient. this is a single bark to prevent breaking scripted sequence.
 cold, her voice is slightly torn, still healing up. you made it, good. i'm getting tired of waiting for you - and elijah. beat surprised? yeah... i made it here, just like you did. <player made it through the suites, hated. christine's voice is back, although it's ragged, it just healed.>
 relieved, voice thick from surgery you made it, good... <coughs>ugh.. winceshurts to talk. i'll keep this quick in case my... voice goes out.
 frowns, a little defeatedyou're back. you sure you still want me here, collars and all? to herself, rueful not much for waiting around with a bomb around my neck. christine was not pleased to be asked to wait. urges the player to find whatever he/she needs of her.
 i... coughs i wish you luck in the vault. elijah... he's tough to pin down. christine's voice is restored, wishes the player luck in the vault.
-[christine is looking at the fountain, her eyes narrowed. she then scans the courtyard perimeter, gauging the distance.]
-[she glances at your wrist, then back at the fountain.]
-[the woman before you looks disoriented, pained - she blinks a few times, then winces, as if the act of blinking causes her pain.]
-[christine points at the sky, makes a fist, then makes an explosion gesture with her fingers.]
-[christine shakes her head, narrows her eyes, then points at your compass.]
-[christine motions to you, points at the door uneasily, then makes a pulling motion with her hand. she seems hesitant to go near it.]
-return greeting, neutral[christine looks at you warily.]
-return greeting, disliked[christine glares at you.]
-return greeting, liked[christine raises an eyebrow.]
-[christine glances at the elevator, her expression becomes worried, then she looks back at you, then reluctantly shakes her head.]
-[she circles her finger around the fountain and moves her fingers and thumb together rapidly, as if talking.]
-[she frowns, stops moving her hand, then points at the pip-boy at your wrist.]
+christine is looking at the fountain, her eyes narrowed. she then scans the courtyard perimeter, gauging the distance.]
+she glances at your wrist, then back at the fountain.]
+the woman before you looks disoriented, pained - she blinks a few times, then winces, as if the act of blinking causes her pain.]
+christine points at the sky, makes a fist, then makes an explosion gesture with her fingers.]
+christine shakes her head, narrows her eyes, then points at your compass.]
+christine motions to you, points at the door uneasily, then makes a pulling motion with her hand. she seems hesitant to go near it.]
+return greeting, neutralchristine looks at you warily.]
+return greeting, dislikedchristine glares at you.]
+return greeting, likedchristine raises an eyebrow.]
+christine glances at the elevator, her expression becomes worried, then she looks back at you, then reluctantly shakes her head.]
+she circles her finger around the fountain and moves her fingers and thumb together rapidly, as if talking.]
+she frowns, stops moving her hand, then points at the pip-boy at your wrist.]
 slight surprise surprised that super mutant didn't eat you... under her breath and don't get me started on dean.
 takes a breath, rests tone, beat so... i just rasp out some words, and the vault opens? beat, to herself that woman, the starlet... she didn't build this place, why would the builder do that?
 i know. the sealed doors, the security... it's almost a fortress. think that's why we're being ordered to come here and crack it open?
@@ -2194,70 +2194,70 @@ dupe an audio-lock to where? beat, recognizes what happened to the sierra madre 
 dupe that makes sense. thinking so... those bodies in the clinic... all right. dean always felt like the odd one out, and he kept... studying me.
 confused do i? shakes head it sounds off to my ears... hard to tell. not to mention it... hurts like hell to swallow.
 might be why i got moved off to this suite... it's hers. quietthat's her over there, got trapped by security like i did. just took a different way out. thinking. in second part, referring to the skeleton in the bedroom with her, dead.
-[christine smiles slightly in relief, and nods. she opens her mouth slightly, then closes it, frustrated.]
-[she points at you, then makes a fist and puts it against her chest and nods.]
-[christine smiles slightly in relief, and moves to the elevator.]
+christine smiles slightly in relief, and nods. she opens her mouth slightly, then closes it, frustrated.]
+she points at you, then makes a fist and puts it against her chest and nods.]
+christine smiles slightly in relief, and moves to the elevator.]
 cold those are my orders. i've seen what he's done, and i believe in those orders.
-[christine nods gratefully. she glances in the direction of the terminal, looks at you, smiles, gives a thumbs up.]
-[christine shakes her head, more insistently this time. she points at the elevator, then downwards, then holds herself tightly and shakes her head.]
-[she looks at you, blinks again, then opens her mouth - but nothing comes out.]
-[she touches her throat, then traces the scar beneath the chin, and her eyes widen in alarm.]
-[she looks shaken. as she glances at the auto-doc, she recoils, and her mouth opens - but again, nothing comes out.]
-[she looks back at you, and her hands clench into fists - her eyes narrow, and she takes a step back, studying you.]
-[the woman opens her mouth again, winces, then frowns and drags a finger across her throat in a slow motion. she looks more angry than pained now.]
-[frowning, she touches her throat again, gently, then her hand brushes her collar, then her frown deepens.]
-[her eyes narrow as she traces the edge of the collar until she finds the lock. she begins to press it with her fingers.]
-[she looks surprised. then notices your collar, and raises an eyebrow.]
-[she frowns, narrows her eyes, then slowly shakes her head.]
-[succeeded] [she nods... slowly, then puts her hand in front her throat, closes it slowly, then points at you.]
-[failed] [she frowns, narrows her eyes, and looks at you.]
-[she shakes her head again and draws a line in the air between the two of you.]
-[she shakes her head - once, then crosses her arms.]
-[christine glances straight up, frowns, then turns back to you and taps her wrist.]
-[she looks exasperated, then waves her hand in a circle in front of her.]
-[she raises an eyebrow, then tilts her head slightly.]
-[she frowns, then cups her hand to her ear.]
-[she shakes her head... then pauses, and shakes her head again, then looks exasperated.]
-[christine looks blankly at you. then touches her head, smiles, then shakes her head.]
-[she waves her hand, then shakes her head - she then nods in the direction of the casino.]
-[she nods with an exasperated look, then makes a circle with her hands, repeats it twice more, then raises her hands and waves them like wings.]
-[she puts both hands in front of her, then makes a motion with her hands as if writing something.]
-[she nods. she looks impressed.]
-[she shrugs. then she points to you and shrugs.]
-[she shakes her head.]
-[she touches one of the scars on her cheeks, shakes head. then touches the scar on her neck, and nods.]
-[christine nods.]
-[she shivers slightly, and shakes her head.]
-[succeeded] [she nods, and raises her hands, palms facing each other, then rotates in a 180 degree arc and back again.]
-[failed] [she rolls her eyes, opens her mouth to speak, then stops, her face tensing up in frustration.]
-[succeeded] [she nods, looks impressed.]
-[failed] [she shakes her head, then nods in the direction of the casino again.]
+christine nods gratefully. she glances in the direction of the terminal, looks at you, smiles, gives a thumbs up.]
+christine shakes her head, more insistently this time. she points at the elevator, then downwards, then holds herself tightly and shakes her head.]
+she looks at you, blinks again, then opens her mouth - but nothing comes out.]
+she touches her throat, then traces the scar beneath the chin, and her eyes widen in alarm.]
+she looks shaken. as she glances at the auto-doc, she recoils, and her mouth opens - but again, nothing comes out.]
+she looks back at you, and her hands clench into fists - her eyes narrow, and she takes a step back, studying you.]
+the woman opens her mouth again, winces, then frowns and drags a finger across her throat in a slow motion. she looks more angry than pained now.]
+frowning, she touches her throat again, gently, then her hand brushes her collar, then her frown deepens.]
+her eyes narrow as she traces the edge of the collar until she finds the lock. she begins to press it with her fingers.]
+she looks surprised. then notices your collar, and raises an eyebrow.]
+she frowns, narrows her eyes, then slowly shakes her head.]
+succeeded she nods... slowly, then puts her hand in front her throat, closes it slowly, then points at you.]
+failed she frowns, narrows her eyes, and looks at you.]
+she shakes her head again and draws a line in the air between the two of you.]
+she shakes her head - once, then crosses her arms.]
+christine glances straight up, frowns, then turns back to you and taps her wrist.]
+she looks exasperated, then waves her hand in a circle in front of her.]
+she raises an eyebrow, then tilts her head slightly.]
+she frowns, then cups her hand to her ear.]
+she shakes her head... then pauses, and shakes her head again, then looks exasperated.]
+christine looks blankly at you. then touches her head, smiles, then shakes her head.]
+she waves her hand, then shakes her head - she then nods in the direction of the casino.]
+she nods with an exasperated look, then makes a circle with her hands, repeats it twice more, then raises her hands and waves them like wings.]
+she puts both hands in front of her, then makes a motion with her hands as if writing something.]
+she nods. she looks impressed.]
+she shrugs. then she points to you and shrugs.]
+she shakes her head.]
+she touches one of the scars on her cheeks, shakes head. then touches the scar on her neck, and nods.]
+christine nods.]
+she shivers slightly, and shakes her head.]
+succeeded she nods, and raises her hands, palms facing each other, then rotates in a 180 degree arc and back again.]
+failed she rolls her eyes, opens her mouth to speak, then stops, her face tensing up in frustration.]
+succeeded she nods, looks impressed.]
+failed she shakes her head, then nods in the direction of the casino again.]
 deliver this angrier, seems like a dupe, isn't the gala went off, the switching station opened up - thought the screeching in the auto-doc was bad, station worse.
 got outside, saw the light show, and it was enough to make me run to the casino.
 also... it seemed like the lights and speakers were helping to guide me... guess your master wanted a back-up in case you died.
 as for being assigned to this floor... maybe it's because of my new voice. your guess is as good as mine. beat, sarcastic maybe it recognized me as a guest.
-[she moves her finger in a wider circle, then raises her hand over her eyes.]
+she moves her finger in a wider circle, then raises her hand over her eyes.]
 skeptical it's possible. this place is immense... and it still has power, food dispensers, security... was it all for pre-war guests? beat or for her?
-[she moves her finger in a circle, frowns, then drags her hand down over her eyes. she raises them again, points to you.]
-[her eyes widen, and her eyes gauge yours. she then touches her wounds, and her expression crumbles into anger, as if defeated. she slowly nods.]
+she moves her finger in a circle, frowns, then drags her hand down over her eyes. she raises them again, points to you.]
+her eyes widen, and her eyes gauge yours. she then touches her wounds, and her expression crumbles into anger, as if defeated. she slowly nods.]
 nods all right. cold, she knows she may be trapping the player down here if you go down there, are you prepared... what if you don't come back? christine is asking, because she knows that elijah will show up, and when he does, she's going to suicide and kill him.
 player has no companion. christine comes along.[christine narrows her eyes slightly. she slowly nods, then steps slightly behind you.]
-player has a companion. christine goes to the fountain for now. [christine glances at your follower, shakes her head, then points at you, her, and nods in the direction of the fountain.]
+player has a companion. christine goes to the fountain for now. christine glances at your follower, shakes her head, then points at you, her, and nods in the direction of the fountain.]
 evasive i... just wanted to make sure you're ready. when you go down there, that may be it for us... we won't be needed anymore.
 the one who made these collars, he'll follow you down there. and he won't let you leave. he's not one for sharing, never was.
-[christine's defeated expression vanishes into a stone-faced glare.]
-[she taps the collar and then opens and closes her hand really fast.]
-[she taps her collar, then opens and closes her hand really fast.]
-[she points at your pip-boy, her collar, and then your collar. after a second, then she opens and closes her hand slower.]
-[she points at your collar, then hers, then nods at your pip-boy. she makes a triangle motion, then the same slow pulse as before with her fingers.]
+christine's defeated expression vanishes into a stone-faced glare.]
+she taps the collar and then opens and closes her hand really fast.]
+she taps her collar, then opens and closes her hand really fast.]
+she points at your pip-boy, her collar, and then your collar. after a second, then she opens and closes her hand slower.]
+she points at your collar, then hers, then nods at your pip-boy. she makes a triangle motion, then the same slow pulse as before with her fingers.]
 to herself love makes people do strange things. beat, quiet won't argue that. it can drive you crazy sometimes if you can't... connect.
 reluctant, something's wrong if they loved each other, and they were together... i suppose that's all that mattered.
 but she's in that side room, dead, because the casino wouldn't let her leave. beatand who knows where he is.
-christine goes to the fountain. [christine gives a brief nod, then turns and begins to walk.]
-[she frowns, glances at the collar, looks back at you. she makes a circle with her hands, puts her hand over her eyes and squints.]
-[she nods at you, then lowers her hand from her eyes, shakes her head. she draws a slow line between you.]
-[she studies you again, then her expression softens slightly. she shakes her head slowly, and gives a silent sigh.]
-[she nods at you, then raises an eyebrow and nods at the door.]
+christine goes to the fountain. christine gives a brief nod, then turns and begins to walk.]
+she frowns, glances at the collar, looks back at you. she makes a circle with her hands, puts her hand over her eyes and squints.]
+she nods at you, then lowers her hand from her eyes, shakes her head. she draws a slow line between you.]
+she studies you again, then her expression softens slightly. she shakes her head slowly, and gives a silent sigh.]
+she nods at you, then raises an eyebrow and nods at the door.]
 he saw me, before the scars, at a place far from here. it's where he found some of the technology he uses now.
 remembering a bad experience, somber it's a place called the big empty. the name's deceptive - if you know where to look.
 still reflecting almost got trapped there. there was someone else, though, who came along. knew about elijah.
@@ -2268,23 +2268,23 @@ he said he understood what it meant to track someone who had such a... impact on
 he said people were like couriers, sometimes never understanding the messages they brought. frowns that's who he was hunting for... some courier.
 disgusted try and reason with him, see what happens. he's so lost in his technology, i don't think he even understands why anymore.
 slight irritation fine. warning player i hear my collar beeping though, i've got the route to the exit all mapped out.
-[she nods... then gestures at your hand, offers hers.]
-[she holds it, meeting your eyes intently for a few moments. she gives your hand a gentle squeeze, then releases it and smiles slightly.]
-[she frowns, then waves you away and focuses on the terminal.]
-[she narrows her eyes, determined, and gives a last nod.]
-[she tries to open her mouth and nothing comes out. her eyes narrow and her hands ball into fists.]
-[she touches her collar, then shakes her head in frustration and nods at you to go ahead.]
-[christine tilts her head slightly, glances at your collar, then your pip-boy. she opens her mouth, frowns, then closes it.]
-[her face looks sad, and she taps her chest once, slowly. she nods at you, then the exit.]
-[christine takes a step back from your gaze... her eyes widen in alarm, she takes one step, then two toward the elevator.]
-[christine studies the elevator frame, raises her hands... then sets them down... then raises them up again.]
-[she gives a silent sigh of exasperation, and frowns at the elevator, and her hand brushes the side of her face, tracing the scar.]
-[she turns to you, relieved, and nods... then she turns away, and her face crumbles. she makes motions with her fingers, then clenches her fists.]
-[her face becomes angry. she points at the elevator, points downward, then wraps her arms around her and shakes her head.]
+she nods... then gestures at your hand, offers hers.]
+she holds it, meeting your eyes intently for a few moments. she gives your hand a gentle squeeze, then releases it and smiles slightly.]
+she frowns, then waves you away and focuses on the terminal.]
+she narrows her eyes, determined, and gives a last nod.]
+she tries to open her mouth and nothing comes out. her eyes narrow and her hands ball into fists.]
+she touches her collar, then shakes her head in frustration and nods at you to go ahead.]
+christine tilts her head slightly, glances at your collar, then your pip-boy. she opens her mouth, frowns, then closes it.]
+her face looks sad, and she taps her chest once, slowly. she nods at you, then the exit.]
+christine takes a step back from your gaze... her eyes widen in alarm, she takes one step, then two toward the elevator.]
+christine studies the elevator frame, raises her hands... then sets them down... then raises them up again.]
+she gives a silent sigh of exasperation, and frowns at the elevator, and her hand brushes the side of her face, tracing the scar.]
+she turns to you, relieved, and nods... then she turns away, and her face crumbles. she makes motions with her fingers, then clenches her fists.]
+her face becomes angry. she points at the elevator, points downward, then wraps her arms around her and shakes her head.]
 to herself "begin again, but know when to let go." shakes head, skeptical let's see what happens. christine now knows what she needs to say at the vault elevator. she will start heading toward it at the end of the sentence, to bark the password i
 i... can't let him leave here. look, you've done so much, and he's not going to show himself until you go down there.
-[succeeded] i...
-[failed] no... no, you have it wrong. look, it's now or never, all right? let me open the elevator. she's lying in this node.
+succeeded i...
+failed no... no, you have it wrong. look, it's now or never, all right? let me open the elevator. she's lying in this node.
 i can't let go. every time i've thought about it...
 quiet i've lost him so many times. he needs to die... what happened here, with us? doesn't want to think about ithe's... he's done so much worse.
 i know. and he pause will kill me, i can't get the collar off. even if i could, i need to be sure - see his eyes, his face, when he dies.
@@ -2293,52 +2293,52 @@ quiet i can't. it's my mission, has been. beat this has to be done.
 i... i didn't want this to happen. sighs ending him is more important than saving you. for what it's worth... i'm sorry.
 hopeful, slight all right. all right, i'll... frowns but i'll need to leave this floor. he'll pick up my collar, and...
 nods, sighs i... takes a breath never mind. let me get the vault open... to herself, slowly, quiet as if memorizing it "begin again... but know when to let go." slight rueful laugh, to playersounds like you. say this a little tenderly, the player just talked her down from suicide, and christine's found new purpose.
-[she is about to nod - then stops, points at herself, and shakes head.]
-[failed] [she frowns, shakes her head.]
-[succeeded] [she is about to nod - then stops, points at herself, and shakes head.]
-[failed] [she frowns, shakes her head.]
-[she frowns, slowly shakes her head - she opens her mouth, then makes the motion of tuning a dial, then points at herself.]
-[she nods, and motions for you to go ahead.]
-[she nods, once, then again, points at the two of you, then the pip-boy.]
-[succeeded] [she is about to nod - then stops, points at herself, and shakes head.]
-[failed] [she frowns, shakes her head.]
-[she looks puzzled for a second, then glares at you and motions you to move on.]
-[christine holds out her hand, and motions at your pip-boy.]
-[christine studies the pip-boy intently, turning your arm around as if your wrist's a sensor module she just found.]
-[she doesn't seem interested in the screen - she studies the exterior, then the casing. she seems to be making sure it's intact.]
-[she frowns, and snaps her fingers at your pip-boy.]
-[christine snarls, makes a dismissive wave, and goes back to studying the fountain intently - then looks at the casino, then the fountain again.]
-[christine shakes her head, then pauses, and makes a small circle with her thumb and forefinger.]
-[she points at you, and makes the motion of putting something in her palm.]
-[her finger stabs through the red buttons, narrowing in on the local map. she scrolls to the sierra madre's main gate, frowns, backs out.]
-[she calls up the local map of the puesta del sol switching station, zooms in. her intent expression loses some of its edge as she notes the marker.]
-[she looks up at you, points at marker on your pip-boy, points west and tilts her head.]
-[she points at the fountain, then at your pip-boy... pauses, then points at her collar, then yours.]
-[she encircles her throat with her hand, then slowly releases it. then she motions again to the west.]
-[she frowns, then makes a motion as if typing at keys... then she points at you, raises her left wrist and pantomimes talking into it.]
-[she points at you, then her, looks right and left, raises two fingers, tries to type, pauses, and slowly shakes her head.]
-[succeeded] [she slowly nods, looks impressed.]
-[failed] [she sighs silently, then shakes her head and motions to the west.]
-[she sighs silently, then shakes her head and motions to the west.]
-[she nods, then waits.]
-[she surveys the area, focusing upwards. she glances at the casino, frowns. she then looks west, then east.]
-[she glares at you. after a second, she pauses, and smiles slightly, shaking her head. she then makes a circle of the skyline with her finger.]
-[she examines the chip for a second, raises it to her eye, then turns it to the side, gauging its diameter and width.]
-[she runs her finger over the surface slowly, checking the engraving. she then tosses the chip back to you.]
-[she then pretends to look around, sees something on the floor, then pretends to bend down and pick it up. she then looks at you and nods.]
-[she frowns, shakes her head.]
-[she frowns, shakes her head.]
-[succeeded] [she smiles, nods.]
-[failed] [she frowns, looks frustrated for a moment, thinking.]
-[she frowns, looks frustrated for a moment, thinking.]
-[she stands still for a second, then stops, and slowly makes the motion of bending down and scooping something up.]
-[then she holds the imaginary object in her hand, as if heavy, and puts it in front of her, as if on a table.]
-[she then hefts what looks like a small box, and pours it on top of the object, looks at it, then reaches down and holds up a small "o."]
-[christine points at your pack, then points at the fission battery and the scrap metal.]
-[succeeded] [she smiles, nods.]
-[she points at your pip-boy, makes a motion of opening it up and removing something from it.]
-[she then raises her hand and makes the motion of smashing it and holding up the remains.]
-[failed] [she frowns, then thinks for a moment. she then points at your pack, and taps the back of her wrist.]
+she is about to nod - then stops, points at herself, and shakes head.]
+failed she frowns, shakes her head.]
+succeeded she is about to nod - then stops, points at herself, and shakes head.]
+failed she frowns, shakes her head.]
+she frowns, slowly shakes her head - she opens her mouth, then makes the motion of tuning a dial, then points at herself.]
+she nods, and motions for you to go ahead.]
+she nods, once, then again, points at the two of you, then the pip-boy.]
+succeeded she is about to nod - then stops, points at herself, and shakes head.]
+failed she frowns, shakes her head.]
+she looks puzzled for a second, then glares at you and motions you to move on.]
+christine holds out her hand, and motions at your pip-boy.]
+christine studies the pip-boy intently, turning your arm around as if your wrist's a sensor module she just found.]
+she doesn't seem interested in the screen - she studies the exterior, then the casing. she seems to be making sure it's intact.]
+she frowns, and snaps her fingers at your pip-boy.]
+christine snarls, makes a dismissive wave, and goes back to studying the fountain intently - then looks at the casino, then the fountain again.]
+christine shakes her head, then pauses, and makes a small circle with her thumb and forefinger.]
+she points at you, and makes the motion of putting something in her palm.]
+her finger stabs through the red buttons, narrowing in on the local map. she scrolls to the sierra madre's main gate, frowns, backs out.]
+she calls up the local map of the puesta del sol switching station, zooms in. her intent expression loses some of its edge as she notes the marker.]
+she looks up at you, points at marker on your pip-boy, points west and tilts her head.]
+she points at the fountain, then at your pip-boy... pauses, then points at her collar, then yours.]
+she encircles her throat with her hand, then slowly releases it. then she motions again to the west.]
+she frowns, then makes a motion as if typing at keys... then she points at you, raises her left wrist and pantomimes talking into it.]
+she points at you, then her, looks right and left, raises two fingers, tries to type, pauses, and slowly shakes her head.]
+succeeded she slowly nods, looks impressed.]
+failed she sighs silently, then shakes her head and motions to the west.]
+she sighs silently, then shakes her head and motions to the west.]
+she nods, then waits.]
+she surveys the area, focusing upwards. she glances at the casino, frowns. she then looks west, then east.]
+she glares at you. after a second, she pauses, and smiles slightly, shaking her head. she then makes a circle of the skyline with her finger.]
+she examines the chip for a second, raises it to her eye, then turns it to the side, gauging its diameter and width.]
+she runs her finger over the surface slowly, checking the engraving. she then tosses the chip back to you.]
+she then pretends to look around, sees something on the floor, then pretends to bend down and pick it up. she then looks at you and nods.]
+she frowns, shakes her head.]
+she frowns, shakes her head.]
+succeeded she smiles, nods.]
+failed she frowns, looks frustrated for a moment, thinking.]
+she frowns, looks frustrated for a moment, thinking.]
+she stands still for a second, then stops, and slowly makes the motion of bending down and scooping something up.]
+then she holds the imaginary object in her hand, as if heavy, and puts it in front of her, as if on a table.]
+she then hefts what looks like a small box, and pours it on top of the object, looks at it, then reaches down and holds up a small "o."]
+christine points at your pack, then points at the fission battery and the scrap metal.]
+succeeded she smiles, nods.]
+she points at your pip-boy, makes a motion of opening it up and removing something from it.]
+she then raises her hand and makes the motion of smashing it and holding up the remains.]
+failed she frowns, then thinks for a moment. she then points at your pack, and taps the back of her wrist.]
 thought you'd leave me in that elevator? slow anger, remembering how the player trapped her i haven't forgotten what you did in the switching station, not for a second.
 trapped down in that room in the dark, listening to that emph sound, like saw blades. cold, anger i could barely breathe... couldn't even scream!
 quiet, more to herself was like being operated on in that auto-doc in the clinic... all over again.
@@ -2347,174 +2347,174 @@ did you know the stimpak reservoirs ran out within an hour of being in there? i 
 disgust no med-x, no stims, just... that emph sound, feeling the scalpels... cut. cold now... we're going to see how you like it when someone else is in control. med-x, stims are healing items, and christine didn't have any, very painful. now is going to make player pay.
 i can switch the proximity of the detonation frequency. try and run? i'll have the signal seek you out, blow up your collar from a distance.
 come in close, maybe get the upper hand? i'll set off the proximity detonator, and your collar'll blow.
-[she points at the casino, makes a movement with her hands as if talking, and then repeats the squinting gesture.]
-[christine waits, studying you.]
-[she nods, impressed. then she points at you, then her and makes a circle.]
-[she nods. she then makes a series of hand motions to represent weight and amounts - enough so you think you could do it on your own.]
+she points at the casino, makes a movement with her hands as if talking, and then repeats the squinting gesture.]
+christine waits, studying you.]
+she nods, impressed. then she points at you, then her and makes a circle.]
+she nods. she then makes a series of hand motions to represent weight and amounts - enough so you think you could do it on your own.]
 when we first met, i thought i recognized the collar technology. just needed some time to experiment with it.
 i noticed the signal lag as soon as you arrived on the floor. collar detonator signal's down to a dull thud, more like a heartbeat than a screech.
 you think you can kill me, then make a run for the exit before my dead man's signal catches you and blows that collar. beat, player walked into trapnot gonna be that easy.
 the suites here gave me enough tools and enough time that our frequencies... i can push and pull that collar of yours however i want.
 cold, determined silence suits me fine. when your master shows, i'll deal with him, too. < christine talks smack back and starts the fight. "master" is delivered with disgust.>
-[succeeded] i did. and it means i can control your movements.
-[failed] dupe you'll find out.
-[succeeded] oh, it helps... as long as i need to control your movements.
-[failed] free? i have more freedom of movement than you do, and that's all i need.
+succeeded i did. and it means i can control your movements.
+failed dupe you'll find out.
+succeeded oh, it helps... as long as i need to control your movements.
+failed free? i have more freedom of movement than you do, and that's all i need.
 you'll find out.
 try and run, it won't matter, the signal will find you. get too close to me, then the signal'll lock on. you can't get away.
-[succeeded] [christine frowns, then pauses and traces one of the scars on her head with her finger.]
-[she then makes a motion as if picking up a pencil, tries to write, then shakes her head.]
-[failed] [christine nods, frowns, then points at you, then points west. then she glares at you.]
+succeeded christine frowns, then pauses and traces one of the scars on her head with her finger.]
+she then makes a motion as if picking up a pencil, tries to write, then shakes her head.]
+failed christine nods, frowns, then points at you, then points west. then she glares at you.]
 slightly uneasy, player is right we'll see. i don't think you're gonna have the time.
 you, elijah... it doesn't matter. both of you have run out of places to hide.
-[succeeded] no, i believe you. all along, you were watching out for yourself. i understand. a little softer here, for a second, christine is going to pass along some wisdom before the player dies.
+succeeded no, i believe you. all along, you were watching out for yourself. i understand. a little softer here, for a second, christine is going to pass along some wisdom before the player dies.
 but i wonder what you would have done if there hadn't been these collars. would you have gotten me out of the clinic at all?
 so as long as we're "in this together," and it's a choice between you and me? i know what you're going to choose.
 i'm not gonna wait for that to happen - again. i'm tired of being controlled.
-[failed] i believe you. and that's not the point. that collar... i believe you got caught by elijah, too. i don't think it changes who you are.
+failed i believe you. and that's not the point. that collar... i believe you got caught by elijah, too. i don't think it changes who you are.
 how you behaved in the villa... all that was you. and as bad as these collars are, maybe it kept you from being emph worse.
 and that's the worst part about all this. that it takes something like that to keep you from hurting someone else.
 disbelieving dean? emphhe put me in there? no, i don't believe it. he didn't have any reason to torture me. you, on the other hand...
 an audio-lock to where? beat, recognizes what happened to the sierra madre vault. it's voice-activated. and he wanted in.
 that makes sense. thinkingso... those bodies in the clinic... all right. dean always felt like the odd one out, and he kept... studying me. chewing it over, slight disgust at end.
 he was trying to figure out if i recognized him... and see if my throat healed. i'll deal with you first, then i'll deal with him.
-[she pauses, then draws a jagged symbol like electricity in the air, then puts on an odd, staring face.]
-[she keeps the blank face for a second, then slowly blinks, looks around. she looks at her hands, shakes them, then lets them go limp.]
-[she shakes her head... then stops, as if thinking.]
-[succeeded] [she nods, slowly, and then makes the motion of typing and drawing x's and lines in the air, and then gives a thumbs up.]
-[failed] [she looks distant... then slowly shakes her head.]
-[she nods, smiles.]
-[she nods.]
-[she nods. she raises an eyebrow, points at you, makes a circle, then points at your feet.]
-[christine looks at you, frowns. then glances at the casino, her eyes narrowed. she stops breathing for a second, as if holding it in.]
-[she ignores you for a second, still staring at the casino. then she glances at you, and her face and stance relax slightly.]
-[she points at her collar, then the casino with an irritated look. she then folds her arms and raises an eyebrow.]
-[succeeded] [she looks like she's about to shake her head, stops, and then puts her hand over her eyes and squints, as if staring in the distance.]
-[failed] [she glares at you a moment, then slowly shakes her head.]
-[succeeded] dupe [she looks like she's about to shake her head, stops, and then puts her hand over her eyes and squints, as if staring in the distance.]
-[failed] [she glares at you a moment, then slowly shakes her head.]
+she pauses, then draws a jagged symbol like electricity in the air, then puts on an odd, staring face.]
+she keeps the blank face for a second, then slowly blinks, looks around. she looks at her hands, shakes them, then lets them go limp.]
+she shakes her head... then stops, as if thinking.]
+succeeded she nods, slowly, and then makes the motion of typing and drawing x's and lines in the air, and then gives a thumbs up.]
+failed she looks distant... then slowly shakes her head.]
+she nods, smiles.]
+she nods.]
+she nods. she raises an eyebrow, points at you, makes a circle, then points at your feet.]
+christine looks at you, frowns. then glances at the casino, her eyes narrowed. she stops breathing for a second, as if holding it in.]
+she ignores you for a second, still staring at the casino. then she glances at you, and her face and stance relax slightly.]
+she points at her collar, then the casino with an irritated look. she then folds her arms and raises an eyebrow.]
+succeeded she looks like she's about to shake her head, stops, and then puts her hand over her eyes and squints, as if staring in the distance.]
+failed she glares at you a moment, then slowly shakes her head.]
+succeeded dupe she looks like she's about to shake her head, stops, and then puts her hand over her eyes and squints, as if staring in the distance.]
+failed she glares at you a moment, then slowly shakes her head.]
 grim, shakes head i've... done worse. much worse... and for more hopeless causes, and i will again.
-[she nods.]
-[she wrinkles her face, frowns, and looks angry. she touches her throat, traces the scar with her finger, then points the finger at the casino.]
-[she then points at your collars, points at the casino. then she matches your gaze with a dark expression, then draws a slow line across her throat.]
-[she gives a nod. then another nod, even slower.]
-[she nods grimly. she seems satisfied.]
-[christine's expression relaxes slightly, and she nods.]
-[christine's expression becomes furious, and she raises her hands, draws jagged lines in the air.]
-[she then points at you, then the direction of the casino, and makes the motion of two hands talking to each other.]
-[as one hand continues to talk, she moves the other hand to the wrist, and constricts until the other hand slows, stops talking.]
-[christine looks at you, then shakes her head, points at your collar, then the front gate and shakes her head.]
-[she then slowly shakes her head and draws an "x" in the air.]
-[she then slowly shakes her head and draws an "x" in the air.]
-[she looks at you for a moment, studying you. she doesn't move. after a second or two, she frowns.]
-[she frowns, glances at your feet, then nods. she then raises an eyebrow, points at you, makes a circle, then points at your feet.]
-[she continues to look at you for a moment, studying you, then her eyes fall to your collar, then your pip-boy.]
-[she glances back up at you, then she circles herself and points at the ground between you.]
-[she repeats the circling motion again. this time, she lowers her hand and circles her finger inward, until she's pointing at the spot between you.]
-[still pointing at the ground between you two, she raises an eyebrow.]
-[succeeded] [she smiles, nods.]
-[failed] [she makes a mock sigh.]
-[she waits. after a second, she raises her eyebrow again.]
-[she shrugs, then taps the back of her palm in the direction of the fountain.]
-[she shrugs, then taps the back of her palm, pointing west and down.]
-[almost against her will, she smiles. after a moment, the smile fades, and she points at the ground again.]
-[she looks at you for a second, studying you. then nods.]
-[she points at you, then points at the casino, and she slowly shakes her head - then points in the direction of the main gate.]
-[she frowns, puts her hands on her hips and glares at you. after a second, she rolls her eyes.]
-[she then makes a mocking, slow intake of breath, and then winces. then she glances at you, points in the direction of main gate.]
-[she looks at you for a moment, glances at your collar, shrugs. she then lightly grabs her neck with both hands, holds it for a moment.]
-[then her hands fall away. she looks at you, looks at the exit and nods.]
-[she slowly shakes her head, then points at the ground.]
-[she frowns. glances in the direction of the casino, then the exit, then back in the direction of the casino.]
-[she shrugs... without strength or conviction. she isn't looking at you when she does.]
-[she points in the direction of the main gate. then points at your collar, shakes her head, and locks her hands around her neck.]
-[then her hands lash outwards, fingers splayed and she rolls her eyes back. after a second she turns back to you shakes her head.]
-[she nods slowly, as if thinking. then she raises an eyebrow, looks skeptical, then shrugs.]
-[she points downwards, makes a circle around her, then back to the same spot... and then her finger drifts, circling, and she makes a mock-frown.]
-[succeeded] [she shakes her head, points at herself, then points at you, nods.]
-[failed] [she looks frustrated, then makes a dismissive wave.]
-[she shakes her head and rolls her eyes.]
-[she nods.]
-[she nods once.]
-[she slowly shakes her head. she points at the ground, then moves each leg outward, straddling the place where she's pointing.]
-[she nods.]
-[she frowns, shakes her head... pauses... then tilts her head slightly, nods slowly.]
-[she frowns, makes a mock motion of loading a gun, then hefting it to her shoulder and taking aim at something in the distance.]
-[then she pauses, makes a sweeping circle, then puts her arms in a circle around it, as if covering it.]
-[shakes her head and makes a motion of two fingers walking.]
-[succeeded] [she looks impressed, nods.]
-[failed] [she looks frustrated, then makes a dismissive wave.]
-[she looks at you, as if surprised. then glances at your collar, wrinkles her face, and points at it.]
-[she makes a wide sweeping circle of the area, looking around... then brings both hands back to her, then to her neck, and holds it.]
-[her hands still on her neck, she looks at you gravely, then shakes her head.]
-[she nods slowly, hands still locked on her throat. she looks pained for a moment, and she breaks from your gaze.]
-[her fingers flutter, almost frantically, for a second, and she runs her hands along her scalp, then her throat - then the collar.]
-[she points at your pip-boy, almost with frustration... then gestures all around her, and her shoulders seem to sag.]
-[after a moment, she glances back at you, glances around her, then shakes her head slowly.]
-[she points at your collar, then hers, and shakes her head slowly... then cuts the air with her hand and her face becomes blank.]
-[she gives you a snarl, glances at your collar, makes a dismissive wave.]
-[she smiles humorlessly. she then nods once slowly. then she shakes her head slowly.]
-[she then looks at you, her face wrinkled in a humorless smile.]
-[succeeded] [her face wrinkles more, and then she gives a reluctant smile.]
-[failed] [she looks frustrated, then makes a dismissive wave.]
-[she nods and raises a finger.]
-[still smiling, she rolls her eyes, and then slowly taps the back of her wrist.]
-[she looks at you, surprised. then she opens her mouth as if to laugh... silently.]
-[almost as soon as she utters her silent laugh, she stops, looks pained, and her expression becomes dark.]
-[she doesn't look at you, continues to stare darkly in front of her.]
-[after a moment, she glances at you, then taps the back of her wrist. she nods in front of her.]
-[she shakes her head and rolls her eyes.]
-[she frowns and raises her middle finger.]
-[she shakes her head and pumps her fist near her chest.]
-[she nods. she makes a motion with her hands around her chin, drawing it down, and then she raises her hands and clenches them at the sky.]
-[she shakes her head... then stops mid-way, frowns... then tilts her head, as if thinking. she seems lost in thought for a moment.]
-[she glances at you, as if caught, then she smiles slightly, but there's an edge to it. then she shakes her head, slowly, once.]
-script: knows that elijah is in pip-boy [she points at your pip-boy.]
-[she nods, looks concerned, taps the side of her head, and expands her hands.]
-[she shakes her head, points at your pip-boy again.]
-[she shakes her head, points at your pip-boy again and makes a talking motion with her hand.]
-[she nods, then circles her ear.]
-[she nods, frowns.]
-[succeeded] [she frowns, raises two fingers, and has them walk together. then she looks down on the two fingers, and her face becomes angry.]
-[then she chops her hand down, and draws the two fingers apart. one of the finger she points at herself.]
-[failed] [she pauses, looks at you for a second, then shrugs and shakes her head.]
-[she repeats the chopping motion, slower, then draws the two fingers apart. she looks sadly at one of the fingers.]
-[she nods.]
-[she frowns, shakes her head, and even more so at husband.]
-[she hesitates, then waves her hand.]
-[she shakes her head.]
-[she shakes her head, but rolls it side to side.]
-[she hesitates, then waves her hand.]
-[she hesitates, then waves her hand.]
-[she nods, and looks at you a little surprised.]
-[she shakes her head, draws the two fingers together, then shakes her head more emphatically.]
-[she raises an eyebrow, looks at you.]
-[she nods slowly, studying you. she seems to be gauging you again.]
-[she makes a slow circle motion after a moment, taps her wrist.]
+she nods.]
+she wrinkles her face, frowns, and looks angry. she touches her throat, traces the scar with her finger, then points the finger at the casino.]
+she then points at your collars, points at the casino. then she matches your gaze with a dark expression, then draws a slow line across her throat.]
+she gives a nod. then another nod, even slower.]
+she nods grimly. she seems satisfied.]
+christine's expression relaxes slightly, and she nods.]
+christine's expression becomes furious, and she raises her hands, draws jagged lines in the air.]
+she then points at you, then the direction of the casino, and makes the motion of two hands talking to each other.]
+as one hand continues to talk, she moves the other hand to the wrist, and constricts until the other hand slows, stops talking.]
+christine looks at you, then shakes her head, points at your collar, then the front gate and shakes her head.]
+she then slowly shakes her head and draws an "x" in the air.]
+she then slowly shakes her head and draws an "x" in the air.]
+she looks at you for a moment, studying you. she doesn't move. after a second or two, she frowns.]
+she frowns, glances at your feet, then nods. she then raises an eyebrow, points at you, makes a circle, then points at your feet.]
+she continues to look at you for a moment, studying you, then her eyes fall to your collar, then your pip-boy.]
+she glances back up at you, then she circles herself and points at the ground between you.]
+she repeats the circling motion again. this time, she lowers her hand and circles her finger inward, until she's pointing at the spot between you.]
+still pointing at the ground between you two, she raises an eyebrow.]
+succeeded she smiles, nods.]
+failed she makes a mock sigh.]
+she waits. after a second, she raises her eyebrow again.]
+she shrugs, then taps the back of her palm in the direction of the fountain.]
+she shrugs, then taps the back of her palm, pointing west and down.]
+almost against her will, she smiles. after a moment, the smile fades, and she points at the ground again.]
+she looks at you for a second, studying you. then nods.]
+she points at you, then points at the casino, and she slowly shakes her head - then points in the direction of the main gate.]
+she frowns, puts her hands on her hips and glares at you. after a second, she rolls her eyes.]
+she then makes a mocking, slow intake of breath, and then winces. then she glances at you, points in the direction of main gate.]
+she looks at you for a moment, glances at your collar, shrugs. she then lightly grabs her neck with both hands, holds it for a moment.]
+then her hands fall away. she looks at you, looks at the exit and nods.]
+she slowly shakes her head, then points at the ground.]
+she frowns. glances in the direction of the casino, then the exit, then back in the direction of the casino.]
+she shrugs... without strength or conviction. she isn't looking at you when she does.]
+she points in the direction of the main gate. then points at your collar, shakes her head, and locks her hands around her neck.]
+then her hands lash outwards, fingers splayed and she rolls her eyes back. after a second she turns back to you shakes her head.]
+she nods slowly, as if thinking. then she raises an eyebrow, looks skeptical, then shrugs.]
+she points downwards, makes a circle around her, then back to the same spot... and then her finger drifts, circling, and she makes a mock-frown.]
+succeeded she shakes her head, points at herself, then points at you, nods.]
+failed she looks frustrated, then makes a dismissive wave.]
+she shakes her head and rolls her eyes.]
+she nods.]
+she nods once.]
+she slowly shakes her head. she points at the ground, then moves each leg outward, straddling the place where she's pointing.]
+she nods.]
+she frowns, shakes her head... pauses... then tilts her head slightly, nods slowly.]
+she frowns, makes a mock motion of loading a gun, then hefting it to her shoulder and taking aim at something in the distance.]
+then she pauses, makes a sweeping circle, then puts her arms in a circle around it, as if covering it.]
+shakes her head and makes a motion of two fingers walking.]
+succeeded she looks impressed, nods.]
+failed she looks frustrated, then makes a dismissive wave.]
+she looks at you, as if surprised. then glances at your collar, wrinkles her face, and points at it.]
+she makes a wide sweeping circle of the area, looking around... then brings both hands back to her, then to her neck, and holds it.]
+her hands still on her neck, she looks at you gravely, then shakes her head.]
+she nods slowly, hands still locked on her throat. she looks pained for a moment, and she breaks from your gaze.]
+her fingers flutter, almost frantically, for a second, and she runs her hands along her scalp, then her throat - then the collar.]
+she points at your pip-boy, almost with frustration... then gestures all around her, and her shoulders seem to sag.]
+after a moment, she glances back at you, glances around her, then shakes her head slowly.]
+she points at your collar, then hers, and shakes her head slowly... then cuts the air with her hand and her face becomes blank.]
+she gives you a snarl, glances at your collar, makes a dismissive wave.]
+she smiles humorlessly. she then nods once slowly. then she shakes her head slowly.]
+she then looks at you, her face wrinkled in a humorless smile.]
+succeeded her face wrinkles more, and then she gives a reluctant smile.]
+failed she looks frustrated, then makes a dismissive wave.]
+she nods and raises a finger.]
+still smiling, she rolls her eyes, and then slowly taps the back of her wrist.]
+she looks at you, surprised. then she opens her mouth as if to laugh... silently.]
+almost as soon as she utters her silent laugh, she stops, looks pained, and her expression becomes dark.]
+she doesn't look at you, continues to stare darkly in front of her.]
+after a moment, she glances at you, then taps the back of her wrist. she nods in front of her.]
+she shakes her head and rolls her eyes.]
+she frowns and raises her middle finger.]
+she shakes her head and pumps her fist near her chest.]
+she nods. she makes a motion with her hands around her chin, drawing it down, and then she raises her hands and clenches them at the sky.]
+she shakes her head... then stops mid-way, frowns... then tilts her head, as if thinking. she seems lost in thought for a moment.]
+she glances at you, as if caught, then she smiles slightly, but there's an edge to it. then she shakes her head, slowly, once.]
+script: knows that elijah is in pip-boy she points at your pip-boy.]
+she nods, looks concerned, taps the side of her head, and expands her hands.]
+she shakes her head, points at your pip-boy again.]
+she shakes her head, points at your pip-boy again and makes a talking motion with her hand.]
+she nods, then circles her ear.]
+she nods, frowns.]
+succeeded she frowns, raises two fingers, and has them walk together. then she looks down on the two fingers, and her face becomes angry.]
+then she chops her hand down, and draws the two fingers apart. one of the finger she points at herself.]
+failed she pauses, looks at you for a second, then shrugs and shakes her head.]
+she repeats the chopping motion, slower, then draws the two fingers apart. she looks sadly at one of the fingers.]
+she nods.]
+she frowns, shakes her head, and even more so at husband.]
+she hesitates, then waves her hand.]
+she shakes her head.]
+she shakes her head, but rolls it side to side.]
+she hesitates, then waves her hand.]
+she hesitates, then waves her hand.]
+she nods, and looks at you a little surprised.]
+she shakes her head, draws the two fingers together, then shakes her head more emphatically.]
+she raises an eyebrow, looks at you.]
+she nods slowly, studying you. she seems to be gauging you again.]
+she makes a slow circle motion after a moment, taps her wrist.]
 deliver this slow, thoughtful, seems like a dupe, isn't the gala went off, the switching station opened up - to herself, rueful thought the screeching in the auto-doc was bad, station worse.
 got outside, saw the light show, and it was enough to make me run to the casino.
 also... it seemed like the lights and speakers were helping to guide me... guess your master wanted a back-up in case you died.
 as for being assigned to this floor... maybe it's because of my new voice. your guess is as good as mine. beat, sarcastic maybe it recognized me as a guest.
-[christine draws a jagged lightning bolt in the air, pantomimes throwing a grenade, and then pulls an imaginary knife from behind her back.]
-[then she moves her feet shoulder width apart, holds hands up in a martial arts stance, then turns both hands into pistols, pantomimes rapid-firing.]
-[she then holds one pistol up, takes aim as if sighting along the barrel and does a single shot, ends with a nod.]
-[she nods. once.]
-[she shrugs slightly, then waits.]
-[she makes a disapproving frown, shakes her head.]
+christine draws a jagged lightning bolt in the air, pantomimes throwing a grenade, and then pulls an imaginary knife from behind her back.]
+then she moves her feet shoulder width apart, holds hands up in a martial arts stance, then turns both hands into pistols, pantomimes rapid-firing.]
+she then holds one pistol up, takes aim as if sighting along the barrel and does a single shot, ends with a nod.]
+she nods. once.]
+she shrugs slightly, then waits.]
+she makes a disapproving frown, shakes her head.]
 frowns, slow you know what... you're right. i don't need to use the same methods to kill you, and i shouldn't... it would make me as bad as elijah is.
 cold, low all right - forget the proximity frequency, we'll decide this ourselves.
-[christine stops, glances at the speaker, then glances at your collar, frowning.]
+christine stops, glances at the speaker, then glances at your collar, frowning.]
 breaks into player's frequency while he's being blasted with turrets, urgencyseeing what i can do to shut those turrets down from up here... come on... come on... <audio: from player's bomb collar. christine tells the player that she's trying to bring the vault's turrets down.>
 ...got it, two of 'em down... can't shut down the others - he's cut off access. frustrateddammit! beat, cold put him down, bury him - whatever it takes! <christine succeeds in hampering the vault's security turrets.><christine lets the player know that two turrets are now disabled. she urges the pla
 ...got it, two of 'em down... can't shut down the others - he's cut off access. frustrateddammit! beat, cold put him down, bury him - whatever it takes! <christine succeeds in hampering the vault's security turrets.><christine lets the player know that two turrets are now disabled. she urges the pla
 hesitates, big moment"begin again - slightly quieterbut know when to let go." christine hesitates for a moment, preparing herself to speak the password to open the vault elevator. a pregnant pause, then she delivers.
-[christine studies dean, frowns.]
-[christine shakes her head slowly.]
-[christine frowns, tilts her head slightly.]
-[christine's eyes narrow.]
-[christine eyes narrow to slits.]
-[christine taps her collar, makes a sweeping gesture at the area, then begins to pulse her fingers outward, faster and faster.] she's indicating speakers may be nearby.
-[christine nods at the vending machine, then makes a sweeping gesture with both arms and draws them to her chest.] <after entering a room with a vending machine, christine indicates to the player that it may be a good time to stock up on supplies>
+christine studies dean, frowns.]
+christine shakes her head slowly.]
+christine frowns, tilts her head slightly.]
+christine's eyes narrow.]
+christine eyes narrow to slits.]
+christine taps her collar, makes a sweeping gesture at the area, then begins to pulse her fingers outward, faster and faster.] she's indicating speakers may be nearby.
+christine nods at the vending machine, then makes a sweeping gesture with both arms and draws them to her chest.] <after entering a room with a vending machine, christine indicates to the player that it may be a good time to stock up on supplies>
 christine dead: narrationchristine, scarred by her hunt for elijah and unable to let him go, perished in the sierra madre casino. this plays if christine died. even though narrating, keep this on the somber side.
 narration she never completed her mission, nor did she stop to consider what had driven her to accept the mission in the first place. this plays if christine died. even though narrating, slightly judgmental.
 narration obsession is another form of greed, a lesson that christine never learned. this plays if christine died. even though narrating, slightly judgmental and sad at the same time, as if shaking head.
@@ -2524,19 +2524,19 @@ narration, a little tender hereat times, christine thought of the courier, who h
 narration the courier reminded her of the slight emph other courier she had met in the big empty, and wondered if the two had found each other at last. big empty is a location in fallout.
 narration, quiet she did not think of them again until she heard the legends of the divide. the divide is another location in fallout.
 slow, reverent - this is quietly dramatic, ends on a sad downnote the divide, where the two messengers, the two couriers, fought beneath an ancient flag, at the edge of the world. slow, draw this to a close. keep this quietly dramatic. this is forecasting a horrible, tragic event to come in a future adventure.
-[you hear banging from the speaker, as if someone is hammering on a wall with their fists.]
-[you hear a tapping from the speaker... a series of sharp taps, then a slow, two taps.]
-[the hammering stops for a second... and there's one final bang from the speaker, as if someone is smashing their fist into a wall.]
-[a single tap comes from the speaker, then silence.]
-[christine narrows her eyes, gets into a combat stance.]
-[christine frowns.]
-[christine flicks her finger back and forth quickly like a switch, then nods to the north.] <indicates to the player that the switching station is to the north>
-[christine frowns, looks upward, then back at you. she nods her head upwards, then makes the motion of holding a gun at the ready.] <indicates that it might be safer to find higher ground>
-[christine's eyes dart around at the walls and the ceiling. she glances at the exit, then takes a slow breath. sweat appears on her brow.] <when entering a small underground room christine indicates that she doesn't like small spaces and would prefer to be above ground>
-[christine's eyes dart in the direction of the screeching sound. she looks frightened and trembles slightly, as if fighting an urge to run.]
-[christine frowns, points at your collar, then hers.]
-[christine points at mine, then taps her temple.]
-[christine covers her ears.]
+you hear banging from the speaker, as if someone is hammering on a wall with their fists.]
+you hear a tapping from the speaker... a series of sharp taps, then a slow, two taps.]
+the hammering stops for a second... and there's one final bang from the speaker, as if someone is smashing their fist into a wall.]
+a single tap comes from the speaker, then silence.]
+christine narrows her eyes, gets into a combat stance.]
+christine frowns.]
+christine flicks her finger back and forth quickly like a switch, then nods to the north.] <indicates to the player that the switching station is to the north>
+christine frowns, looks upward, then back at you. she nods her head upwards, then makes the motion of holding a gun at the ready.] <indicates that it might be safer to find higher ground>
+christine's eyes dart around at the walls and the ceiling. she glances at the exit, then takes a slow breath. sweat appears on her brow.] <when entering a small underground room christine indicates that she doesn't like small spaces and would prefer to be above ground>
+christine's eyes dart in the direction of the screeching sound. she looks frightened and trembles slightly, as if fighting an urge to run.]
+christine frowns, points at your collar, then hers.]
+christine points at mine, then taps her temple.]
+christine covers her ears.]
 cold, determined silence suits me fine. when your master shows, i'll deal with him, too. < christine talks smack back and starts the fight. "master" is delivered with disgust.>
 takes a breath i've been hunting the one who hijacked your pip-boy, elijah, for... some time. < voice is restored. christine tells the player about her mission to kill elijah. >
 deadly serious he emphcannot leave the sierra madre alive. what he's done... what he's done here is nothing compared to what he's done in the past.
@@ -2612,12 +2612,12 @@ like told to wait in a dmz whoa, whoa, whoa... in the middle of town here? alone
 sarcastic tell you what - why don't you just find one of those cosmic steak knives so i can slit my wrists, be less emph painful checking out that way.
 yeah - don't you? or... frowns guess vera keyes got lost along with the rest of the holo-archives when the bomb hit, huh?
 little wistful ghost in name and image. still a looker, though. quiet got to hand it to sinclair, sure can pick 'em. well, or get picked. whichever.
-[succeeded] bluffing, slightly uneasy lucky guess... you sure about that? because if you make a mistake... well, sierra madre's got us both.
-[failed] yeah, you're a gambler. me, i don't take chances. trust me, only emph one of us has a sure out.
+succeeded bluffing, slightly uneasy lucky guess... you sure about that? because if you make a mistake... well, sierra madre's got us both.
+failed yeah, you're a gambler. me, i don't take chances. trust me, only emph one of us has a sure out.
 relieved yeah, now. talk about a captive audience. frowns, thinking it over or captive entertainer? eh - whatever. <dean gives key to his safe - where supplies, and vera's holotape are found. he also gives the entertainer pass, to open theater up. thanks.>
 might be a bit rude, but that chair you're sitting in - it's got a shaped charge in the seat cushion.
-[succeeded] impressed sounds like you've done some blue collar construction work in your life, your ma must be proud. still...
-[failed] "butt" is right. that heart-shaped charge in the stuffing will cause just the right amount of bleeding.
+succeeded impressed sounds like you've done some blue collar construction work in your life, your ma must be proud. still...
+failed "butt" is right. that heart-shaped charge in the stuffing will cause just the right amount of bleeding.
 frowns great, a moron - just what i need. beat look? that seat you're sitting in? it's a emph bomb. go boom.
 get up without my permission, i'll blast your ass so far through your head, it'll turn the moon cherry pie red.
 so - let's keep this sweet and polite, and finish our conversation with no misunderstandings.
@@ -2628,8 +2628,8 @@ talking level with the player, relieved to be saved i'm not an idiot. i know the
 rueful and emph you're wearing a collar, so i trust you a emph little more than the old guy. beat, throw this line away he's more controlling than i'd like.
 whispering thing is, here's where being my emph partner pays off. see, i know how to get into the casino vault.
 so here's the short of it - piece together little miss vera keyes' song in the right order? beat, spreads hands sierra madre opens its legs, we're in business.
-[succeeded] pleased and that's what i've missed - a rapt audience.
-[failed] you don't listen too good, do you? colder makes me think whatever you have to say isn't worth my time.
+succeeded pleased and that's what i've missed - a rapt audience.
+failed you don't listen too good, do you? colder makes me think whatever you have to say isn't worth my time.
 irritated, bad side starts coming out oh, of course you do. now, it's like we're married with these big wedding rings around our necks.
 so why don't you hear emph my proposal first, before you start talking about what emph you need.
 christ, if that collar blows, i don't know if you'd know the difference, you'd probably still keep walking around with that dumb, blank look.
@@ -2666,8 +2666,8 @@ tried talking to them, bribing them, leaving food - nothing. in the years since,
 they catch you, they drag you into the cloud, and you're not coming back out. to himselfafter that, having your necktie go off would be mercy.
 my advice? stay out of their way, they don't die easy.
 that's an interesting clause. frowns that's a real bad contract you have. we have.
-[succeeded] frowns, suspicious what are you talking about?
-[failed] the hand's been dealt, emph that's the deal. you going along with my terms, or do you want your brains to be wallpaper?
+succeeded frowns, suspicious what are you talking about?
+failed the hand's been dealt, emph that's the deal. you going along with my terms, or do you want your brains to be wallpaper?
 just like all the rest. strolling in here, thinking you own the place. i've been here longer than emph any of you tourists.
 trust me, i'm letting you off easier than the sierra madre ever would. nobody's going to miss you... whoever you are, you're old news.
 laughs all right, all right... looks like marriage finally caught me.
@@ -2680,10 +2680,10 @@ i'm serious. one of the locals catches us, we aren't coming back - and i'd like 
 you shoot them, they get back up. you stab them, they get back up.
 that's why i have explosives all over this place - unless you blow them up, chop them up, disintegrate 'em, shakes head the ghost people don't go down.
 not enough bullets in the town to spend on them. so unless you're a real good shot, save one for yourself right before they catch you.
-[succeeded] studying player well... you seem like you know how to handle yourself. all right.
+succeeded studying player well... you seem like you know how to handle yourself. all right.
 once, i fired a lucky shot, hit a gas tank one was holding. blew his arm off at the shoulder... and he didn't get back up after that.
 so if you're emph that good, don't aim for the head - aim for their bombs. and if you can wait until his buddies are close by, even better.
-[failed] yeah, well, "probably" is something a gambler says, not a survivor. i'd keep your pistol where it belongs - in the holster.
+failed yeah, well, "probably" is something a gambler says, not a survivor. i'd keep your pistol where it belongs - in the holster.
 slight exasperation, as if he's thought about this a lot, then tries to recall hamlet quotefriend... "there's more mysteries in heaven and earth..." wait, no, "there is more between heaven and earth..." oh, forget it.
 i'd sooner ask what makes me an undying son of a bitch than spend any thought as to why emph they crawled to life here.
 i'm counting myself lucky i still have my faculties - they sure don't. then again, they may not have had the... focus i do.
@@ -2785,9 +2785,9 @@ i don't know. she might need to hold some place where speaking isn't important. 
 and me? i've had prime billing in europe, new york... and this gig doesn't feel like that.
 don't get me wrong, i can hold an audience, conduct a score from the rooftops, but i'm guessing i'm the odd man out in this whole heist.
 little miss silence...? maybe she needs to be in some place where she can be seen, but being heard isn't important?
-[succeeded] yeah... maybe the drain in power, that'll cause the security systems to shut down enough to let us in. but... getting back out?
+succeeded yeah... maybe the drain in power, that'll cause the security systems to shut down enough to let us in. but... getting back out?
 no, the place'll close up tighter than an opening at the fronds. to himself or danny parker's sphincter when he has to tip a doorman. fronds = old world casino, danny parker = old world entertainer that domino didn't like too much.
-[failed] interesting... in the sense that having some light show open the sierra madre? interesting to me, who would have thought? whoops, almost revealed too much, backpedaling a bit here before the player finds him out.
+failed interesting... in the sense that having some light show open the sierra madre? interesting to me, who would have thought? whoops, almost revealed too much, backpedaling a bit here before the player finds him out.
 oh, it'll light up the casino, light up the sky... set the speakers in the villa to play beautiful, soothing music. oh, sure, it'll be all sweetness and roses...
 ...and when i say soothing music, i mean with the speakers being the state they are, things'll be screaming, all right. think air raid sirens. ...if by roses, you mean venus flytraps.
 that means it'll wake up everything in town like a hornet's nest. not sure what a hornet is? forget it - basically, trouble.
@@ -2827,24 +2827,24 @@ as bad as things are, it's going to get a lot worse if either of us pops - so ge
 dupe good, go, and don't get yourself killed - do that, and we're both done.
 good, go, and don't get yourself killed - do that, and we're both done.
 nervous look... just get rid of them, all right? tried to slip off stage, then they all started changing color and raising their hands... emphnot a good sign. <dean pleads to be rescued from the theater's holograms. he vanishes into the stage's scaffolding/hallways to hide away from them - holograms are on>
-[succeeded] uh... right. uh... let's see... when you get the door open, there'll be an exit door dead ahead. emph don't take it.
+succeeded uh... right. uh... let's see... when you get the door open, there'll be an exit door dead ahead. emph don't take it.
 it's most likely filled with toxins from the vents. so hug the wall, make as much space between you and the door... or it's cloud nine in a casket. or it's curtains for you.
 past that... thinking is my dressing room. under the table there's a footlocker. it's tucked back a bit, so you might miss it. inside, a gun, some ammo.
 not much help against the ghosts, still, if you're about to give up, call it quits? beat, punchlinethrow it to emph me so i can eat a bullet first.
-[failed] anything else? i've told you all i can think of! now, come on, get going.
+failed anything else? i've told you all i can think of! now, come on, get going.
 slight nervous you are preaching to the choir. sinclair and his security... don't even get me started. those holograms... being slightly casual in his speech here, even though his life is in danger.
-[succeeded] slight frustration - what's the player getting at? yeah... yeah, so what? we got bigger problems with the holograms... no, no, wait, you're right. reverses his tone, realizes the player's thinking long term, which is smart.
+succeeded slight frustration - what's the player getting at? yeah... yeah, so what? we got bigger problems with the holograms... no, no, wait, you're right. reverses his tone, realizes the player's thinking long term, which is smart.
 frustrated the theater piped music and sound backstage, which means those little squealers are in the corridors back there, too.
-[failed] urgent what about them? the speakers won't kill you if you leave them alone, don't worry about them, just get backstage. increased urgency at the end, but won't raise his voice.
+failed urgent what about them? the speakers won't kill you if you leave them alone, don't worry about them, just get backstage. increased urgency at the end, but won't raise his voice.
 uh... let's see. um, once you break right, watch each turn in the corridor, one'll be on your right past my dressing room - and up.
 oh, my dressing room - may have left the radio on, right by the table... uh, if you could just shut it off instead of blowing it u... uh, never mind.
 remembering and there was a speaker in the prop room, too - on the wall between the entrances. and... well, walk slow - there's bound to be more.
-[succeeded] thinking yeah... yeah, right. so... let's see... security's here because the show hasn't started. guests aren't allowed in, so...
+succeeded thinking yeah... yeah, right. so... let's see... security's here because the show hasn't started. guests aren't allowed in, so...
 ...guess we need to start the show. okay... so when they were setting this place up... we had rehearsals...
 relaxes a bit ...and heh... sinclair even set up hologram recordings of the shows so we could watch and critique our performances before a fake audience. beat, slight anger whatever. slight anger at end, reminding himself he hates sinclair.
 thing is, when the recording queued up, a nice, calm, appreciative audience appeared in the theater - no security with their head-blasting zap rays.
 so, find the music, get it to the projector room upstairs, then play it...? might reset security, worth a shot.
-[failed] one thing at a time - and buying time is what we need, all right? think in the now, it'll sort itself out. beat i hope.
+failed one thing at a time - and buying time is what we need, all right? think in the now, it'll sort itself out. beat i hope.
 look, i'm in danger here, all right, not exactly thinking with a level head, so cut me some slack. beat please. genuinely sorry at the end, realizes player could leave him out to dry.
 the speakers are all controlled by a central console. thinking it's the farthest from the only door out of here...
 ...so you'd need to do a full circuit of the corridor to get to it. once there, you'll need to shut it down, and i don't have the code.
@@ -2852,17 +2852,17 @@ if you have the code, you can turn off emph all the speakers, make them settle d
 the holotape should be where i left it... no, wait. it's... it's in vera's dressing room, probably. may... may be a key to her room on my desk.
 anyway... snag the key out of my room, and look around vera's room, the holotape has to be there. as for getting it to the projection booth...
 well... sometimes vera used to watch from the projection booth, so she must have had a master key... look around her room, might be there.
-[succeeded] what? oh, my left - your right. so, yeah, run to the door on your right. beatheh, almost got you killed there. to himself us killed there.
-[failed] right, the locked door to the left. watch out, the guards are going to materialize in any second, crouch and take it slow.
+succeeded what? oh, my left - your right. so, yeah, run to the door on your right. beatheh, almost got you killed there. to himself us killed there.
+failed right, the locked door to the left. watch out, the guards are going to materialize in any second, crouch and take it slow.
 do i have to spell it out? come on. time's wasting, and those holograms are going to be on us any second.
 what? are you sure? beat, realizes that song... that stupid song of hers... no, that makes perfect sense.
 and it was always playing here in the casino... dammit, if i'd only brought a recording inside... so, what, you're trying to recover it?
 oh, i'm not going to fight you - i'm going to let emph security show you out. didn't see anyone come in? well... they'll be here soon.
 guess vera echoes down through the ages, then. sierra madre hasn't completely forgotten her.
 frowns so that's why you showed... you wanted what was in the music archives on this floor, hook up the signal. nice.
-[succeeded] no... no... the collars... i know what happened now. sure, mine activated... but it feels different, the electronic tapdance inside.
+succeeded no... no... the collars... i know what happened now. sure, mine activated... but it feels different, the electronic tapdance inside.
 i can kill you and still make it out while security is busy frying you to a crisp. hands are clean, then smooth sailing to the sierra madre.
-[failed] no... i know how the collars behave now, in here anyway. at least the sierra madre gave me emph that.
+failed no... i know how the collars behave now, in here anyway. at least the sierra madre gave me emph that.
 i should be thankful, in a second, it'll give me another gift - with any luck, security'll leave enough of your ashes for an urn on my mantle.
 well, yeah in the villa. more to himself but i have one inside, too.
 we can talk about that later, though, it's not important right now... you came for me, any sign of the others? a little cagier here, is trying to figure out if christine is alive.
@@ -2890,8 +2890,8 @@ but listen... frowns, warning when this thing goes off, try and get into the sie
 it's safe. i hope. right now, let's focus on getting everyone emph else to safety, all right? everybody else all right?
 and here i thought i was being clever. to himself teach me to hold my cards a little closer to the chest... whole heist was a gamble anyway.
 still... there's a way to recover the song from the sierra madre archives, right? just set up links to each floor, then use the lobby terminal?
-[succeeded] dead? after all i went through... after all that hauling her body through the streets?
-[failed] really... "partner." now, now... you can't pull one over on dean... but you tried, didn't you?
+succeeded dead? after all i went through... after all that hauling her body through the streets?
+failed really... "partner." now, now... you can't pull one over on dean... but you tried, didn't you?
 so you don't want to share... keep her from me, huh? all we have to do is make her sing, and it's all ours.
 although... why lie to me? i'm hurt. i mean, we don't even emph need her if you get the terminals live, and the music kicking.
 forget that walking stomach, not interested in being his lunch... just glad the girl's all right. where is she? is she here?
@@ -2920,9 +2920,9 @@ no, you want to know why? because there's more beneath the streets, in the build
 they hear anything out of the ordinary, especially "music" screaming through the speakers when i close the connection? they'll be here, fast.
 take? it's not going to take anything because you couldn't emph offer me anything to stay here.
 the ghost people'll come out of the woodwork when the gala event starts blaring, and when they see me trapped up here? it's curtains for dean.
-[succeeded] well... yeah. if the hologram systems still work, that'd do the trick.
+succeeded well... yeah. if the hologram systems still work, that'd do the trick.
 okay... all right, you call up some of those old world stiffs, that'd be an audience i wouldn't mind having below.
-[failed] yeah, and how can you guarantee that? i'm not waiting here alone, trust me.
+failed yeah, and how can you guarantee that? i'm not waiting here alone, trust me.
 i mean, if i had a few of those holograms... or a few hundred... surrounding me, maybe. i'd settle for two, enough to cover a quick exit.
 you're full of it - you kill me, we both die. you wouldn't dare.
 so you leaving me here? no dice, not going to happen, and nothing you can say will change my mind.
@@ -2945,12 +2945,12 @@ no... you wouldn't. you're not the type. even when you first showed up in the vi
 you just let me talk, not even letting on that our collars were linked, when all you had to do was tell me that to get me to come along.
 so... no, i don't think you'll shut them off. you don't threaten people, not your way.
 wait, hold on. i didn't say i was scared. snortsheh, heh. cold feet? don't be ridiculous. i've played to worse crowds than this, i can hold the fort here.
-[succeeded] dupe: reluctant, convincingwell... yeah. you got a point.
-[failed] what do i want? i want a little more insurance than some old world villa construction to guard me, all right?
-[succeeded] dupe: reluctant, convincingwell... yeah. you got a point.
-[failed] trust you? right. you're not the one who has to sit up here and wait for the ghost people to show.
-[succeeded] reluctant, convincing well... yeah. you got a point.
-[failed] skeptical really? you're not the one standing up here waiting for the ghost people to show, all right?
+succeeded dupe: reluctant, convincingwell... yeah. you got a point.
+failed what do i want? i want a little more insurance than some old world villa construction to guard me, all right?
+succeeded dupe: reluctant, convincingwell... yeah. you got a point.
+failed trust you? right. you're not the one who has to sit up here and wait for the ghost people to show.
+succeeded reluctant, convincing well... yeah. you got a point.
+failed skeptical really? you're not the one standing up here waiting for the ghost people to show, all right?
 oh, right, after all the "we'll both blow up if you don't do as i say" talk we first had. not put me in danger? right.
 yeah... yeah, you're right. you didn't have to switch on those holograms, and you did.
 even when you first showed up in the villa, you didn't threaten me, were just willing to cooperate to get through this. hnh.
@@ -3083,8 +3083,8 @@ no, man. i know exactly what i'm doing. i just don't know what effect it's going
 over there controls power in this building. that station has readouts on the computer network.
 that big knob there makes a crazy noise. sparks come out of that slot if you put stuff in it. and i'm learning more every day.
 ah well. guess i'll have to wait for the next curious sucker.
-[succeeded] aw, man. how am i supposed to buy chems now? fine. here.
-[failed] ha! you had me going for a second there. then i remembered that there's only one fantastic. i'm king of this dump.
+succeeded aw, man. how am i supposed to buy chems now? fine. here.
+failed ha! you had me going for a second there. then i remembered that there's only one fantastic. i'm king of this dump.
 there's these two terminals outside. they control the mirrors. i tried fooling with them but didn't get very far.
 you'd have to get them to talk to the mainframe up in the tower, then do the rest from up there. i'm guessing. but it sounds good, right?
 hey, you're not thinking of going up there, are you?
@@ -3476,8 +3476,8 @@ mqn, fort secs up i suppose the omertas can wait a few minutes.
 mqn, fort secs up a few questions, and then you'll handle the brotherhood, i hope?
 mqn, fort secs up questions like "will president kimball survive his visit to hoover dam?"
 mqn, fort secs up even now? on the brink of battle?
-[succeeded] very well... five times your delivery bonus - with finalitynot one cap more.
-[failed] is that an attempt at...beat distaste humor?
+succeeded very well... five times your delivery bonus - with finalitynot one cap more.
+failed is that an attempt at...beat distaste humor?
 i've always taken business negotiations seriously. i advise you to do the same.
 you can't - but the chip can. the hatch will recognize the platinum chip and "open sesame."
 you'll need a disguise, then. or overwhelming firepower. whatever works.
@@ -3549,8 +3549,8 @@ as i said before, benny's fate is yours to decide. once you've delivered the chi
 benny has led the chairmen ever since i recruited his tribe seven years ago.
 until his recent misbehavior, i'd planned to make him my protege. maybe if i'd begun grooming him sooner, none of this would've happened...
 my offer far exceeds the original terms of your contract, which, i will remind you, already obligate you to deliver the chip.
-[succeeded] very well, five times the bonus. with finality not one cap more.
-[failed] is that an attempt at...beat distaste humor?
+succeeded very well, five times the bonus. with finality not one cap more.
+failed is that an attempt at...beat distaste humor?
 i've always taken business negotiations very seriously. i advise you to do the same. duplicate.
 it's a very special item. there's nothing else like it in the entire world. it was lost a long time, and difficult to find.
 that's all you need to know about it, for this stage of our enterprise. fulfill your contract, deliver the chip, and good things will come your way.
@@ -3571,15 +3571,15 @@ you're fortunate that i have a certain beat tolerance for greed. i expect my bus
 ordering attack you needn't be afraid of me. it's my securitrons that are going to kill you.
 not if you've been invited. you realize that you've made quite a splash here in new vegas?
 i can predict with a high degree of confidence that you'll receive an official summons from caesar. if you haven't already, that is.
-[succeeded] you might keep an eye out for any computers that benny's been using. maybe even a computer lab of some sort...
-[failed] you have a contract to fulfill, a delivery to make.
+succeeded you might keep an eye out for any computers that benny's been using. maybe even a computer lab of some sort...
+failed you have a contract to fulfill, a delivery to make.
 if you can't hold to a contract, simply for the ethic of holding to a contract, you're worthless to me.
 i want you to open a hatch in the basement of the derelict weather station atop fortification hill.
 you'll recognize it on sight. the hatch bears the logo of the lucky 38, same as the platinum chip.
 don't let the video screens and computer terminals fool you. i'm flesh and blood, not silicon.
-[succeeded] i see you've made a study of the topic. my knowledge of the science of longevity would fill several text books...
+succeeded i see you've made a study of the topic. my knowledge of the science of longevity would fill several text books...
 perhaps, after a decade or two of economic reconstruction, i can commercialize these technologies and offer to others, such as yourself.
-[failed] no. while brains demonstrated some use as organic processors in the robots produced by general atomics international...
+failed no. while brains demonstrated some use as organic processors in the robots produced by general atomics international...
 they never retained personality once removed from the human body.
 let's just say it was very... beat costly. but i was willing to make the sacrifices longevity entailed, financial and otherwise.
 i'm not surprised. the legion has spies on the strip.
@@ -3712,8 +3712,8 @@ shocked at magnitude of omerta plot and how do you know this?
 quiet outrage i see. so where does that put us?
 absolutely not! caesar is of great use to me.
 i don't want you harming a hair on that man's head - assuming you can find one.
-[succeeded] in that case, i commend you for your initiative. what do you recommend for next steps?
-[failed]quiet rage and you assisted them? that's what you mean to say, isn't it?
+succeeded in that case, i commend you for your initiative. what do you recommend for next steps?
+failedquiet rage and you assisted them? that's what you mean to say, isn't it?
 i'll be happy to satisfy your every curiosity once the platinum chip has been delivered.
 this is not the time for q&a. kindly hand over the chip.
 fine - give me the chip, and i'll pay you four times the delivery bonus stipulated in your contract. how's that?
@@ -3766,8 +3766,8 @@ it's a facility i built many years before you were born. you might think of it a
 was that meant to be a shocking revelation? of course caesar wants it destroyed - he's afraid of what the bunker might hold, and rightly so.
 but you're not going to do that. you're going to do the smart thing, and work for me.
 steely i don't respond well to threats. moving on now, where were we...?
-[succeeded] fine, you'll receive a nice bonus when the work is done. and speaking of getting it done...
-[failed] you signed a contract to deliver the platinum chip, and you'll be paid when the delivery is made.
+succeeded fine, you'll receive a nice bonus when the work is done. and speaking of getting it done...
+failed you signed a contract to deliver the platinum chip, and you'll be paid when the delivery is made.
 good. i won't hold you up any longer.
 i like to think you have enough sense to do the right thing. the rewards for doing so are immense... as are the punishments for not doing so.
 so what are you doing here? return to the fort at once.
@@ -3878,9 +3878,9 @@ oh no, not so quick. i still have work for you.
 don't attack unless there are clear signs that kimball's visit is imminent. cause enough chaos to cancel the visit, no more. then return to me.
 not so eager to take on a suicide mission, is that it? if you'd shown moderation in your dealings with the ncr, we wouldn't be in this position.
 whatever those reasons may be, you've jeopardized the success of this entire concern.
-[succeeded] they knew you were coming? they were better prepared than i anticipated, then. i won't underestimate them again.
+succeeded they knew you were coming? they were better prepared than i anticipated, then. i won't underestimate them again.
 before that happens, i'd ask you to complete one final task. it may seem trivial, but that's far from the case.
-[failed] whatever your reasons, you've jeopardized the success of this entire concern!
+failed whatever your reasons, you've jeopardized the success of this entire concern!
 you could've succeeded!
 with this accomplished, all preparations will have been made. the battle for hoover dam will be upon us before long.
 the strain of defending las vegas from annhilation exceeded my power systems' capacity. my primary reactor shut down.
@@ -4612,8 +4612,8 @@ warning we've been hearing stories about legionaries on the nevada side of the r
 the dam powers a lot of new vegas. and then there's all that clean water lying in lake mead, too. anybody who owns the dam owns the territory.
 too dangerous. gonna kill all yourselves if i let you touch it. better to leave it buried - safer that way.
 told you before - it's too dangerous for a bunch of amateurs to handle.
-[succeeded] uh huh. guess you know what you're doing. i'll go dig it up and get it ready. you'll have it by the time the fighting starts.
-[failed] too dangerous, sorry. blow yourself up, blow your neighbor up, blow the whole town up.
+succeeded uh huh. guess you know what you're doing. i'll go dig it up and get it ready. you'll have it by the time the fighting starts.
+failed too dangerous, sorry. blow yourself up, blow your neighbor up, blow the whole town up.
 bad trouble.
 keep your gun handy if you go poking around some of the abandoned places around here, like the schoolhouse.
 wasteland critters like to move in when sunny's not looking, so watch out.
