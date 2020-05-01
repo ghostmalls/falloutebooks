@@ -1,850 +1,884 @@
-Not much to tell. A brahmin or two loaded up with weapons, and a whole mess of well-armed guards to make sure it ends up where it's supposed to.
-One nifty bit, though. The gun cases are rigged to explode. So trying to loot one of our caravans doesn't do much good.
-And that's how the NCR stays equipped. The only thing we don't bring in is energy weapons.
-The Gun Runners have been putting rapid-fire death-dealing in the hands of anyone who needed to defend himself for over a century.
-We're the NCR's #1 supplier of weapons and ammunition. You might call us an unofficial branch of the army.
-I'm a salesman. I swing through McCarran and the dam once a week or so to take orders. But lately I spend most of my time in this piss heap.
-Ever since the 15 shut down, all caravans come through here - right to me. I check the stock and direct deliveries onward to meet orders.
-Sure, it stinks to hang out here, but it won't be forever. Plus I can afford a monthly bender on the Strip and still build up my nest egg.
-Am I selling? Yeah. Am I selling to you? No. Sorry to hurt your feelings, but you're small time. Move along.
-There's usually a gun merchant hanging around topside. I'm sure she'll take care of you.
-Like you have a clue what that even means. 
-We used to. But every caravan carrying them was getting ambushed and wiped out. By someone sophisticated enough to know which was which.
-We think it was the Brotherhood of Steel - those crazies always go hard for energy weapons. But the NCR would rather pretend they killed all of them.
-Still plenty of other problems keeping the 15 shut down, though. Thanks for playing.
-That'll help. Still plenty of problems out that way, though.
-You took out a Deathclaw nest? Either you're lying, or you're tougher than you look.
-Still plenty of troubles out that way, though. Thanks for playing.
-That's impressive - if you're telling the truth.
-Still, it'll take some time for routes to readjust. I expect I'll be working from here for the foreseeable future.
-[SUCCEEDED] You might be on to something. I like to hang on to any weapons mods I run across...
-Take a look.
-[FAILED] Do I look like a fucking arms caravan to you?
-Do you think the Gun Runners keep the NCR military supplied by carrying weapons and ammo from the Boneyard out here by the armload?
-Get a clue. We have caravans. We deal in bulk.
-Take a look.
-You like it any better if I tell you to fuck off?
-Is there some reason I should be talking to you? 
-Still making a nuisance of yourself?
-You hear the losers around here complaining how they lost their shirts on the Strip? It's pathetic.
-After I win big, I'm going to buy my friends dinner at that fancy Gor-mant restaurant. I saw ads for it back home.
-I walked all the way from Hub! Thought I'd rest my feet here a day or two, then I head onto the Strip fresh.
-I'll get in, win big, get out. Take those winnings back home where they'll do some good!
-You know it's illegal for us to gamble back home? The government wants to keep us poor.
-I'm sick of the sob stories you hear around here. If you don't know when to stop gambling, that's no one's fault but your own.
-I can't wait to see the Strip. I hear it's so beautiful!
-Oh, you could. You just don't want to.
-I understand. Sorry to be a bother.
-But... Of course. It's all right. Thank you.
-Thank you so much! I'm so hungry!
-Sorry I had to bother you. I've... well, I've lost everything.
-You're very kind. I wish... well, I'll just thank you and leave you be.
-I lost everything I had at The Tops, but if you gave me 500 caps, I'd head straight back. Sick, huh?
-I came east to strike it rich, and now I'm broker than ever. What do I tell my family back home?
-On the Strip, everyone's nice to you when you got the caps. The moment you don't? They throw your ass out.
-I won big my first night on the Strip. I kept chasing that feeling. Right into the gutter.
-I sat down at a roulette table with my life savings. An hour later, it was gone.
-Can you spare some caps, mister?
-Can you spare some caps, 'mam?
-Go East! they say. Scrap lying in the sun for you to grab. Yeah, right.
-The Strip ain't nothing but a monster. Chews folks up, sucks out their caps, and spits 'em back out.
-Oh, I don't sell things, mister. I sell thoughts.
-Oh, I don't sell things, ma'am. I sell thoughts.
-That's not junk. That's other people's thoughts. People had to think to make them, and the thoughts got stuck inside.
-I need other people's thoughts to fill my head when I'm not thinking myself. Otherwise it's... kind of empty.
-Thinking hurts you, too? Aw, I wish I could let you have the one on my head but I can't. It hurts real bad when I don't wear it.
-This thing on my head is headache medicine. It works real good, except I can't think when it's on.  Really think, I mean.
-I don't have a mama or papa anymore. I see them sometimes when I take off my medicine, but they can't stay. I'm pretty used to being on my own.
-Great! What do you want me to think about? I can think about You, Here... or Everywhere. What do you want?
-Sure, I could do some more thinking. What should I do my thinking about this time?
-That's all right, mister. You will someday.
-That's all right, ma'am. You will someday.
-Sorry, sir. All that thinking has made my head hurt. I don't think I'll be doing any thinking for a long time.
-Sorry, ma'am. All that thinking has made my head hurt. I don't think I'll be doing any thinking for a long time.
-I can take off my medicine and do some thinking. People say it's real interesting. I don't know,  because I never hear it.
-Some people say that it's a gift. Other people say that it's the kind of thinking anyone could do if they watched more than they talked.
-I don't know which is true. I see a lot, I think a lot. There's a lot to hear through the 188, too, that maybe accounts for the thinking.
-Let me take off my medicine...
-Bull and Bear over the Dam, at each other's throats... but a light from Vegas? Ball spinning on the wheel, more than two at the table, placing bets. 
-All lose in different ways, a dam of corpses, towns of corpses, scattered across the sand. But whose, in what shares? Even the dealer doesn't know. 
-Forecast: A rain of blood will flood the desert and not purify it.
-Bleh. Thinking about Everywhere always makes me feel a little sick...
-I thought you'd say that.
-Oh, I don't know anything, mister. I just think it, and then I don't.
-Oh, I don't know anything, ma'am. I just think it, and then I don't.
-Okay. Let me take off my medicine...
-Your face does the thinking - two to the skull, yet one gets up. Odds are against you... but they're just numbers after the two-to-one.
-You're playing the hand you've been dealt, but you don't let it rest, you shuffle and stack, and a gamble... a gamble that may pay off?  But how?
-Forecast: Rapidly changing conditions.
-A lot of thinking - most of it in your face, it's almost shouting at me.  Sorry if I said anything weird.
-I need to take off my medicine...
-Local, local, the here and now... little of interest... things to buy, false hopes, and regrets watered down, washed down in dirty glasses.
-With regret comes a girl... smiling sad, brown robe, name Veronica, half here. Wraps her and her heart up like a pack, in the pack, a key, some say. 
-Forecast: Cloudy, with a chance of friendship. 
-Ouch. Thinking small only hurts a little, but it's a sharp pain.
-Hi, mister. I hope you're doing fine today.
-Hello, ma'am. I hope you're doing fine today.
-I thought I'd be seeing you again.
-This job's boring enough without talking to you. Go see Alexander.
-Alexander doesn't pay me to talk.
-I only work for caravans, all right? Try someone else.
-Sitting around here makes me miss my raider days. I don't know why I figured it was time to get respectable.
-Whatever you're selling, I ain't buying.
-I don't work for freelancers. So move along.
-Stay out of my way and I'll stay out of yours, got it?
-There's more to the 188 than meets the eye. Troops move back and forth on 93 all the time, and 95 is how NCR folks come and go from Vegas.
-No shortage of customers... so long as Legion raids south of here don't get worse, anyways.
-Not much. I hear some folks got killed down by Nelson... or was it Novac? I don't know. If they come up this way, me and dad'll go someplace else.
-Name's Michelle. My Dad and me run this store. His name's Samuel. I take the day shift and he takes nights.
-We came here about a month ago, when Primm went to hell on account of the prison break north of there. Found a bin to call home and set up shop.
-That's nice. I suspect we'll stick around here, though. Business has been good.
-Have a look.
-You do know these old roads were numbered, right? We're standing where the 95 and 93 meet. And 95 plus 93 equals... 188.
-Welcome to the 188 Slop & Shop. How can I help you?
-Back for more?
-You a merc? 'Cause you don't look like a prospector...
-I've still got guns and ammo, if you need them.
-Hell, yes sir. Well... not officially. Not anymore. 
-They mustered me out a year ago. Administrative discharge.
-Hell, yes ma'am. Well... not officially. Not anymore. 
-They mustered me out a year ago. Administrative discharge.
-Sure do. Lots of folk been coming out east, sorting through junk, looking for whatever they can sell.
-Times are tough back home. Too many people, not enough work. Unless you like shoveling brahmin shit.
-It means my C.O. was an asshole, and I told him to eat shit. He ordered me to flog a couple "deserters."
-Those kids didn't desert. They just got liquored up on the Strip and missed roll call.
-I don't know what else the brass expects... half these kids don't get more than two weeks of training before they ship 'em out here.
-Staff sergeant, Third Platoon, Bravo Company. I was at the Dam when the Legion hit us, three years back. 
-That was a shitstorm, and don't let anybody tell you different. The brass try to play it down, but most of them were back at McCarran.
-Going home didn't feel right, not with those savages camped on the other side of the river, sharpening their knives.
-And I still get to see my old platoon when they pass through here... make sure the new C.O. is treating them right, and sneak them extra ammo.
-Anyway, I was always complaining about the standard issue gear. The new kids don't even get body armor, can you believe that?
-Vegas is bleeding us dry. We're tossing caps at a hundred different problems, while Caesar bides his time and lets us wear ourselves out.
-This war is gonna bankrupt the NCR, unless we finish off the Legion fast and dirty. 
-We shouldn't be perched up at the Dam - we ought to be crossing the Colorado and sticking a boot up Caesar's ass.
-So I hooked up with a couple other vets... bribed a Gun Runner...
-Now we're supplying grunts, mercs, and anybody else on our side. We don't make much... but at least we're saving lives.
-I'll be here a while yet, if you need any guns or ammo.
-I didn't. My C.O. ordered me to flog a couple "deserters," and I told him to eat shit. So they kicked me out for insubordination.
-Those kids didn't desert. They just got liquored up on the Strip and missed roll call.
-I don't know what else the brass expects... half these kids don't get more than two weeks of training before they ship 'em out here.
-Sure, no problem.
-Well... There's been reports of trouble south, but me and Michelle can handle ourselves. And there's plenty of soldiers about, so that helps.
-When 15 shut down, 95 became the route NCR citizens use to get to the Strip - or limp back home, after the Strip's drained 'em of caps.
-We get 'em coming and going. Coming, the suckers flush with caps they saved to gamble on the Strip...
-...and going, the same folks, but now they're losers who'll trade you the shirt off their backs so they don't starve before they make it back home.
-Add in the troopers marching back and forth from McCarran and the Dam, and well, let's just say we don't miss Primm.
-Michelle and I ran a little shop in Primm 'till a prison break north of town spoiled it for everyone. Goddamned convicts just about shut down I-15.
-When traffic dried up, we took to our heels to find us some customers. I'm not one to sit around waiting to get saved, and Michelle ain't, neither.
-Samuel Kerr at your service. Me and my daughter Michelle run this fine establishment.
-We came here from Primm about a month past. Doesn't look like much, but it's one hell of a location.
-Guess that makes you a big hero - in Primm. Like I said, me and Michelle didn't sit around waiting to be saved. Business is better here, anyway. 
-You bet.
-Let me see what I can do.
-Welcome to the 188 Slop & Shop. Like our slogan says, "It's better than nothing."
-Feeling thirsty?
-Shit. Long as I can r-r-remember. Had a rifle in my hand since I was three, that's what my dad always says.
-Learned to shoot on our ranch. Way west of here. Same as the LT, he's a f-farm kid too. 
-Yeah. The  LT shouldn't have b-brought that shit up. Not with civvies, anyway. Ain't right.
-Ain't right t-talking about this, anyway.
-It was m-my fault. See... I was kn-knocked out when it happened. That b-big guy sneaked up on us. I let B-Betsy down.
-Yeah, I'll s-s-see you around.
-Yeah. You just walk away. No fool can trump the T-t-ten of Spades!
-Oh. They recruited me... what, a year ago? Taught me to kick even more ass than before. These guys... they really know how to kick some ass. 
-N-no problem.
-She's my g-g-goddamn partner. See, we work in pairs. We spot for each other. W-watch each other's backs.
-Nobody wanted to w-work with me. They said I was too green. But Betsy volunteered. Shit, you don't even know how big a d-d-deal that is.
-She trusts her life to the newbie, and I sit there and let her get raped by that... p-p-piece of shit. 
-Shit. You sound like the LT. I should've w-woken up. I shouldn't have gotten knocked out in the f-first place. 
-That shit was my fault. I don't want to talk about it anymore, all right?
-Kickin' ass. Mostly kickin' ass. See, we're watching the perimeter right now. Looking for those F-f-fiends to come back. 
-When they show their faces, that's when we go to work. One shot, one k-k-kill. That's the First Recon way.
-The  LT t-t-told you about that? Shit. Man, that's sh-sh-shit. 
-Th-this again?
-Nah... it's no p-problem. Everybody likes to have a little fun with me. Just shows they l-l-like me. You don't rib somebody you don't like.
-The LT, Gorobets, gave it to me. See, I w-w-wanted to be Ace of Spades. But the LT says, sorry kid, you're t-t-too green. So he calls me Ten instead. 
-It's okay, though. I get a few more k-k-kills under my belt, he'll move me up to Jack. Jack of Spades. Sounds better, right?
-I keep at it, eventually I'll make it to Ace. Think I'll skip Queen, though.
-Oh, y-yeah. My s-stuttering was w-w-way worse before.
-Hey. No cause for th-that. 
-Oh, yeah. F-fine. Just a little st-st-stutter. Had it since I was a kid. Doesn't stop me from k-kickin' ass. 
-Yeah, r-right. That's Brahmin shit. Lucky for you we're on b-b-base, and I can't start trouble with civvies. How 'bout you get l-l-lost?
-Oh, b-b-because of what that fuck Cook-Cook did? W-well, it's n-not the same thing, but D-Doc  Usanagi helped me with my s-s-stuttering.
-The d-doc has a c-clinic north of here. Can't m-m-miss it. You should t-talk to Bitter-Root, too. He's b-been to see the doc, too.
-D-d-damn right.
-Hey, my man! T-t-ten of spades. First Recon sharpshooter. At your s-s-service.
-Hey there, miss! T-t-ten of spades. First Recon sharpshooter. At your s-s-service.
-Can't b-b-believe Betsy's gone. S-s-she was a bitch, b-but she was my p-p-partner, you know?
-S-s-sucks about the  LT. N-n-nobody can replace him.
-How 'bout you get out of my f-f-face? I'm First Recon. I don't need to t-take shit from civvies.
-K-killing some Fiendsi? Shit, yeah! It's about t-t-time!
-One shot, one kill. That's how Ten of Spades p-p-plays the game.
-Shit. I didn't even get a shot at that Nephi b-b-bastard before he went down.
-Right here, Fiends! This is what payback looks like! First Recon, hooah!}
 'B-b-bout time Cook-Cook g-g-g-got what was c-coming to him.
-You remember me, right? T-t-ten of Spades. First Recon.
-I surely am. Well, sort of. I came out from Utah about six months back, saw a need for my help here.
-The Followers weren't too happy about that, of course. They haven't been too fond of the NCR for a while, but I go where I'm needed.
-I give what aid and comfort I can. I have medical knowledge thanks to my time with the Followers.
-Well, that's an interesting question. Among the Church, I'm called Elder Gunnarsson. The Followers call me "Doc."
-You can call me Bert, though.
-I never was able to reach him. He has allowed drugs and hatred to consume him. He runs with the Fiends north of here, now. They call him Driver Nephi.
-Poor lost souls, most of them. They thought to come to New Vegas and find their fortunes on its shining Strip.
-But the journey is often long, and the price to enter the city is steep. Those who could not pay ended up here, hoping to earn the caps they need.
-Some find honest labor, but more fritter away what little they've saved on crooked gambling and cheap liquor. Still, I minister to them as I can.
-Following a lost cause, I'm afraid. My old friend Nephi fell in with a bad crowd.
-Drug runners, raiders, probably worse things it's better not to dwell on. When his gang headed west, I followed.
-I thought perhaps I could turn him back to the Church.
-I've heard through the locals that Nephi has passed on. I truly hope his soul finds peace.
-Welcome, brother! How can I help you?
-Welcome, sister! How can I help you?
-Is there something else I can do for you?
-I would be happy to, should you require it. You seem to be in fine health now.
-I would be happy to. What I can do isn't much, but I give it freely.
-I'm afraid I have exhausted my supplies. If you come back in a day or two, I may be able to do more for you.
-I only do what I can to help.
-If I had to guess, it's because I cook shit for the rest of the gang. I'm a  good cook. Maybe I'll make you dinner sometime.
-Goddamn right.
-You are! Yes that's right!
-Course I do. You want to meet them? Heh. Even money whether Violet's dogs rip you apart or Nephi caves in your skull with that iron of his.
-Course I do. You want to meet them? Heh. Even money whether Violet's dogs rip you apart or Nephi caves in your skull with that iron of his.
-And after they're done... I get to play with whatever's left.
-That's right. Brahmin, mole rats, lizards... the occasional traveler lost in the wrong part of town.
-Not Queenie though. I'd never cook my Queenie.
-Who am I? I'm the scariest motherfucker you're ever gonna meet. I'm Cook-Cook, bitch, better not forget it.
-If I had to guess, it's because I cook shit for the rest of the gang. I'm a  good cook. Maybe I'll make you dinner sometime.
-NCR? Bunch of soft little bitches, they've got no stomach for life in the wasteland. Got some choice strange, though, I'll give 'em that.
-Heh heh... yeah. I'll give 'em *that* all right.
+'Course you didn't. 'Cause they crossed paths with Little Buster. Bam! Dead, finished, over.
+'Til then, we'll man the towers and keep an eye on the Fiends. We've had more than our share of trouble from their direction.
+(sigh) Go below. Kill. Smash machines. Go now!
 *That's* Queenie. She's the prettiest Brahmin in the Wastelands.  Aren't you, Queenie, yes you are, who's a good girl?
-Something on your mind?
-Hey there, sweet thing. Want a ride on the Cook-Cook express?
-Girl... you are some grade-A poon, anybody ever tell you that? 
-You keep talking to me, sweetness, and people are gonna think we're an item. Not that I mind.
-Never seen you around before. What do you want?
-Cut the chatter. Focus on the job, or you're gonna end up dead. 
-Quit talking! We've got a job to do. 
-You did good out there. Glad you let me get a piece of Nephi. 
-What a pointless trip. Here I thought I'd get a shot at that junkie bastard. 
-Damn that 10 of Spades. Just had to go and get himself killed.
-Gorobets was all right -  for a man. Not gonna be the same without him.
-I've been seeing Usanagi, and things are better. I'm not so angry all the time, you know? And, uh, I'm not trying to jump every woman in camp.
-Well, not all the time, anyway,
-Hey.
-Hey, girl. You need something from me?
-Yeah?
-Can't stop talking about that, can they? The Lieutenant actually sat me down and asked if I wanted to talk to a doctor. 
-Wouldn't believe me when I told him to forget it. I mean, if that slab of meat had gotten me pregnant, then maybe I'd want to talk to a doctor. 
-What kind of dumbass question is that? Of course I want payback.
-If I get hold of that fat pile of shit, I'll shove my rifle up his ass a couple hundred times, see how he likes it.
-Then I'll fire some shells up in there, make sure he doesn't ever forget me. He left me a bunch of souvenirs - I figure I can do the same.
-So yeah. Payback would be good. Doesn't mean I need to have myself a big long cry.
-Yeah. Typical. Thing is, that fat pile of shit sneaked up on us from behind and kicked little 10 in the back of the head. 
-Knocked him out cold. Probably meant to kill him. The kid had no idea what happened until he woke up in the infirmary.
+...and going, the same folks, but now they're losers who'll trade you the shirt off their backs so they don't starve before they make it back home.
+...must be his pet, or some shit. Doesn't let anybody near that Brahmin. Somebody puts a bullet in her, I bet that'd piss him off good.
+10 of Spades always had plenty to say, before he got himself killed. Me, I'm just here to do my job.
+10 of Spades is the greenest of the bunch, but he's a farmboy, like me. Shooting's in his blood.
+10 of Spades really ought to keep his mouth shut, but he's right. There were a lot of things in my past I just couldn't leave behind.
 10 wants to blame himself, I can't stop him. He'll work it through on his own.
-Never said it was. But I don't need to talk to any doctors. Especially not the pricks around here.
-If I was smart, I'd fake a big old breakdown. That'd make everybody happy, and I'd get some leave time.
-But then I'd be doing what everybody wants, and being the asshole that I am, it just wouldn't feel right. Got to have some integrity.
-You killed him? Well, shit. Here I'd dreamed up this whole elaborate revenge fantasy. 
-Didn't really think I'd do it, but as long as the tubby bastard was actually alive, I could pretend like I would. 
-Here. I owe you. Take it and get out of here, before I indulge my inner bitch and spoil the moment. 
-What gave me away? The big gun, the shades, or the attitude? 
-Don't take this the wrong way, but girl, it's a damn good thing you're hot. That sarcasm blew right over your head, didn't it?
-Yup. Lot of people make that connection. Big gun. Sniper. Some people don't even need to ask. 
-They don't. Only the good ones do.
-My partner's got some potential, so I let him wear those goofy glasses. I tell him they're his training shades. He totally buys it.
-Truth is, his eyes just suck.
-The little guy. 10 of Spades. I like him because he listens. Doesn't shut up the rest of the time, but when I talk, he listens.
+A lot of the crops grown here support the various NCR camps in the region - McCarran, Golf, and Forlorn Hope, to name a few.
+A lot of thinking - most of it in your face, it's almost shouting at me.  Sorry if I said anything weird.
+A while, I guess. I don't keep too careful track of time.
+Add in the troopers marching back and forth from McCarran and the Dam, and well, let's just say we don't miss Primm.
+Adios.
+Adoptive father, yes. I was very proud when he made First Recon. I know that every time I send them out, I could be sending him to his death.
+After I win big, I'm going to buy my friends dinner at that fancy Gor-mant restaurant. I saw ads for it back home.
+After that - if you haven't begged for mercy - you get to choose a new name. One you'll use for the rest of your life.
+Again you waste my time, worthless nephew! How did you ever become the Chosen One?
+Ain't right t-talking about this, anyway.
+Alexander doesn't pay me to talk.
+All lose in different ways, a dam of corpses, towns of corpses, scattered across the sand. But whose, in what shares? Even the dealer doesn't know. 
+All right, fellas. Let's get out of this shit hole.
+All right, I'm going.
+All right. Goodbye.
+Also - I ran into this mark who was a little too tough for me. I mean, I could've taken him.
 Also, he doesn't pull any stupid come-ons, like practically every other horn-dog alpha male on this base. Might be he's just scared of me, though.
-Yeah. We spot for each other, watch each other's backs. Usually works pretty well, unless you get paired up with an asshole.
-Thing is, there's a lot of assholes in the army. Now if they paired me up with somebody who looks like you...
-Lot of downtime in the army. Nobody around but you and your partner. Plenty of time for... whatever we want.
-Yeah. We spot for each other, watch each other's backs. Usually works pretty well, unless you get paired up with an asshole.
-Thing is, there's a lot of assholes in the army. I keep hoping they'll pair me up with some hot blonde, like you see on those old pinups.
-Shit, I don't even care if she can shoot straight. Can't have everything.
+Also... he's got a flamethrower, and he's damn good with it. From what I hear, he either rapes or burns every living thing he can get his hands on.
+Although, if you were asking what I'm doing right this instant, I'm patrolling the farms. It's a safe post, but a little boring.
+Always a pleasure. You keep yourself safe.
+Am I selling? Yeah. Am I selling to you? No. Sorry to hurt your feelings, but you're small time. Move along.
+And after they're done... I get to play with whatever's left.
+And every time I ask about it, they tell me the place was empty. I'm just saying... it didn't look empty to me.
+And finally... Cook-cook. Rapist. Pyromaniac. And damn good chef, if you believe the Fiends we've captured. Probably the craziest of the lot.
+And get the fuck away from me before I cave in your skull!
+And here you go. Enjoy, my friend.
+And I need at least ten, twelve hours of sleep to do my job. Price of excellence.
+And I still get to see my old platoon when they pass through here... make sure the new C.O. is treating them right, and sneak them extra ammo.
+And my mom... couple times she tried to sell me to some waster, just to score some Jet. Even the other Khans said she was useless.
+And that's how the NCR stays equipped. The only thing we don't bring in is energy weapons.
+And the next day, they'll come rushing at you pumped full of drugs and not stopping until you or they are dead.
+And then?
+Anyway, I was always complaining about the standard issue gear. The new kids don't even get body armor, can you believe that?
+Arf arf! Ha ha!
+As a matter of fact... it's funny that you'd ask. Couple nights back, I was on watch in the yard...
+As for my squad - they're the best we have. My word on that. They're all hand-picked, and I won't work with anybody who isn't up to snuff.
+As you wish, Elder.
+At that point, just keep your head down, and stay out of range of his golf club. We'll take care of the rest.
+Aunt Morlis, I'm on a perilous quest for the salvation of our village. My chances of success will be greatly enhanced if I keep the healing powders
+Back again? Jesus....
+Back for more?
+Bad soil and rationed water. It's to be expected around here, but the rationing's off. Worst part is NCR won't admit it.
+Be careful.
+Because I killed a couple marks for him, that's why. You ever hear of Jackson? Or Night Terror?
+Been a while since they let us out of the fence. Brass must really want Nephi dead.
+Been shooting with her so long... couldn't bring myself to toss her away. Would have felt guilty to part with the old girl.
+Before I go, I have some questions.
+Being a coward will kill us all! Including you. You passed the Temple Trials. We have faith in you. We need you.
+Bert? That scaly, corpse-looking fuck, you tell him I'm never going back to his little cult!
+Besides, most of these crops look fine to me. If the farmers can't handle the job, they shouldn't have signed up in the first place.
+Best thing that ever happened to my parents, too. They were as bad as the rest. Worse, maybe.
+Best you don't worry about us. We'll watch your back.
+Betsy swears she's hit him. Twice. But if she's right, it didn't seem to slow him down.
+Betsy's shrugged it off like it was nothing, but her behavior keeps getting worse - always making passes at every woman who wanders by.
+Bitter-Root actually said that? I can't see him talking about his problems to anybody, much less admitting that someone else actually helped him.
+Bleh. Thinking about Everywhere always makes me feel a little sick...
+Bounty hunter. Talks big. But he's still alive, so he can't be completely full of shit.
+Brahmin are a mutated breed of cows.
+Brahmin aren't much for conversations.
+Bull and Bear over the Dam, at each other's throats... but a light from Vegas? Ball spinning on the wheel, more than two at the table, placing bets. 
+But a couple Rangers happened to be watching from across the river. They jumped on in and pulled me out of there. Lucky break, they said.
+But I was there. Saw it myself. I don't care what anybody says. The Khans asked for Bitter Springs. They wouldn't leave the NCR be.
+But if you can draw him out... get us a clean shot... we can bring him down. No problem.
+But if you want to take down some psycho-crazy bastards... I'm happy to talk caps.
+But the journey is often long, and the price to enter the city is steep. Those who could not pay ended up here, hoping to earn the caps they need.
+But the offer stands. Give me the word, and I'll put my snipers in position. Otherwise, they'll stay inside the fence.
+But then I'd be doing what everybody wants, and being the asshole that I am, it just wouldn't feel right. Got to have some integrity.
+But with this guy, it might have cost me some bad burns or an ass-rape. I'm all for risking my life, but I'm a little sensitive about my asshole.
+But, if it's not me, it'll be somebody else. At least this way I get one more chance to see him.
+But, if you're in the market for guns, go see the Gun Runners. They're expensive, but they have stuff no one else carries.
+But... Of course. It's all right. Thank you.
+By the time any of us realized there were civilians down there - women and children - the shooting had already started.
+Bye.
+Caesar's boys figured I wasn't going anywhere, after what they done to me. So they didn't bother tying me up.
+Can do.
+Can we hit him? Damn straight, we can. Question is whether he kills you before we get a clear shot.
+Can you spare some caps, 'mam?
+Can you spare some caps, mister?
+Can't b-b-believe Betsy's gone. S-s-she was a bitch, b-but she was my p-p-partner, you know?
+Can't say I blame you. If I wasn't in this fight for my country, you couldn't pay me enough to screw with those maniacs.
+Can't stop talking about that, can they? The Lieutenant actually sat me down and asked if I wanted to talk to a doctor. 
+Can't talk now. Got to keep my eyes sharp.
+Careful, do not touch the glow wall. I think the machine that feeds it is beneath us. Destroy it so we may escape. How did you get here?
+Carry on.
+Child, our need is greater than ever before. Our people sicken, the brahmin are dying, and our food is all but gone. The blight of the land can only be cured with the GECK. Go, find the GECK and save our people.
+Chosen One! How did you get here?
+Chosen One, do you wish us all dead? You must find the Vault!
+Chosen One, the way you use a spear, you'll be meat for the geckos in no time. I can show you a few tricks.
+Chosen One, things are not well here. We need the GECK if our village is to survive. Our people grow weak with hunger and our food reserves will not last much longer. Please, find the holy Thirteen and return to us. Go now.
+Chosen One, why are you here?
+Come back to Violet, huh? What now?
+Congratulations, Chosen One, you have survived the Temple of Trials. Are you ready for your quest?
+Cook-Cook loves using his flamethrower on his victims, usually after he rapes them. Little Buster can tell you more about him than I can, though.
+Cook-Cook, one of the fiends, ambushed her and Ten of Spades. They both managed to escape, but not before Cook-Cook raped her.
+Corporal Sterling was an NCR ranger until he was captured by the Legion. They tortured him pretty badly.
+Corporal White is currently solving the mystery of the Great Water Shortage. Tried to convince me he had proof, even. I didn't buy any of it.
+Could be that NCR found some blood on me, and none of it mine. Could be that a few of those Khans didn't die from NCR bullets.
+Course I do. You want to meet them? Heh. Even money whether Violet's dogs rip you apart or Nephi caves in your skull with that iron of his.
+Crazy bastards expected me to wake up at dawn. Forget it. That's about two hours after this guy hits the sack.
+Current orders are to hold the line and nothing more. That's all we seem to do these days - hold the line.
+Cut the chatter. Focus on the job, or you're gonna end up dead. 
+D-d-damn right.
+Damn right I am. And I'm paying bounties.
+Damn right I do. Who do you think you can take down?
+Damn right they were. And they were good, too. 'Til I popped a couple shells in their assholes. Bam! Dead, finished, over.
+Damn shame. I've got some leave time coming to me, and I booked a suite at the Gomorrah. The two of us, rolled up in those silk sheets...
+Damn that 10 of Spades. Just had to go and get himself killed.
+Didn't really think I'd do it, but as long as the tubby bastard was actually alive, I could pretend like I would. 
+Didn't think you'd be back. What's this about?
+Do me a favor and let Usanagi know Corporal Betsy is coming. I'd like to make sure the medical clinic has time for her.
+Do you think the Gun Runners keep the NCR military supplied by carrying weapons and ammo from the Boneyard out here by the armload?
+Dogs? Good dogs! My dogs! Fiend dogs. Tear you up, arf arf arf! Ha ha!
+Don't fuck with Fiends. Driver Nephi'll brain your skull in! Cook-Cook... don't even want to know what he'll do.
+Don't I? Beg pardon, ma'am, but you never met my parents.
+Don't I? Mister, you never met my parents.
+Don't push me, old woman. I'm doing my best.
+Don't rush me. We're going, okay?
+Don't take this the wrong way, but girl, it's a damn good thing you're hot. That sarcasm blew right over your head, didn't it?
+Don't you have anything better to do than sit around talking to a two-headed cow?
+Driver Nephi is a monster in close combat with that golf club of his, and that man is about as fast on his feet as any Legionary.
+Drug runners, raiders, probably worse things it's better not to dwell on. When his gang headed west, I followed.
+Effeevee?
+Ever since the 15 shut down, all caravans come through here - right to me. I check the stock and direct deliveries onward to meet orders.
+Everything I can. Farmers out here don't have the luxury of being picky. I get by mostly on maize and tobacco.
+Excuse me, but I'd rather not speak of this.
+Eyes sharp, now.
+Fair enough. You've done your part. If you change your mind, you know where to find me.
+Feeling thirsty?
+Fiends, on the other hand... sometimes I get some pangs of conscience. Not often. But sometimes.
+Find Vic in Klamath. We are counting on you.
+Fine, I'm going now.
+First one calls herself Violet. God knows why - the name is the prettiest thing about her. Spends most of her time with a pack of vicious dogs.
+Following a lost cause, I'm afraid. My old friend Nephi fell in with a bad crowd.
+For my effort, I was promoted to major. Not quite the way I'd have wanted it.
+Forecast: A rain of blood will flood the desert and not purify it.
+Forecast: Cloudy, with a chance of friendship. 
+Forecast: Rapidly changing conditions.
+Forgive me Elder. I will find the GECK without delay.
+Fuck you, asshole! You're gonna regret it!
+Fuckin' A right it is. This baby's my life, my love, my strong right arm. Killed a lot of fuckers with this hunk of iron, yessir.
+Get a clue. We have caravans. We deal in bulk.
+Girl... you are some grade-A poon, anybody ever tell you that? 
+Go away. You are no better than these devils. I weep you were named the Chosen One.
+Go East! they say. Scrap lying in the sun for you to grab. Yeah, right.
+Goddammit. That's Violet, all right. You've made me one happy son of a bitch, you know that?
+Goddamn right.
+Going home didn't feel right, not with those savages camped on the other side of the river, sharpening their knives.
+Going on six months, now. But I reckon we'll be moving out, soon enough. Can't talk about the details.
+Good answer, dumb one. Now keep quiet while I practice.
+Good luck to you out here.
+Good luck to you. And don't get careless.
+Good luck! I must get back to my training.
+Good luck! Our village depends on you.
+Good question. Fiend territory is southeast of here, but they range all over the area. None of them stays in any one place for long.
+Good. That's damn good. I figure it's about time we got lucky out here, so maybe you can snuff one of these maniacs.
+Goodbye, Elder.
+Goodbye.
+Goodbye. I will not fail the tribe.
+Gorobets was all right -  for a man. Not gonna be the same without him.
+Got a good memory for faces. Landmarks and such, too. Comes with practice, that's all. And a lot of scoutin' from place to place.
+Got any more good news for me?
+Got it.
+Got myself a habit of looking all around - not just where I'd expect to find trouble. Old habit, but it's saved my hide, on occasion.
+Great! What do you want me to think about? I can think about You, Here... or Everywhere. What do you want?
+Guess I could tell a pretty good story, if I had a mind. But the truth is, I don't know. Just got lucky.
+Guess I had a mind to drown, rather than give Caesar's boys the satisfaction of killing me.
+Guess not. I don't mean nothing by it.
+Guess that makes you a big hero - in Primm. Like I said, me and Michelle didn't sit around waiting to be saved. Business is better here, anyway. 
+Guess that's as good a reason as any to quit this stinkin' trade. No glory. No easy money, no women, and no glory.
+Ha! Chosen One, you aren't graceful enough for me to teach you anything.
 Hah! See, we've even got the same sense of humor. I like a girl who doesn't piss me off after sex. 
 Hah! You're not as dumb as I thought you'd be. We got the same sense of humor.
-Probably better to walk away while I still like you, though. All kinds of things piss me off. Like just about anything that anybody says.
-Yeah, right. You're sniffing up the wrong skirt. Try me again when you're tall, blonde, and female. 
-Thanks for your help with Usanagi and all, but I still like them tall, blonde, and female.
-Not unless you count the Fiends as serious. Gorobets keeps us inside the fence, most of the time. Doesn't matter to me, I just shoot bad guys.
-Sooner or later, they'll move us out to the Dam, though. That's when the shit gets nasty.
-Legion fights to win. And they're smart... hell of a lot smarter than these crazy Fiends. But I don't feel bad about shooting Legion boys.
-Fiends, on the other hand... sometimes I get some pangs of conscience. Not often. But sometimes.
-Some cute little junkie bitch, so fucked-up she doesn't even know that she's the bad guy. And I've got to headshot her. Makes me think.
-Might just be sex, though. I see some cute little number, and I'd rather get in her pants. So maybe I'm a stone-cold bitch, after all.
-Yeah, doesn't sound like me at all, right? But it happens.
-Yeah, well, we can't all be heartless shitheads, right?
-Yeah... I always scare off the hot ones... 
-You don't have to leave, girl. Better yet, come and find me when I'm off duty.
-Yeah. Try not to get killed.
-Yeah. So what? I could take a bullet in the skull tomorrow. I haven't got time to take it slow and subtle. 
-I see somebody I like, I go ahead and tell her. That's about the only thing that the horn-dog males get right.
-Damn shame. I've got some leave time coming to me, and I booked a suite at the Gomorrah. The two of us, rolled up in those silk sheets...
-You and me at Gomorrah, rolled up in those silk sheets. I got leave coming up in a bit, so let me know if you'll be around.
-The Lieutenant's been talking to you, hasn't he? Look, I don't need a head doctor - I'm First Recon, damn it.
-You don't see the others crying about every little bruise and scrape, do you?
-[SUCCEEDED] Just another injury to take care of, huh? Well, when you put it that way... all right. You can tell the Lieutenant I finally caved.
-There's a Doctor Usanagi who's supposed to be good at this sort of thing.
-[FAILED] I already told you that I'm fine. I don't need a head doc.
-This was none of their business - or yours. You've got no right to talk to people behind my back about this.
+Have a look.
+Haven't seen him. Serves him right if the NCR declares him AWOL.
 He got better? If he says so. Anyway, 10 of Spades is a good kid - maybe I ought to listen to him for once.
-I'm guessing the other two had similar things to say. All right, consider me convinced. I'll go see Usanagi.
-You can tell the Lieutenant that I caved.  And... thanks.
-Bitter-Root actually said that? I can't see him talking about his problems to anybody, much less admitting that someone else actually helped him.
-I always wondered about that. First Recon is elite, but the rangers... I can't imagine what it'd be like to lose that kind of status.
-[SUCCEEDED] Damn. Never had you pegged for the drill instructor type, but you got my attention.
-You can tell the Lieutenant that I finally caved. I'll...  get help. There's a Doctor Usanagi who's supposed to be good at this sort of thing.
-[FAILED] "People" ought to mind their own business.
-Trust me, the alpha males are overrated. Plenty of them in the army. All they're good for is killing each other and taking smelly shits.
-I'm just saying... never know what you might like, if you don't give it a try.
-Howdy. Name's Sterling, First Recon. Can't say I've seen you before. I'd remember, if I had.
-Took some skill to bring down that Fiend. You done good.
-Nothing like a job done right. Wish I had a cigar.
-Been a while since they let us out of the fence. Brass must really want Nephi dead.
-Best you don't worry about us. We'll watch your back.
-It's always hard when your commander goes down, but we'll pull through all right.
-Howdy. What brings you back?
-Got a good memory for faces. Landmarks and such, too. Comes with practice, that's all. And a lot of scoutin' from place to place.
-I reckon I've walked every inch of ground between Shady Sands and the Colorado... or close enough to make a man's feet plenty sore.
-You're a fine-looking woman, no doubt about that. But I'm looking a little deeper than the skin, if you take my meaning.
-Not so long ago, I spent more than my share of time lookin' for memorable folk like yourself. Did a lot of scoutin' around these parts.
-Mighty pleased to meet you. Maybe I'll see you again, before we move out.
-Always a pleasure. You keep yourself safe.
-Used to be a Ranger... one of the first they sent out east, back before we took the Dam. Observation and reconnaissance.
-We took the lay of the land, checked out the locals, and kept ourselves inconspicuous. Couple friends of mine were the first to scout the Dam.
-That was back in '73, if I recall. Lot of those Rangers are dead now.
-Vegas always chewed men up... it's just a little more literal, nowadays.
-Well... that wasn't really a matter of choice. Got myself caught by Legionnaires, up near Malpais.
-They had themselves some fun with me... mangled my hands and feet pretty good.
-Wasn't much good with a pistol after that. Wasn't gonna be trekking across the waste on any more long scouts, either.
-Caesar's boys figured I wasn't going anywhere, after what they done to me. So they didn't bother tying me up.
-I crawled out of there on my elbows and knees. Must have looked a sight. Then I rolled down an embankment into the Colorado.
-Guess I had a mind to drown, rather than give Caesar's boys the satisfaction of killing me.
-But a couple Rangers happened to be watching from across the river. They jumped on in and pulled me out of there. Lucky break, they said.
-I call her La Longue Carabine. Didn't always have the scope - I added that myself.
-Been shooting with her so long... couldn't bring myself to toss her away. Would have felt guilty to part with the old girl.
-The other snipers use bolt-action, but Gorobets reckoned it didn't matter none if I was different, so long as I can hit my targets.
-As a matter of fact... it's funny that you'd ask. Couple nights back, I was on watch in the yard...
-Got myself a habit of looking all around - not just where I'd expect to find trouble. Old habit, but it's saved my hide, on occasion.
-Round about one in the morning, I spied some lights in the control tower. Now that's the third time I've spied those lights, mind you.
-And every time I ask about it, they tell me the place was empty. I'm just saying... it didn't look empty to me.
-No trouble at all. Might be nothing. Couple frisky young folks looking for a quiet place to snuggle up.
-Then again... that light is mighty consistent. Always there at 1 AM. Might be worth a look.
-Going on six months, now. But I reckon we'll be moving out, soon enough. Can't talk about the details.
-'Til then, we'll man the towers and keep an eye on the Fiends. We've had more than our share of trouble from their direction.
-Whole things smells of Caesar to me. 'Course, that's just guesswork, but I'd still bet a few caps that he's stirring up the locals against us.
-It's a pride thing with her, and totally unnecessary. I mean, look at me - I was Ranger Sterling until the Legion got through with me.
-I was bitter, but if I'd kept my mouth shut, the NCR would've discharged me and sent me home. Instead, I asked if there was still a place for me.
-I had to prove I could still handle a gun alongside all the recruits, but look at me now - First Recon and still going strong. You tell Betsy that.
-No, you fucking dolt! Why the hell would it be a pleasure?!
-And get the fuck away from me before I cave in your skull!
-Who the fuck are you and why are you bothering me?
-Back again? Jesus....
-Fuckin' A right it is. This baby's my life, my love, my strong right arm. Killed a lot of fuckers with this hunk of iron, yessir.
-I *could.* I'm not terribly inclined to, though. If you go talk to them, they might kill you and rob me of the fun.
-Really? Listen... you don't want to mess with Cook-Cook. And you *really* don't want to let him get you alone. Trust me.
-Name's Nephi, friend. Driver Nephi. Pleasure to meet you.
-Huh? Oh, lots. More than any other Fiend - hundreds, maybe. Wham, bam, "oh god, my brains, you hit me in my brains." Easy as that.
-Bert? That scaly, corpse-looking fuck, you tell him I'm never going back to his little cult!
-No, you fucking dolt! Why the hell would it be a pleasure?!
-And get the fuck away from me before I cave in your skull!
-Who the fuck are you and why are you bothering me?
-Back again? Jesus....
-Fuckin' A right it is. This baby's my life, my love, my strong right arm. Killed a lot of fuckers with this hunk of iron, yessir.
-I *could.* I'm not terribly inclined to, though. If you go talk to them, they might kill you and rob me of the fun.
-Really? Listen... you don't want to mess with Cook-Cook. And you *really* don't want to let him get you alone. Trust me.
-Name's Nephi, friend. Driver Nephi. Pleasure to meet you.
-Huh? Oh, lots. More than any other Fiend - hundreds, maybe. Wham, bam, "oh god, my brains, you hit me in my brains." Easy as that.
-Bert? That scaly, corpse-looking fuck, you tell him I'm never going back to his little cult!
-No! Ha ha! More for me!
-Heh. Good. More for me.
-Sell? Sell?! My dogs! What part don't you get? Mine! Lucky they don't eat you alive for that!
-Arf arf! Ha ha!
-Hey! No feeding my dogs!
-Whatcha want, freakshow?
-Come back to Violet, huh? What now?
-Dogs? Good dogs! My dogs! Fiend dogs. Tear you up, arf arf arf! Ha ha!
-Heh. Good shit. Psycho. Top quality. You want? Might know a guy who knows a guy.
-Don't fuck with Fiends. Driver Nephi'll brain your skull in! Cook-Cook... don't even want to know what he'll do.
-Who wants to know? You here for my dogs? Can't have my dogs. Here for meat? Can't have my meat. Meat's for dogs.
-I'm Violet. Dogs are mine. Meat is mine.
+He wasn't able to be a ranger after that, but his eyes are still sharp so I had him transferred to First Recon.
+He went over to Westside to talk to Tom Anderson. Anderson's a Follower of the Apocalypse. Helps the people in Westside grow crops or something.
+He's a glory hound, always looking for a way to get promoted to Ranger. Thinks he's too good to be a regular trooper like the rest of us.
+He's a good man, Dhatri. Doesn't act like it sometimes, I know. But he didn't have to take me in.
+Heard you got Cook-Cook. I hope you roasted that bastard with his own flamer.
 Heh heh. Good meat, huh? Cat meat, rat meat, dog meat - maybe even *you* meat!
-No! Ha ha! More for me!
-Heh. Good. More for me.
-Sell? Sell?! My dogs! What part don't you get? Mine! Lucky they don't eat you alive for that!
-Arf arf! Ha ha!
-Hey! No feeding my dogs!
-Whatcha want, freakshow?
-Come back to Violet, huh? What now?
-Dogs? Good dogs! My dogs! Fiend dogs. Tear you up, arf arf arf! Ha ha!
+Heh heh... yeah. I'll give 'em *that* all right.
 Heh. Good shit. Psycho. Top quality. You want? Might know a guy who knows a guy.
-Don't fuck with Fiends. Driver Nephi'll brain your skull in! Cook-Cook... don't even want to know what he'll do.
-Who wants to know? You here for my dogs? Can't have my dogs. Here for meat? Can't have my meat. Meat's for dogs.
-I'm Violet. Dogs are mine. Meat is mine.
-Heh heh. Good meat, huh? Cat meat, rat meat, dog meat - maybe even *you* meat!
+Heh. Good. More for me.
+Hell, he was the one who taught me to shoot. You know how? By taking potshots at NCR. And not just soldiers. Civilians, too. Even kids.
+Hell, yes ma'am. Well... not officially. Not anymore. 
+Hell, yes sir. Well... not officially. Not anymore. 
+Hello Chosen One. I see your in need of a little training. Can I be of help?
+Hello, ma'am. I hope you're doing fine today.
+Here is the flint. Now off with you! I don't have time to gossip.
+Here. I owe you. Take it and get out of here, before I indulge my inner bitch and spoil the moment. 
+Here. This is the bounty I put on her head. It's yours.
 Hey there - fancy a game of Caravan?
-You got it.
-[FAILED] I guess Lady Luck just smiles on me, that's all. Nothing special about it.
-[SUCCEEDED] You know how they say you make your own luck? Let's just say I make mine with a little extra ink on the cards.
-[FAILED] What? Are you some kind of idiot? Why, uh... why would I know that?
-[SUCCEEDED] Oh, I getcha. Lookin for a slightly more chemical thrill?
-Okay, I tell you what - I happen to keep some Jet around for emergencies. 35 caps and it's yours.
-Name's Keith. You feeling lucky? I got games of chance, games of skill, games of you-name-it. Want to win a little cash?
-Your loss.
+Hey there, miss! T-t-ten of spades. First Recon sharpshooter. At your s-s-service.
+Hey there, sweet thing. Want a ride on the Cook-Cook express?
+Hey! No feeding my dogs!
+Hey, girl. You need something from me?
+Hey, I'm just a farmer. I don't want any trouble and I don't have anything valuable.
 Hey, it's not like I use them all the time. Mostly I keep them in my shack until I see a really fat score roll into town.
-And here you go. Enjoy, my friend.
-Well, then, why are you wasting my time?
-Well, then, why are you wasting my time?
+Hey, my man! T-t-ten of spades. First Recon sharpshooter. At your s-s-service.
+Hey, thanks for fixing the well!
+Hey, yeah. Next time you see me, maybe I'll be rolling in a shitload of caps, right?
+Hey.
+Hey. No cause for th-that. 
+Hi, mister. I hope you're doing fine today.
+Hmmm -- spend a day with me and I'll teach you how to punch harder.
+How 'bout you get out of my f-f-face? I'm First Recon. I don't need to t-take shit from civvies.
+How do I get to Klamath?
+Howdy. Name's Sterling, First Recon. Can't say I've seen you before. I'd remember, if I had.
+Howdy. Something else I can help you with?
+Howdy. Something I can help you with?
+Howdy. What brings you back?
+Huh? Oh, lots. More than any other Fiend - hundreds, maybe. Wham, bam, "oh god, my brains, you hit me in my brains." Easy as that.
+I *could.* I'm not terribly inclined to, though. If you go talk to them, they might kill you and rob me of the fun.
+I always wondered about that. First Recon is elite, but the rangers... I can't imagine what it'd be like to lose that kind of status.
+I am proud of you, Chosen. You have overcome much. Now. You must go find Vault 13. Vault 13. Bring the GECK home. GECK. Here is a shiny bottle. Vic gave us this. Vic. He is a trader in Klamath. Klamath. Go to Vic. Find Vault 13. Find GECK. Come home. Do your best, child.
+I am ready for the holy quest.
+I am ready. Goodbye.
+I am still the Elder. Remember your place! Apologize or I will not help you anymore.
+I call her La Longue Carabine. Didn't always have the scope - I added that myself.
+I came east to strike it rich, and now I'm broker than ever. What do I tell my family back home?
+I can take off my medicine and do some thinking. People say it's real interesting. I don't know,  because I never hear it.
+I can teach you a more powerful kick. It will take us all of one day.
+I can teach you enough to fight better. It will take us all of one day.
+I can't wait to see the Strip. I hear it's so beautiful!
+I cannot help much. So much has been lost from the Long Ago. What wisdom do you seek?
+I caught the tail end of what you said to her. Betsy looked like she'd been slapped right back into basic for a few seconds there.
+I crawled out of there on my elbows and knees. Must have looked a sight. Then I rolled down an embankment into the Colorado.
+I didn't. My C.O. ordered me to flog a couple "deserters," and I told him to eat shit. So they kicked me out for insubordination.
+I do get to take shots at marauding Molerats once in awhile, and that's always fun.
+I do get to take shots at Molerats once in awhile, so that's always fun.
+I do. You want some, is that it?
+I don't have a mama or papa anymore. I see them sometimes when I take off my medicine, but they can't stay. I'm pretty used to being on my own.
+I don't know what else the brass expects... half these kids don't get more than two weeks of training before they ship 'em out here.
+I don't know which is true. I see a lot, I think a lot. There's a lot to hear through the 188, too, that maybe accounts for the thinking.
+I don't work for freelancers. So move along.
+I figured I grew up around the bastards... they owed me a name, after all they put me through.
+I give what aid and comfort I can. I have medical knowledge thanks to my time with the Followers.
+I guess it's a tricky situation since there's a vault in Fiend territory. If the NCR went after them, they'd just hole up.
+I guess we can send 1st Recon down to Camp Forlorn Hope. They need all the help they can get there.
+I had scores of my own to settle... deeper ones than NCR ever had. Don't bother asking who they were with.
+I had to prove I could still handle a gun alongside all the recruits, but look at me now - First Recon and still going strong. You tell Betsy that.
+I have a ship. 
+I have taught you all I can, Chosen One. Good luck on your quest.
+I haven't got any more bounties for you. It's been quiet and calm since you last reported in. Just how I like it.
+I hear the Brahmin ranchers out in Redding are looking for some hard workers, so I might try there first. I hate working with Brahmin, though.
 I hear you killed Driver Nephi. My team would've liked to get a shot at him... but we're still glad he's dead.
+I keep at it, eventually I'll make it to Ace. Think I'll skip Queen, though.
+I knew you had the soul of darkness!
+I know how to fight with fists and feet. Think you can learn that?
+I know where Vault 13 is!
+I like to keep things simple. Just focus on now. That's why they made me a sniper.
+I lost everything I had at The Tops, but if you gave me 500 caps, I'd head straight back. Sick, huh?
+I must get back to it.
+I need other people's thoughts to fill my head when I'm not thinking myself. Otherwise it's... kind of empty.
+I need some more info.
+I need to take off my medicine...
+I need to think about this.
+I never was able to reach him. He has allowed drugs and hatred to consume him. He runs with the Fiends north of here, now. They call him Driver Nephi.
+I only do what I can to help.
+I only work for caravans, all right? Try someone else.
+I reckon I've walked every inch of ground between Shady Sands and the Colorado... or close enough to make a man's feet plenty sore.
+I sat down at a roulette table with my life savings. An hour later, it was gone.
+I see somebody I like, I go ahead and tell her. That's about the only thing that the horn-dog males get right.
+I see you're still alive, and that's promising. Any luck on that bounty?
+I see. There is much I need to know.
+I shouldn't have brought it up. It's not my place to spread gossip.
+I surely am. Well, sort of. I came out from Utah about six months back, saw a need for my help here.
+I think he's out in the yard, waiting to claim a couple bounties.
+I thought I'd be seeing you again.
+I thought perhaps I could turn him back to the Church.
+I thought you'd say that.
+I understand.
+I understand. Sorry to be a bother.
+I walked all the way from Hub! Thought I'd rest my feet here a day or two, then I head onto the Strip fresh.
+I was afraid that Betsy wouldn't go for long-term treatment because she didn't want to look bad in front of the rest of the squad. You settled that.
+I was bitter, but if I'd kept my mouth shut, the NCR would've discharged me and sent me home. Instead, I asked if there was still a place for me.
+I was stalking him for a while. I'm real good at that. Watching people from where they can't see me, you know?
+I was. I thought I'd accepted the fact that I could be the one ordering him to his death, but it's been more difficult than I thought.
+I will do my best to find the GECK and save our village.
+I will not fail you elder.
+I will not fail you or our people, Elder.
+I wish someone with your medical training had come along sooner. I think she'll actually stick with her treatment because of what you said.
+I won big my first night on the Strip. I kept chasing that feeling. Right into the gutter.
+I would be happy to, should you require it. You seem to be in fine health now.
+I would be happy to. What I can do isn't much, but I give it freely.
+I wouldn't be able to meet the quota, and the NCR would kick me out of my job, anyway. Nah, it's better I get out on my own terms.
+I'd appreciate it. As her CO, I could order her to get help, but I'd have her agree with the idea.
+I'd like to think about it some more.
+I'll be here a while yet, if you need any guns or ammo.
+I'll get in, win big, get out. Take those winnings back home where they'll do some good!
+I'll help you if I can. What are you looking for?
+I'm a private in the NCR army, and I've been proudly serving for two years now.
+I'm a salesman. I swing through McCarran and the dam once a week or so to take orders. But lately I spend most of my time in this piss heap.
+I'm afraid I have exhausted my supplies. If you come back in a day or two, I may be able to do more for you.
+I'm afraid she'll ditch Usanagi early if she feels its taking too long - she won't want to look bad in the eyes of the rest of First Recon.
+I'm Bitter-Root. First Recon. You got a reason to talk to me?
+I'm going now.
+I'm guessing the other two had similar things to say. All right, consider me convinced. I'll go see Usanagi.
+I'm just saying... never know what you might like, if you don't give it a try.
 I'm Lieutenant Gorobets, First Recon. If you're looking to collect a bounty, you should talk to Major Dhatri.
-You came through for us. I have to admit... I wasn't sure you'd make it.
+I'm not a recruitment officer. If you want to join the army, I'm sure someone at McCarran can point you in the right direction.
+I'm not going to feed you any bullshit. These aren't your common Vegas trash. They've all killed good NCR men, and plenty of mercs, too.
+I'm not going to get myself killed!
+I'm on my way.
+I'm sick of the sob stories you hear around here. If you don't know when to stop gambling, that's no one's fault but your own.
+I'm sorry, Elder. I will not fail.
+I'm Violet. Dogs are mine. Meat is mine.
+I'm working on it, Ok?
+I've been seeing Usanagi, and things are better. I'm not so angry all the time, you know? And, uh, I'm not trying to jump every woman in camp.
+I've been sniping since I was old enough to walk. Lot of us sharpshooters get recruited off the farms and ranches out west. Comes natural to us.
+I've come to rescue you.
+I've got three Fiends I want dead, and I don't give a goddamn how it gets done. That sound like something that interests you?
+I've heard through the locals that Nephi has passed on. I truly hope his soul finds peace.
+I've never lost a CO before. It doesn't feel right.
+I've passed the test. Of course, I'm ready.
+I've still got guns and ammo, if you need them.
+I... really don't see the connection. Look, I'm a soldier, not a scientist. I just do my job.
+If I get hold of that fat pile of shit, I'll shove my rifle up his ass a couple hundred times, see how he likes it.
+If I had to guess, it's because I cook shit for the rest of the gang. I'm a  good cook. Maybe I'll make you dinner sometime.
+If I was smart, I'd fake a big old breakdown. That'd make everybody happy, and I'd get some leave time.
+If it's bad news, you can take it up with the Colonel. If it's good news, it better involve some dead Fiends.
+If that's true, that'd be the last of them...
+If there really is a problem, they can take it up with Lieutenant Boyd at McCarran. Farming isn't my department.
+If they've proven hard to kill, yes. Whatever it takes to get the job done, even if means hiring help from outside the military.
+If this flint is so important that you are willing to disgrace the name of the Chosen One, then here. Take the flint and get out of my sight.
+If we ever did go up against them on their home turf, we'd win, but casualties would be high.
+If you change your mind, I'll be happy to see you again. Otherwise... best to stay out of the way.
+If you destroy the machine, we will find the ship. Hurry, there are not many of us left. 
+If you haven't already, see about getting Gorobets and First Recon to help you - they've got things to settle with Driver Nephi, too.
+If you need help from my team, just give the word. Driver Nephi's earned himself a few bullets in the gut.
+If you're looking for bounties, you're too late. Had a few Fiends on my shitlist, but they either got killed or moved on.
+If you're lucky, you can lure Nephi into the open, and the sharpshooters can bring him down. You bring me the head, you'll still get the bounty.
+Impressive, aren't they? You don't see anything like this outside of NCR territory, that's for sure.
+In the Khans, you're not fully grown 'til you've taken a beat-down. Everybody gathers round and hits you until you're damn near dead.
+Is there more you can tell me?
+Is there some reason I should be talking to you? 
+Is there something else I can do for you?
+Is there something I can do for you?
+It helped. A little. Well, more than a little. Betsy ought to pay a visit to Usanagi since it can't hurt none.
+It is a holy artifact - the Garden of Eden Creation Kit. The disks promise it will make our lands green and our village prosperous. It will save us. More, I do not know.
+It is the Elder.
+It means my C.O. was an asshole, and I told him to eat shit. He ordered me to flog a couple "deserters."
+It was m-my fault. See... I was kn-knocked out when it happened. That b-big guy sneaked up on us. I let B-Betsy down.
+It was massacre. That's what a lot of NCR folk will tell you. Most of them feel plenty bad about what happened.
+It's a better bet than trying to take Nephi one-on-one, but it's your call.
+It's a long story. And I'd get tired of talking before it was through.
+It's a lot to ask, I know. You'd be taking most of the risk.
+It's a pride thing with her, and totally unnecessary. I mean, look at me - I was Ranger Sterling until the Legion got through with me.
+It's always hard to lose someone under your command. I hate writing the letter to their folks.
+It's always hard when your commander goes down, but we'll pull through all right.
+It's good to see you again, Child. I don't mean to be abrupt but I see you haven't completed your quest to find the holy Thirteen. Please, let's not waste time talking. The need of our people is great. Go find the Vault!
+It's inappropriate for anyone in First Recon to behave that way. I could discipline her, but I'd rather she get medical help.
+It's like I tell Major Dhatri. Best not look under a rock, if you don't really want to know what's there.
+It's like I told you. Dhatri's not my real father. He just looked after me for a while.
+It's NCR-owned farmland. It produces a lot of the crops that supply McCarran and the Dam. The farmers are all civilians, though.
+It's okay, though. I get a few more k-k-kills under my belt, he'll move me up to Jack. Jack of Spades. Sounds better, right?
+It's one hell of a risk you'd be taking. But if you're willing... we'll do everything we can to keep you alive.
+It's payback for at least one of my troopers. She'll be glad to know he's dead. Here's your caps.
+Just bring me back that last head. And don't lose your own.
+Just leave it lie. And leave me be.
+Just wanted to annoy you. I'm on it. Don't worry.
+Just watch out for the dogs. She raises them herself. Might as well be their mother - they never leave her side.
+K-killing some Fiendsi? Shit, yeah! It's about t-t-time!
+Kickin' ass. Mostly kickin' ass. See, we're watching the perimeter right now. Looking for those F-f-fiends to come back. 
+Klamath is to the east.
+Knocked him out cold. Probably meant to kill him. The kid had no idea what happened until he woke up in the infirmary.
+Learned to shoot on our ranch. Way west of here. Same as the LT, he's a f-farm kid too. 
+Legion fights to win. And they're smart... hell of a lot smarter than these crazy Fiends. But I don't feel bad about shooting Legion boys.
+Let me guess. You got work for me, right?
+Let me see what I can do.
+Let me take off my medicine...
+Let's hope that Betsy sticks with the treatment. Knowing her, she won't keep seeing Usanagi if she feels things are taking too long.
+Like you could help me in there? Fuck off and die.
+Like you have a clue what that even means. 
+Listen this time! Go to the levels below us. Find the machine that makes power. Stop it and we can escape. The men here are not true to the Vault dream. They are evil. Also, if you have not yet found the GECK, seek it here. Our freedom is nothing if our village can not be saved. Now go!
+Listen, 
+Listen. My team has a debt to settle with Nephi. We've seen too many of our boys get brained by that golf club of his.
+Local, local, the here and now... little of interest... things to buy, false hopes, and regrets watered down, washed down in dirty glasses.
+Look. If you think you can do better... 
+Lost a lot of good men to this psychopath. Morale's going to be better, now that he's gone. Here's the bounty I promised.
+Lot of downtime in the army. Nobody around but you and your partner. Plenty of time for... whatever we want.
+Lot of us got killed at Bitter Springs. Lot of them, I mean. My parents died, too.
+Lotta folks come to New Vegas and lose everything in Freeside or the Strip. They get hungry, desperate, and try to take our hard work.
+Lucas is the chief warrior of your tribe.
+Makes no difference to me. I'd be happy to see any one of them dead. Who will it be?
+May the wind be at your back, Chosen One.
+Maybe he felt bad, too. About how his men killed my folks. I told him he did me a service, but he didn't believe me. Still doesn't.
+Maybe you don't want for food much, but you can sell these on the market for a good price. Like I said, we're much obliged for the help.
+Maybe you need a warrior's help.
+Me go now.
+Me go.
+Me understand.
+Me, I'm here to do my job. For now, that job is shootin' Fiends.
 Means a lot, letting my team get payback. Here. We all pitched in some caps for you. Even Sterling, and he's famous for his tight wallet.
+Men came to our village in flying machines and took us. There were others, too - from the holy Thirteen! I thought we were saved. I thought we were going to heaven. (sigh)
+Michelle and I ran a little shop in Primm 'till a prison break north of town spoiled it for everyone. Goddamned convicts just about shut down I-15.
+Might just be sex, though. I see some cute little number, and I'd rather get in her pants. So maybe I'm a stone-cold bitch, after all.
+Might make him careless, too.
+Mighty pleased to meet you. Maybe I'll see you again, before we move out.
+Much as I sympathize, their theft would put me in a bad spot. I got a crop quota to meet.
+My advice is this. Talk to Lieutenant Gorobets. He's in charge of Alpha Team, 1st Recon. Snipers.
+My dad, he got himself fucked up, every chance he got. Always started with folk for no reason.
+My damn parents, too. They were just as bad as the rest.
+My partner's got some potential, so I let him wear those goofy glasses. I tell him they're his training shades. He totally buys it.
+My team will take up positions around the old rock crushing plant. They'll wait until they see Nephi, and then they'll start shooting.
+Mynoc said what? Out with it, child!
+N-no problem.
+Nah... it's no p-problem. Everybody likes to have a little fun with me. Just shows they l-l-like me. You don't rib somebody you don't like.
+Name's Keith. You feeling lucky? I got games of chance, games of skill, games of you-name-it. Want to win a little cash?
+Name's Michelle. My Dad and me run this store. His name's Samuel. I take the day shift and he takes nights.
+Name's Nephi, friend. Driver Nephi. Pleasure to meet you.
+NCR? Bunch of soft little bitches, they've got no stomach for life in the wasteland. Got some choice strange, though, I'll give 'em that.
+Never said it was. But I don't need to talk to any doctors. Especially not the pricks around here.
+Never seen you around before. What do you want?
+No shortage of customers... so long as Legion raids south of here don't get worse, anyways.
+No Thanks.
+No trouble at all. Might be nothing. Couple frisky young folks looking for a quiet place to snuggle up.
+No! Ha ha! More for me!
+No, Aunt Morlis, I...
+No, I don't. Now stop wasting my time and get out of here!
+No, I won't risk my team in the open. They're deadly at range, but they've got no advantage hand-to-hand.
+No, it's me, the Chosen One!
+No, thanks.
+No, you fucking dolt! Why the hell would it be a pleasure?!
+No.
+Nobody wanted to w-work with me. They said I was too green. But Betsy volunteered. Shit, you don't even know how big a d-d-deal that is.
+Nope. I am doing fine.
+Not enough. We've been trying to put a bullet in him for a few weeks. He's strong as a brahmin bull, and he's fast.
+Not much to tell. A brahmin or two loaded up with weapons, and a whole mess of well-armed guards to make sure it ends up where it's supposed to.
+Not much. I hear some folks got killed down by Nelson... or was it Novac? I don't know. If they come up this way, me and dad'll go someplace else.
+Not Queenie though. I'd never cook my Queenie.
+Not so fast, old woman. I need time to think about this!
+Not so good.
+Not so long ago, I spent more than my share of time lookin' for memorable folk like yourself. Did a lot of scoutin' around these parts.
+Not sure how to help you with that one. Major Dhatri was offering bounties on some of the Fiends, but I hear someone took care of that recently.
+Not unless you count the Fiends as serious. Gorobets keeps us inside the fence, most of the time. Doesn't matter to me, I just shoot bad guys.
+Nothing like a job done right. Wish I had a cigar.
+Now don't waste my time. Do you have the powders?
+Now that's over with, I'd send 1st Recon down to Camp Forlorn Hope, but I heard it's overrun by the Legion. Bastards.
+Now we're supplying grunts, mercs, and anybody else on our side. We don't make much... but at least we're saving lives.
+Nuh??
+Of course.
+Oh really? And how are you gonna make us?
+Oh yeah? Fuck off, asshole.
+Oh, b-b-because of what that fuck Cook-Cook did? W-well, it's n-not the same thing, but D-Doc  Usanagi helped me with my s-s-stuttering.
+Oh, gods... Listen - go down. Find machine that makes power. Kill machine. Kill bad men. Kill everybody! You kill, we go home. Also, if you not have GECK then look for GECK here. Must have GECK to save village! Freedom is nothing without home to return to. Understand? Oh, gods.
+Oh, I don't know anything, ma'am. I just think it, and then I don't.
+Oh, I don't know anything, mister. I just think it, and then I don't.
+Oh, I don't sell things, ma'am. I sell thoughts.
+Oh, I don't sell things, mister. I sell thoughts.
+Oh, okay.
+Oh, shit, I don't know. Got to be at least a month. Longer than I last at most jobs.
+Oh, shut up, you old bitch! It's me, your Chosen One.
+Oh, y-yeah. My s-stuttering was w-w-way worse before.
+Oh, yeah. A lot. Like, before I was a bounty hunter, I worked as a caravan guard. You'd think that was a cakewalk, right? Wrong.
+Oh, yeah. F-fine. Just a little st-st-stutter. Had it since I was a kid. Doesn't stop me from k-kickin' ass. 
+Oh, you could. You just don't want to.
+Oh, you'd better believe it. I feel sorry for the troops who are charged with keeping the Fiends from overrunning everything.
+Oh. They recruited me... what, a year ago? Taught me to kick even more ass than before. These guys... they really know how to kick some ass. 
+Ok, me go now.
+Okay, I tell you what - I happen to keep some Jet around for emergencies. 35 caps and it's yours.
+Okay.
+Okay. I will. Guess that's something I'd rather not talk about, that's all.
+Okay. Let me take off my medicine...
+Okay. Let's do it.
+On second thought, I don't need any help now. Goodbye.
+On the Strip, everyone's nice to you when you got the caps. The moment you don't? They throw your ass out.
+Once again you return without the GECK. Our crops begin to fail us, Chosen. Our need becomes greater with the passage of time. Go find the holy Thirteen!
+Once I get my caps from Dhatri, I'm going to head on over to Gomorrah and win big at cards.
+One more thing. If you want the full reward, you need to bring me a recognizable head. My superiors need proof they're gone.
+One nifty bit, though. The gun cases are rigged to explode. So trying to loot one of our caravans doesn't do much good.
+One shot, one kill. That's how Ten of Spades p-p-plays the game.
+One thing I should tell you about Cook-Cook. The piece of shit is pure animal. He raped one of my snipers, and that makes this personal.
+Only one man's gotten close to killing him, and that's Little Buster. So he says, anyway. Maybe it's bullshit, but I'd still ask him about it.
+Only one thing I learned about that asshole. He keeps a bunch of Brahmins. Most of them he roasts whenever he feels like it, but there's one...
+Only reason they kept her around was because she was a... how'd my dad say it... "a smokin' piece of ass."
+Only thing he hasn't had is willing bait. Don't have enough troops to order anyone beyond the fence. Not anymore, anyway.
+Ouch. Thinking small only hurts a little, but it's a sharp pain.
+Our water ration suddenly increased. Can't help but think that you had something to do with it.
+Out in the yard. Gorobets coordinates our sniper teams. He's been gunning for Nephi for weeks now.
+Pack of drugged-out killers. They're addicted to every stim, every pill, every psychoactive enema on this fucked-up earth.
+Pay attention. Find the holy Vault 13 and bring back the GECK. Vic, the trader from Klamath, brought us the flask from the holy Thirteen. Start your search with him. The disk will remind you of your task. May the gods of the Vault watch over you.
+People are dying, cattle are dying, and crops are failing. Everyone is either hungry, sick, or both. Our time draws near. If you do not find the GECK soon, we are doomed. Do you understand me?
+Perimeter's been quiet since you left. The Fiends are running scared. I doubt they'll give us any more trouble, not for a long while.
+Personally, I think they're just incompetent and making excuses. The NCR ought to send them all crying back to California.
+Pleasure doing business with you.
+Poor lost souls, most of them. They thought to come to New Vegas and find their fortunes on its shining Strip.
+Pretty hard to meet their crop quotas with twenty percent less water than we're supposed to be getting. Not that OSI cares about any of this.
+Pretty well.
+Probably better to walk away while I still like you, though. All kinds of things piss me off. Like just about anything that anybody says.
+Quit talking! We've got a job to do. 
+Really? Listen... you don't want to mess with Cook-Cook. And you *really* don't want to let him get you alone. Trust me.
+Right here, Fiends! This is what payback looks like! First Recon, hooah!
+Right.
+Rot in hell.
+Round about one in the morning, I spied some lights in the control tower. Now that's the third time I've spied those lights, mind you.
+S-s-sucks about the  LT. N-n-nobody can replace him.
+Same as you, I'd imagine? Although, I'm assigned to watch over these farms and keep out trespassers.
+Samuel Kerr at your service. Me and my daughter Michelle run this fine establishment.
+See, I thought the bounty hunting trade would be easy money, but it turns out it's hard work. So screw it.
+See, somebody gives me a job, I do it. Maybe I complain a little, here and there, but my shit gets done.
+Seems like he usually runs with a gang of Fiends. Uses them for cover. We haven't been able to get a clean shot at him.
+Sell? Sell?! My dogs! What part don't you get? Mine! Lucky they don't eat you alive for that!
+She trusts her life to the newbie, and I sit there and let her get raped by that... p-p-piece of shit. 
+She's my g-g-goddamn partner. See, we work in pairs. We spot for each other. W-watch each other's backs.
+Shit, I don't even care if she can shoot straight. Can't have everything.
+Shit, I'd settle just for the women.
+Shit, you're crazy!
+Shit. I didn't even get a shot at that Nephi b-b-bastard before he went down.
+Shit. Long as I can r-r-remember. Had a rifle in my hand since I was three, that's what my dad always says.
+Shit. You sound like the LT. I should've w-woken up. I shouldn't have gotten knocked out in the f-first place. 
+Simple. I'm going to make myself some easy money. I got a plan.
+Sitting around here makes me miss my raider days. I don't know why I figured it was time to get respectable.
+So I hooked up with a couple other vets... bribed a Gun Runner...
+So there you are, the Chosen One. Hmmmph! How goes your quest?
+So yeah. Payback would be good. Doesn't mean I need to have myself a big long cry.
+So you've returned. Did you find the holy Thirteen?
+So, child. Once again you stand before me. Are you empty-handed yet again?
+Some cute little junkie bitch, so fucked-up she doesn't even know that she's the bad guy. And I've got to headshot her. Makes me think.
+Some find honest labor, but more fritter away what little they've saved on crooked gambling and cheap liquor. Still, I minister to them as I can.
+Some of my team aren't without their share of scars, though, like Betsy and Sterling.
+Some people say that it's a gift. Other people say that it's the kind of thinking anyone could do if they watched more than they talked.
+Something else you need before I go?
+Something on your mind?
+Something the politicians back in Shady Sands came up with. They pay us to move here and farm the land. They even protect the fields.
+Sooner or later, they'll move us out to the Dam, though. That's when the shit gets nasty.
+Sorry I had to bother you. I've... well, I've lost everything.
+Sorry to hear that. You had my hopes up. If you change your mind, the bounties still stand... unless somebody else claims them.
+Sorry, don't have the time right now.
+Sorry, ma'am. All that thinking has made my head hurt. I don't think I'll be doing any thinking for a long time.
+Sorry, sir. All that thinking has made my head hurt. I don't think I'll be doing any thinking for a long time.
+Sorry, you're not an old bitch. What's going on?
+Staff sergeant, Third Platoon, Bravo Company. I was at the Dam when the Legion hit us, three years back. 
+Stay out of my way and I'll stay out of yours, got it?
+Still making a nuisance of yourself?
+Still plenty of other problems keeping the 15 shut down, though. Thanks for playing.
+Still plenty of troubles out that way, though. Thanks for playing.
+Still working on that last bounty?
+Still, it'll take some time for routes to readjust. I expect I'll be working from here for the foreseeable future.
+Sure do. Came from The Hub on account of the Thaler Act. Farming's decent work, but the whole thing's a bum deal.
+Sure do. Lots of folk been coming out east, sorting through junk, looking for whatever they can sell.
+Sure you don't. All just a happy coincidence, am I right?
+Sure, I could do some more thinking. What should I do my thinking about this time?
+Sure, it stinks to hang out here, but it won't be forever. Plus I can afford a monthly bender on the Strip and still build up my nest egg.
+Sure, no problem.
+Sure.
+Sure. What can you help me with?
+Take a look.
+Tell me more about the GECK.
+Th-this again?
+Thank you so much! I'm so hungry!
+Thank you, Aunt Morlis.
+Thanks for your help with Usanagi and all, but I still like them tall, blonde, and female.
+Thanks for your help.
+Thanks Jordan, that's going to help a lot.
+Thanks, Jordan, that's going to help a lot.
+That certainly was disgusting. What am I supposed to do?
+That is good news, but not enough to save us. You must come back soon with the GECK or our people will die!
+That is what they call it. They stick needles into our skin, like stimpaks, but then terrible things happen. Then... (chokes up)
+That means no headshots. No decapitations 'til after they're dead. And no damage to the face. If you want to be safe, aim for the chest.
+That right? You killed one of the psychopaths on my shitlist? Let me see the scumbag's head...
+That shit was my fault. I don't want to talk about it anymore, all right?
+That was a shitstorm, and don't let anybody tell you different. The brass try to play it down, but most of them were back at McCarran.
+That was back in '73, if I recall. Lot of those Rangers are dead now.
+That'll do, yeah.
+That'll help. Still plenty of problems out that way, though.
+That's all right, ma'am. You will someday.
+That's all right, mister. You will someday.
+That's impressive - if you're telling the truth.
+That's nice. I suspect we'll stick around here, though. Business has been good.
+That's not junk. That's other people's thoughts. People had to think to make them, and the thoughts got stuck inside.
+That's one less drugged-out waster. Best part of this job - shooting folks who deserve it.
+That's right. Brahmin, mole rats, lizards... the occasional traveler lost in the wrong part of town.
+That's supposed to be Driver Nephi? The head's in really bad shape, so a full reward is out of the question.
+That's supposed to be Driver Nephi? The head's in really bad shape, so I can't authorize a full reward. If he really is dead, we're all better off.
+That's the best damn thing I've heard all day. Finally somebody around here with some goddamn ambition.
+That's two psychopaths dead. If you can bring down the third, there's a bonus in it for you.
+That's what I figured. Don't know why the heck they're so stubborn they couldn't just admit it.
+That's... great? So there was a problem, after all. Huh. Well, I'm not a scientist, so it's not my fault if I didn't see anything wrong.
+That, umm, you might have some flint.
+The  LT t-t-told you about that? Shit. Man, that's sh-sh-shit. 
+The brahmin's extra head is probably the result of a regular cow being exposed too soon to radiation.
+The Crimson Caravan Company is north of here. They have just about everything you need.
+The d-doc has a c-clinic north of here. Can't m-m-miss it. You should t-talk to Bitter-Root, too. He's b-been to see the doc, too.
+The Elder is just that - old, older than you can remember. Still, she has the strength and fire to lead the village through these hard times.
+The fact that you are standing here must mean that you have completed your quest. You wouldn't waste precious time returning here empty-handed, would you?
+The Fiends are scary because they're unpredictable. One day, they'll be taking potshots at you and then running off before you can shoot back.
+The Followers weren't too happy about that, of course. They haven't been too fond of the NCR for a while, but I go where I'm needed.
+The Gun Runners have been putting rapid-fire death-dealing in the hands of anyone who needed to defend himself for over a century.
+The holy Thirteen? I can not help you. Only the Vault Dweller knew. His tales have the sound of a perilous journey. 
+The last person I saw him talking to was Lieutenant Romanowski. Romanowski's around here somewhere. Sorry I couldn't be more helpful.
+The Lieutenant's been talking to you, hasn't he? Look, I don't need a head doctor - I'm First Recon, damn it.
+The little guy. 10 of Spades. I like him because he listens. Doesn't shut up the rest of the time, but when I talk, he listens.
+The LT, Gorobets, gave it to me. See, I w-w-wanted to be Ace of Spades. But the LT says, sorry kid, you're t-t-too green. So he calls me Ten instead. 
+The major froze up at the news, and we couldn't get another word out of him. I took over and salvaged the situation as best I could.
+The major in charge at the time made a bad call - he thought Bitter Springs was full of Great Khan raiders, so we surrounded the place.
+The Office of Science and Industry has carefully calculated the amount of water needed for these crops. The whole thing is handled by computer.
+The other snipers use bolt-action, but Gorobets reckoned it didn't matter none if I was different, so long as I can hit my targets.
+The rapist with the flamethrower? Yeah, that's a combination I stay the fuck away from.
+The Strip ain't nothing but a monster. Chews folks up, sucks out their caps, and spits 'em back out.
+The water ration's still a problem, and the NCR doesn't look like it's going to do anything about it anytime soon.
+The well's fixed.
+Then again... that light is mighty consistent. Always there at 1 AM. Might be worth a look.
+Then get yourself out of here and don't come back until you do! Why waste time coming back here, when you could be using that time to continue your search!?
+Then get yourself out of here and find it! People are depending on you!
+Then get yourself out of here and find the GECK! People are depending on you!
+Then he'd get high with his buddies and swap tales about the folk they killed. Bunch of animals.
+Then I'll fire some shells up in there, make sure he doesn't ever forget me. He left me a bunch of souvenirs - I figure I can do the same.
+Then take this flask. It is from the holy Vault 13. Vic, a trader in Klamath, brought it to us. He may know where the vault is. You may also need some of what they call money. Here.
+Then the skin bubbles like maggots beneath it. Boils grow and burst. Blood runs from your ears and your tongue swells. Those who are lucky choke to death. Those who are not...
+Then there's Driver Nephi. He's fast and he's brutal. Killed about a dozen of my men with a goddamn driver iron. Hence his name.
+Then they brought us here, to hell. They have killed most of us with something they call effeevee. They will kill us all before they are through! Do you know what must be done, Chosen One?
+Then we ain't going nowhere.
+Then what?
+There are other things I would learn.
+There you have learned what I can teach you about spears.
+There's a Doctor Usanagi who's supposed to be good at this sort of thing.
+There's more I want to know.
+There's more to the 188 than meets the eye. Troops move back and forth on 93 all the time, and 95 is how NCR folks come and go from Vegas.
+There's not as many people playing at Gomorrah, so that means I've got better odds of winning big. I got this figured out.
+There's talk from time to time about taking out their base at Red Rock Canyon, but nothing ever comes of it. The Great Khans are tough fighters.
+There's the medic at Camp McCarran, but I've also heard there's a civilian doctor in the northeast part of New Vegas. I don't know for sure.
+There's two psycho-bastards left. Which one will it be?
+There's usually a gun merchant hanging around topside. I'm sure she'll take care of you.
+They brought me to Dhatri after the battle. He was just a Captain, back then. Guess he saw something in me... knew I didn't belong with the Khans.
+They don't. Only the good ones do.
+They had themselves some fun with me... mangled my hands and feet pretty good.
+They know stuff about tech and medicine and usually help out anybody who asks. Can't say I know any more than that.
+They mustered me out a year ago. Administrative discharge.
+They work the farms, and in return they get a safe place to stay and clean food and water. Some of 'em aren't all that grateful, though.
+They'll pay.
+They're based out of the old fort in Freeside. They supposedly helped the NCR out at some point, but they go their own way now.
+They're dead. Got themselves killed at Bitter Springs. Served them right, if you ask me.
+They're part of the deal, the Thaler Act. We work the fields while they protect the crops and the water.
+They're scum. Lazy, trumped-up Raiders. Most of the time, they're drunk or high, and when they're not shooting chems, they're selling them.
+Thing is, there's a lot of assholes in the army. I keep hoping they'll pair me up with some hot blonde, like you see on those old pinups.
+Thing is, there's a lot of assholes in the army. Now if they paired me up with somebody who looks like you...
+Think you can take down another one of these scumbags? Up to you. But I can trust you to do the job, and I'd hate to see you walk away.
+Thinking hurts you, too? Aw, I wish I could let you have the one on my head but I can't. It hurts real bad when I don't wear it.
+This is Cook-cook? You sure did a number on his face. I'm not allowed to give you the full reward, but thanks for taking this guy down.
+This is going to make me sick, isn't it?
+This isn't a public relations office. If you're not here about a bounty, you can go pester the Colonel.
+This job's boring enough without talking to you. Go see Alexander.
+This thing on my head is headache medicine. It works real good, except I can't think when it's on.  Really think, I mean.
+This war is gonna bankrupt the NCR, unless we finish off the Legion fast and dirty. 
+This was none of their business - or yours. You've got no right to talk to people behind my back about this.
+This will take a little while.
+Those kids didn't desert. They just got liquored up on the Strip and missed roll call.
+Times are tough back home. Too many people, not enough work. Unless you like shoveling brahmin shit.
+Took some skill to bring down that Fiend. You done good.
+Trust me, the alpha males are overrated. Plenty of them in the army. All they're good for is killing each other and taking smelly shits.
+Truth is, his eyes just suck.
+Ugh?!
+Uh -huh!
+Uh, Aunt Morlis, I have three right here.
+Uh-kay.
+Uh.
+Uh... What was my quest again?
+Uhh... duh?
+Uhhh?
+Umm, I guess not.
+Umm, okay. Sorry.
+Ummm, Mynoc said...
+Used to be a Ranger... one of the first they sent out east, back before we took the Dam. Observation and reconnaissance.
+Used to have a settlement up at Bitter Springs, 'til they pissed off NCR and got slaughtered for their trouble.
+Vegas always chewed men up... it's just a little more literal, nowadays.
+Vegas is bleeding us dry. We're tossing caps at a hundred different problems, while Caesar bides his time and lets us wear ourselves out.
+Very well. I'm on my way.
+Very well. See me when you decide - but do not wait too long.
+Violet it is. Wish I could give you more advice on how to bring her down, but we know less about her than the other two.
+Violet's got dogs. Lots of dogs. While they're ripping you to shreds up close, she'll be putting rounds through you with her rifle.
+Wahh!!! I'm really thirsty but the well's broken!
+Wahh!!! Please fix the well.
+Wahh!!! The well really needs fixing.
+Wasn't much good with a pistol after that. Wasn't gonna be trekking across the waste on any more long scouts, either.
+Way I see it, Bitter Springs was my beat-down. So afterward... I gave myself a name. It's all I've got from the Khans, and it's all I ever want.
+We came here about a month ago, when Primm went to hell on account of the prison break north of there. Found a bin to call home and set up shop.
+We came here from Primm about a month past. Doesn't look like much, but it's one hell of a location.
+We can't have wastelanders popping in here for a free meal, so my squad and I are assigned to keep things from going to hell.
+We get 'em coming and going. Coming, the suckers flush with caps they saved to gamble on the Strip...
+We get the water - clean water - pumped in from Lake Mead. If you follow the big pipes, they'll take you all the way to the Lake.
+We know they supply the Fiends with illegal chems, but they never stick around in NCR territory for long. They know the land, and move quick.
+We shouldn't be perched up at the Dam - we ought to be crossing the Colorado and sticking a boot up Caesar's ass.
+We think it was the Brotherhood of Steel - those crazies always go hard for energy weapons. But the NCR would rather pretend they killed all of them.
+We took the lay of the land, checked out the locals, and kept ourselves inconspicuous. Couple friends of mine were the first to scout the Dam.
+We used to. But every caravan carrying them was getting ambushed and wiped out. By someone sophisticated enough to know which was which.
 We'll get ourselves into position. See you at the rock crushing plant.
 We're all set up. You just lure Nephi close.
-It's always hard to lose someone under your command. I hate writing the letter to their folks.
-What can I do for you?
-Not enough. We've been trying to put a bullet in him for a few weeks. He's strong as a brahmin bull, and he's fast.
-Seems like he usually runs with a gang of Fiends. Uses them for cover. We haven't been able to get a clean shot at him.
-Betsy swears she's hit him. Twice. But if she's right, it didn't seem to slow him down.
-You've got it.
-I've been sniping since I was old enough to walk. Lot of us sharpshooters get recruited off the farms and ranches out west. Comes natural to us.
-As for my squad - they're the best we have. My word on that. They're all hand-picked, and I won't work with anybody who isn't up to snuff.
-10 of Spades is the greenest of the bunch, but he's a farmboy, like me. Shooting's in his blood.
-Cook-Cook, one of the fiends, ambushed her and Ten of Spades. They both managed to escape, but not before Cook-Cook raped her.
-Betsy's shrugged it off like it was nothing, but her behavior keeps getting worse - always making passes at every woman who wanders by.
-It's inappropriate for anyone in First Recon to behave that way. I could discipline her, but I'd rather she get medical help.
-What did you have in mind? You thinking of luring him into range of my snipers?
-It's one hell of a risk you'd be taking. But if you're willing... we'll do everything we can to keep you alive.
-Can we hit him? Damn straight, we can. Question is whether he kills you before we get a clear shot.
-No, I won't risk my team in the open. They're deadly at range, but they've got no advantage hand-to-hand.
-But if you can draw him out... get us a clean shot... we can bring him down. No problem.
-It's a lot to ask, I know. You'd be taking most of the risk.
-Listen. My team has a debt to settle with Nephi. We've seen too many of our boys get brained by that golf club of his.
-You lure him out for us, and if we can score some payback... we'll all pitch in caps for a reward.
-My team will take up positions around the old rock crushing plant. They'll wait until they see Nephi, and then they'll start shooting.
-At that point, just keep your head down, and stay out of range of his golf club. We'll take care of the rest.
-Your call. Even if you were one of my troopers, I wouldn't force you to take a risk like that.
-But the offer stands. Give me the word, and I'll put my snipers in position. Otherwise, they'll stay inside the fence.
-Carry on.
-Whatever you need, we'll make sure it gets done.
-If you need help from my team, just give the word. Driver Nephi's earned himself a few bullets in the gut.
 We're at your service, if you need us. Until Driver Nephi is dead. Major's orders.
-Corporal Sterling was an NCR ranger until he was captured by the Legion. They tortured him pretty badly.
-He wasn't able to be a ranger after that, but his eyes are still sharp so I had him transferred to First Recon.
-I'd appreciate it. As her CO, I could order her to get help, but I'd have her agree with the idea.
-Yes. Talk to Betsy and try to convince her to get medical help for her trauma. I sure hope you understand what I'm asking.
-We're the finest sniper outfit in the whole NCR. If you need a bullet put into a target's eye from 800 yards away, you call us.
-Some of my team aren't without their share of scars, though, like Betsy and Sterling.
-We're the finest sniper outfit in the whole NCR. If you need a bullet put into a target's eye from 800 yards away, you call us.
-If they've proven hard to kill, yes. Whatever it takes to get the job done, even if means hiring help from outside the military.
-Yes, the others in the squad said you'd come to them about her. It's a start, but let's hope she sticks with her treatment as long as it's necessary.
-I'm afraid she'll ditch Usanagi early if she feels its taking too long - she won't want to look bad in the eyes of the rest of First Recon.
-I caught the tail end of what you said to her. Betsy looked like she'd been slapped right back into basic for a few seconds there.
-Let's hope that Betsy sticks with the treatment. Knowing her, she won't keep seeing Usanagi if she feels things are taking too long.
-I wish someone with your medical training had come along sooner. I think she'll actually stick with her treatment because of what you said.
-I was afraid that Betsy wouldn't go for long-term treatment because she didn't want to look bad in front of the rest of the squad. You settled that.
-Do me a favor and let Usanagi know Corporal Betsy is coming. I'd like to make sure the medical clinic has time for her.
-Let me guess. You got work for me, right?
-Well, you're too late - I just quit the bounty trade. Soon as I pick up some caps that Dhatri owes me, I'm out of this scrapyard.
-Heard you got Cook-Cook. I hope you roasted that bastard with his own flamer.
-Yep, I'm still here. Shit, I got nothing better to do, right?
-Well shit, feel free to stick a knife in the old ego. I thought I'd made a name for myself around here.
-Guess that's as good a reason as any to quit this stinkin' trade. No glory. No easy money, no women, and no glory.
-Shit, I'd settle just for the women.
-Well hey, the field's wide open, now that I'm gone. Probably lots of people looking to get in, once they hear I quit.
-See, I thought the bounty hunting trade would be easy money, but it turns out it's hard work. So screw it.
-Also - I ran into this mark who was a little too tough for me. I mean, I could've taken him.
-But with this guy, it might have cost me some bad burns or an ass-rape. I'm all for risking my life, but I'm a little sensitive about my asshole.
-The rapist with the flamethrower? Yeah, that's a combination I stay the fuck away from.
-I was stalking him for a while. I'm real good at that. Watching people from where they can't see me, you know?
-Only one thing I learned about that asshole. He keeps a bunch of Brahmins. Most of them he roasts whenever he feels like it, but there's one...
-...must be his pet, or some shit. Doesn't let anybody near that Brahmin. Somebody puts a bullet in her, I bet that'd piss him off good.
-Might make him careless, too.
-Because I killed a couple marks for him, that's why. You ever hear of Jackson? Or Night Terror?
-Damn right they were. And they were good, too. 'Til I popped a couple shells in their assholes. Bam! Dead, finished, over.
-See, somebody gives me a job, I do it. Maybe I complain a little, here and there, but my shit gets done.
-'Course you didn't. 'Cause they crossed paths with Little Buster. Bam! Dead, finished, over.
-Simple. I'm going to make myself some easy money. I got a plan.
-Once I get my caps from Dhatri, I'm going to head on over to Gomorrah and win big at cards.
-There's not as many people playing at Gomorrah, so that means I've got better odds of winning big. I got this figured out.
-Oh, shit, I don't know. Got to be at least a month. Longer than I last at most jobs.
-Oh, yeah. A lot. Like, before I was a bounty hunter, I worked as a caravan guard. You'd think that was a cakewalk, right? Wrong.
-Crazy bastards expected me to wake up at dawn. Forget it. That's about two hours after this guy hits the sack.
-And I need at least ten, twelve hours of sleep to do my job. Price of excellence.
-Hey, yeah. Next time you see me, maybe I'll be rolling in a shitload of caps, right?
-If it's bad news, you can take it up with the Colonel. If it's good news, it better involve some dead Fiends.
-This isn't a public relations office. If you're not here about a bounty, you can go pester the Colonel.
-I see you're still alive, and that's promising. Any luck on that bounty?
-Got any more good news for me?
-Still working on that last bounty?
-Perimeter's been quiet since you left. The Fiends are running scared. I doubt they'll give us any more trouble, not for a long while.
-I haven't got any more bounties for you. It's been quiet and calm since you last reported in. Just how I like it.
-If you're looking for bounties, you're too late. Had a few Fiends on my shitlist, but they either got killed or moved on.
-Pack of drugged-out killers. They're addicted to every stim, every pill, every psychoactive enema on this fucked-up earth.
-I've got three Fiends I want dead, and I don't give a goddamn how it gets done. That sound like something that interests you?
-Damn right I am. And I'm paying bounties.
-Right.
-Good. That's damn good. I figure it's about time we got lucky out here, so maybe you can snuff one of these maniacs.
-First one calls herself Violet. God knows why - the name is the prettiest thing about her. Spends most of her time with a pack of vicious dogs.
-Then there's Driver Nephi. He's fast and he's brutal. Killed about a dozen of my men with a goddamn driver iron. Hence his name.
-And finally... Cook-cook. Rapist. Pyromaniac. And damn good chef, if you believe the Fiends we've captured. Probably the craziest of the lot.
-I'm not going to feed you any bullshit. These aren't your common Vegas trash. They've all killed good NCR men, and plenty of mercs, too.
-You go after them - any of them - you're in for a hell of a fight. So... which one is it going to be?
-Well, I'm sorry to hear that. Only one thing concerns me right now, and that's killing the bastards that are murdering my men.
-You want to talk to somebody in charge, I'd start with Colonel Hsu and work my way down. You'll find him in the Main Concourse.
-But if you want to take down some psycho-crazy bastards... I'm happy to talk caps.
-Violet it is. Wish I could give you more advice on how to bring her down, but we know less about her than the other two.
-Just watch out for the dogs. She raises them herself. Might as well be their mother - they never leave her side.
-You've got some guts, I'll give you that. Nephi is one tough son of a bitch. You let him get close, and he'll take your head off.
-My advice is this. Talk to Lieutenant Gorobets. He's in charge of Alpha Team, 1st Recon. Snipers.
-If you're lucky, you can lure Nephi into the open, and the sharpshooters can bring him down. You bring me the head, you'll still get the bounty.
-It's a better bet than trying to take Nephi one-on-one, but it's your call.
-One thing I should tell you about Cook-Cook. The piece of shit is pure animal. He raped one of my snipers, and that makes this personal.
-Also... he's got a flamethrower, and he's damn good with it. From what I hear, he either rapes or burns every living thing he can get his hands on.
-Only one man's gotten close to killing him, and that's Little Buster. So he says, anyway. Maybe it's bullshit, but I'd still ask him about it.
-Can't say I blame you. If I wasn't in this fight for my country, you couldn't pay me enough to screw with those maniacs.
-If you change your mind, I'll be happy to see you again. Otherwise... best to stay out of the way.
-Good question. Fiend territory is southeast of here, but they range all over the area. None of them stays in any one place for long.
-Makes no difference to me. I'd be happy to see any one of them dead. Who will it be?
-One more thing. If you want the full reward, you need to bring me a recognizable head. My superiors need proof they're gone.
-That means no headshots. No decapitations 'til after they're dead. And no damage to the face. If you want to be safe, aim for the chest.
-You bring me a head that looks like a rotten tomato, people will be doubting, and I won't be authorized to pay the entire bounty.
-Good luck to you. And don't get careless.
-You've gone after the Fiends before - I don't have to tell you to keep alert. Good luck.
-Just bring me back that last head. And don't lose your own.
-Good. That's damn good. I figure it's about time we got lucky out here, so maybe you can snuff one of these maniacs.
-Out in the yard. Gorobets coordinates our sniper teams. He's been gunning for Nephi for weeks now.
-Only thing he hasn't had is willing bait. Don't have enough troops to order anyone beyond the fence. Not anymore, anyway.
-Bounty hunter. Talks big. But he's still alive, so he can't be completely full of shit.
-I think he's out in the yard, waiting to claim a couple bounties.
-That right? You killed one of the psychopaths on my shitlist? Let me see the scumbag's head...
-You killed another one? Let me have a look at the head...
-If that's true, that'd be the last of them...
-Goddammit. That's Violet, all right. You've made me one happy son of a bitch, you know that?
-Here. This is the bounty I put on her head. It's yours.
-Well, that could be Violet, or it could be someone else entirely. I'll take your word for it, but I can't give you a full reward.
-Well, well, well. Driver Nephi. Nothing to say, you son of a bitch? No tips on my golf swing?
-Lost a lot of good men to this psychopath. Morale's going to be better, now that he's gone. Here's the bounty I promised.
-I guess we can send 1st Recon down to Camp Forlorn Hope. They need all the help they can get there.
-Well, well, well. Driver Nephi. Nothing to say, you son of a bitch? No tips on my golf swing?
-Lost a lot of good men to this psychopath. Morale's going to be better, now that he's gone. Here's the bounty I promised.
-Now that's over with, I'd send 1st Recon down to Camp Forlorn Hope, but I heard it's overrun by the Legion. Bastards.
-That's supposed to be Driver Nephi? The head's in really bad shape, so I can't authorize a full reward. If he really is dead, we're all better off.
-I guess we can send 1st Recon down to Camp Forlorn Hope. They need all the help they can get there.
-That's supposed to be Driver Nephi? The head's in really bad shape, so a full reward is out of the question.
-Now that's over with, I'd send 1st Recon down to Camp Forlorn Hope, but I heard it's overrun by the Legion. Bastards.
-Yeah... that's Cook-cook. Did he always smell like this? Even before he was dead? And the Fiends let this guy touch their food?
-Well... this is payback for at least one of my troopers. She'll be glad to know he's dead. Here's your caps.
-This is Cook-cook? You sure did a number on his face. I'm not allowed to give you the full reward, but thanks for taking this guy down.
-It's payback for at least one of my troopers. She'll be glad to know he's dead. Here's your caps.
-Think you can take down another one of these scumbags? Up to you. But I can trust you to do the job, and I'd hate to see you walk away.
-That's two psychopaths dead. If you can bring down the third, there's a bonus in it for you.
-You've been one hell of a stroke of good luck, you know that? Those three scumbags probably killed twenty NCR troopers. And you bring them down alone.
-Wish I had a few grunts as good as you. Damn good working with you.
-Fair enough. You've done your part. If you change your mind, you know where to find me.
-That's the best damn thing I've heard all day. Finally somebody around here with some goddamn ambition.
-There's two psycho-bastards left. Which one will it be?
-Sorry to hear that. You had my hopes up. If you change your mind, the bounties still stand... unless somebody else claims them.
-Well... we're still better off than we were. Maybe one of my snipers will get lucky. If not, and you change your mind... you know where I'll be.
-Damn right I do. Who do you think you can take down?
-Violet's got dogs. Lots of dogs. While they're ripping you to shreds up close, she'll be putting rounds through you with her rifle.
-Driver Nephi is a monster in close combat with that golf club of his, and that man is about as fast on his feet as any Legionary.
-If you haven't already, see about getting Gorobets and First Recon to help you - they've got things to settle with Driver Nephi, too.
-Cook-Cook loves using his flamethrower on his victims, usually after he rapes them. Little Buster can tell you more about him than I can, though.
-Yeah, I was there. I was Captain Dhatri, then. That whole situation was a mess and could easily have been avoided with good intel.
-The major in charge at the time made a bad call - he thought Bitter Springs was full of Great Khan raiders, so we surrounded the place.
-By the time any of us realized there were civilians down there - women and children - the shooting had already started.
-The major froze up at the news, and we couldn't get another word out of him. I took over and salvaged the situation as best I could.
-For my effort, I was promoted to major. Not quite the way I'd have wanted it.
-Adoptive father, yes. I was very proud when he made First Recon. I know that every time I send them out, I could be sending him to his death.
-But, if it's not me, it'll be somebody else. At least this way I get one more chance to see him.
-I was. I thought I'd accepted the fact that I could be the one ordering him to his death, but it's been more difficult than I thought.
-Excuse me, but I'd rather not speak of this.
-We know they supply the Fiends with illegal chems, but they never stick around in NCR territory for long. They know the land, and move quick.
-There's talk from time to time about taking out their base at Red Rock Canyon, but nothing ever comes of it. The Great Khans are tough fighters.
-If we ever did go up against them on their home turf, we'd win, but casualties would be high.
-If it's bad news, you can take it up with the Colonel. If it's good news, it better involve some dead Fiends.
-This isn't a public relations office. If you're not here about a bounty, you can go pester the Colonel.
-I see you're still alive, and that's promising. Any luck on that bounty?
-Got any more good news for me?
-Still working on that last bounty?
-Perimeter's been quiet since you left. The Fiends are running scared. I doubt they'll give us any more trouble, not for a long while.
-I haven't got any more bounties for you. It's been quiet and calm since you last reported in. Just how I like it.
-If you're looking for bounties, you're too late. Had a few Fiends on my shitlist, but they either got killed or moved on.
-Pack of drugged-out killers. They're addicted to every stim, every pill, every psychoactive enema on this fucked-up earth.
-I've got three Fiends I want dead, and I don't give a goddamn how it gets done. That sound like something that interests you?
-Damn right I am. And I'm paying bounties.
-Right.
-Good. That's damn good. I figure it's about time we got lucky out here, so maybe you can snuff one of these maniacs.
-First one calls herself Violet. God knows why - the name is the prettiest thing about her. Spends most of her time with a pack of vicious dogs.
-Then there's Driver Nephi. He's fast and he's brutal. Killed about a dozen of my men with a goddamn driver iron. Hence his name.
-And finally... Cook-cook. Rapist. Pyromaniac. And damn good chef, if you believe the Fiends we've captured. Probably the craziest of the lot.
-I'm not going to feed you any bullshit. These aren't your common Vegas trash. They've all killed good NCR men, and plenty of mercs, too.
-You go after them - any of them - you're in for a hell of a fight. So... which one is it going to be?
-Well, I'm sorry to hear that. Only one thing concerns me right now, and that's killing the bastards that are murdering my men.
-You want to talk to somebody in charge, I'd start with Colonel Hsu and work my way down. You'll find him in the Main Concourse.
-But if you want to take down some psycho-crazy bastards... I'm happy to talk caps.
-Violet it is. Wish I could give you more advice on how to bring her down, but we know less about her than the other two.
-Just watch out for the dogs. She raises them herself. Might as well be their mother - they never leave her side.
-You've got some guts, I'll give you that. Nephi is one tough son of a bitch. You let him get close, and he'll take your head off.
-My advice is this. Talk to Lieutenant Gorobets. He's in charge of Alpha Team, 1st Recon. Snipers.
-If you're lucky, you can lure Nephi into the open, and the sharpshooters can bring him down. You bring me the head, you'll still get the bounty.
-It's a better bet than trying to take Nephi one-on-one, but it's your call.
-One thing I should tell you about Cook-Cook. The piece of shit is pure animal. He raped one of my snipers, and that makes this personal.
-Also... he's got a flamethrower, and he's damn good with it. From what I hear, he either rapes or burns every living thing he can get his hands on.
-Only one man's gotten close to killing him, and that's Little Buster. So he says, anyway. Maybe it's bullshit, but I'd still ask him about it.
-Can't say I blame you. If I wasn't in this fight for my country, you couldn't pay me enough to screw with those maniacs.
-If you change your mind, I'll be happy to see you again. Otherwise... best to stay out of the way.
-Good question. Fiend territory is southeast of here, but they range all over the area. None of them stays in any one place for long.
-Makes no difference to me. I'd be happy to see any one of them dead. Who will it be?
-One more thing. If you want the full reward, you need to bring me a recognizable head. My superiors need proof they're gone.
-That means no headshots. No decapitations 'til after they're dead. And no damage to the face. If you want to be safe, aim for the chest.
-You bring me a head that looks like a rotten tomato, people will be doubting, and I won't be authorized to pay the entire bounty.
-Good luck to you. And don't get careless.
-You've gone after the Fiends before - I don't have to tell you to keep alert. Good luck.
-Just bring me back that last head. And don't lose your own.
-Good. That's damn good. I figure it's about time we got lucky out here, so maybe you can snuff one of these maniacs.
-Out in the yard. Gorobets coordinates our sniper teams. He's been gunning for Nephi for weeks now.
-Only thing he hasn't had is willing bait. Don't have enough troops to order anyone beyond the fence. Not anymore, anyway.
-Bounty hunter. Talks big. But he's still alive, so he can't be completely full of shit.
-I think he's out in the yard, waiting to claim a couple bounties.
-That right? You killed one of the psychopaths on my shitlist? Let me see the scumbag's head...
-You killed another one? Let me have a look at the head...
-If that's true, that'd be the last of them...
-Goddammit. That's Violet, all right. You've made me one happy son of a bitch, you know that?
-Here. This is the bounty I put on her head. It's yours.
-Well, that could be Violet, or it could be someone else entirely. I'll take your word for it, but I can't give you a full reward.
-Well, well, well. Driver Nephi. Nothing to say, you son of a bitch? No tips on my golf swing?
-Lost a lot of good men to this psychopath. Morale's going to be better, now that he's gone. Here's the bounty I promised.
-I guess we can send 1st Recon down to Camp Forlorn Hope. They need all the help they can get there.
-Well, well, well. Driver Nephi. Nothing to say, you son of a bitch? No tips on my golf swing?
-Lost a lot of good men to this psychopath. Morale's going to be better, now that he's gone. Here's the bounty I promised.
-Now that's over with, I'd send 1st Recon down to Camp Forlorn Hope, but I heard it's overrun by the Legion. Bastards.
-That's supposed to be Driver Nephi? The head's in really bad shape, so I can't authorize a full reward. If he really is dead, we're all better off.
-I guess we can send 1st Recon down to Camp Forlorn Hope. They need all the help they can get there.
-That's supposed to be Driver Nephi? The head's in really bad shape, so a full reward is out of the question.
-Now that's over with, I'd send 1st Recon down to Camp Forlorn Hope, but I heard it's overrun by the Legion. Bastards.
-Yeah... that's Cook-cook. Did he always smell like this? Even before he was dead? And the Fiends let this guy touch their food?
-Well... this is payback for at least one of my troopers. She'll be glad to know he's dead. Here's your caps.
-This is Cook-cook? You sure did a number on his face. I'm not allowed to give you the full reward, but thanks for taking this guy down.
-It's payback for at least one of my troopers. She'll be glad to know he's dead. Here's your caps.
-Think you can take down another one of these scumbags? Up to you. But I can trust you to do the job, and I'd hate to see you walk away.
-That's two psychopaths dead. If you can bring down the third, there's a bonus in it for you.
-You've been one hell of a stroke of good luck, you know that? Those three scumbags probably killed twenty NCR troopers. And you bring them down alone.
-Wish I had a few grunts as good as you. Damn good working with you.
-Fair enough. You've done your part. If you change your mind, you know where to find me.
-That's the best damn thing I've heard all day. Finally somebody around here with some goddamn ambition.
-There's two psycho-bastards left. Which one will it be?
-Sorry to hear that. You had my hopes up. If you change your mind, the bounties still stand... unless somebody else claims them.
-Well... we're still better off than we were. Maybe one of my snipers will get lucky. If not, and you change your mind... you know where I'll be.
-Damn right I do. Who do you think you can take down?
-Violet's got dogs. Lots of dogs. While they're ripping you to shreds up close, she'll be putting rounds through you with her rifle.
-Driver Nephi is a monster in close combat with that golf club of his, and that man is about as fast on his feet as any Legionary.
-If you haven't already, see about getting Gorobets and First Recon to help you - they've got things to settle with Driver Nephi, too.
-Cook-Cook loves using his flamethrower on his victims, usually after he rapes them. Little Buster can tell you more about him than I can, though.
-Yeah, I was there. I was Captain Dhatri, then. That whole situation was a mess and could easily have been avoided with good intel.
-The major in charge at the time made a bad call - he thought Bitter Springs was full of Great Khan raiders, so we surrounded the place.
-By the time any of us realized there were civilians down there - women and children - the shooting had already started.
-The major froze up at the news, and we couldn't get another word out of him. I took over and salvaged the situation as best I could.
-For my effort, I was promoted to major. Not quite the way I'd have wanted it.
-Adoptive father, yes. I was very proud when he made First Recon. I know that every time I send them out, I could be sending him to his death.
-But, if it's not me, it'll be somebody else. At least this way I get one more chance to see him.
-I was. I thought I'd accepted the fact that I could be the one ordering him to his death, but it's been more difficult than I thought.
-Excuse me, but I'd rather not speak of this.
-We know they supply the Fiends with illegal chems, but they never stick around in NCR territory for long. They know the land, and move quick.
-There's talk from time to time about taking out their base at Red Rock Canyon, but nothing ever comes of it. The Great Khans are tough fighters.
-If we ever did go up against them on their home turf, we'd win, but casualties would be high.
-What is it, trooper? You're not assigned to my squad, as far as I know.
-I'm not a recruitment officer. If you want to join the army, I'm sure someone at McCarran can point you in the right direction.
-What is it?
-Carry on.
-A lot of the crops grown here support the various NCR camps in the region - McCarran, Golf, and Forlorn Hope, to name a few.
-We can't have wastelanders popping in here for a free meal, so my squad and I are assigned to keep things from going to hell.
-Impressive, aren't they? You don't see anything like this outside of NCR territory, that's for sure.
-We get the water - clean water - pumped in from Lake Mead. If you follow the big pipes, they'll take you all the way to the Lake.
-The Office of Science and Industry has carefully calculated the amount of water needed for these crops. The whole thing is handled by computer.
-Besides, most of these crops look fine to me. If the farmers can't handle the job, they shouldn't have signed up in the first place.
-If there really is a problem, they can take it up with Lieutenant Boyd at McCarran. Farming isn't my department.
-Corporal White is currently solving the mystery of the Great Water Shortage. Tried to convince me he had proof, even. I didn't buy any of it.
-He went over to Westside to talk to Tom Anderson. Anderson's a Follower of the Apocalypse. Helps the people in Westside grow crops or something.
-Haven't seen him. Serves him right if the NCR declares him AWOL.
-He's a glory hound, always looking for a way to get promoted to Ranger. Thinks he's too good to be a regular trooper like the rest of us.
-Yes, please do.
-I... really don't see the connection. Look, I'm a soldier, not a scientist. I just do my job.
-That's... great? So there was a problem, after all. Huh. Well, I'm not a scientist, so it's not my fault if I didn't see anything wrong.
-They're based out of the old fort in Freeside. They supposedly helped the NCR out at some point, but they go their own way now.
-They know stuff about tech and medicine and usually help out anybody who asks. Can't say I know any more than that.
-They're based out of the old fort in Freeside. They supposedly helped the NCR out at some point, but they go their own way now.
-They know stuff about tech and medicine and usually help out anybody who asks. Can't say I know any more than that.
-I'm Bitter-Root. First Recon. You got a reason to talk to me?
-Can't talk now. Got to keep my eyes sharp.
-Eyes sharp, now.
-Wish I'd gotten a bullet in that Fiend...
-That's one less drugged-out waster. Best part of this job - shooting folks who deserve it.
-I've never lost a CO before. It doesn't feel right.
-Didn't think you'd be back. What's this about?
-Guess not. I don't mean nothing by it.
-You really want to talk to somebody, try 10 of Spades. He's always got plenty to say.
-Me, I'm here to do my job. For now, that job is shootin' Fiends.
-10 of Spades always had plenty to say, before he got himself killed. Me, I'm just here to do my job.
-You a merc? Then I guess you'd want to talk to my, uh... father. Major Dhatri. He's our CO.
-Yeah, look... he's not my real father. He just looked after me, for a while.
-It's a long story. And I'd get tired of talking before it was through.
-It's like I told you. Dhatri's not my real father. He just looked after me for a while.
-A while, I guess. I don't keep too careful track of time.
-I like to keep things simple. Just focus on now. That's why they made me a sniper.
-You let your mind wander back a ways, and you lose sight of what's in front of your eyes. Good way to miss a mark.
-You trying to start trouble? Or do you really not know where I got that name?
-[SUCCEEDED] It's a Khan name. You know... the "Great Khans." That's what my parents were.
-I figured I grew up around the bastards... they owed me a name, after all they put me through.
-They're dead. Got themselves killed at Bitter Springs. Served them right, if you ask me.
-They're scum. Lazy, trumped-up Raiders. Most of the time, they're drunk or high, and when they're not shooting chems, they're selling them.
-Used to have a settlement up at Bitter Springs, 'til they pissed off NCR and got slaughtered for their trouble.
-Lot of us got killed at Bitter Springs. Lot of them, I mean. My parents died, too.
-It was massacre. That's what a lot of NCR folk will tell you. Most of them feel plenty bad about what happened.
-But I was there. Saw it myself. I don't care what anybody says. The Khans asked for Bitter Springs. They wouldn't leave the NCR be.
-My damn parents, too. They were just as bad as the rest.
-Yeah. That's probably best.
-You're sorry? Well, that makes one of us. Bitter Springs was the best thing that ever happened to me.
-Best thing that ever happened to my parents, too. They were as bad as the rest. Worse, maybe.
-Don't I? Mister, you never met my parents.
-Don't I? Beg pardon, ma'am, but you never met my parents.
-My dad, he got himself fucked up, every chance he got. Always started with folk for no reason.
-Hell, he was the one who taught me to shoot. You know how? By taking potshots at NCR. And not just soldiers. Civilians, too. Even kids.
-Then he'd get high with his buddies and swap tales about the folk they killed. Bunch of animals.
-And my mom... couple times she tried to sell me to some waster, just to score some Jet. Even the other Khans said she was useless.
-Only reason they kept her around was because she was a... how'd my dad say it... "a smokin' piece of ass."
-In the Khans, you're not fully grown 'til you've taken a beat-down. Everybody gathers round and hits you until you're damn near dead.
-After that - if you haven't begged for mercy - you get to choose a new name. One you'll use for the rest of your life.
-When NCR slaughtered the Khans at Bitter Springs, I hadn't got my beat-down yet. I was still too young.
-Way I see it, Bitter Springs was my beat-down. So afterward... I gave myself a name. It's all I've got from the Khans, and it's all I ever want.
-Guess I could tell a pretty good story, if I had a mind. But the truth is, I don't know. Just got lucky.
-They brought me to Dhatri after the battle. He was just a Captain, back then. Guess he saw something in me... knew I didn't belong with the Khans.
-Maybe he felt bad, too. About how his men killed my folks. I told him he did me a service, but he didn't believe me. Still doesn't.
-He's a good man, Dhatri. Doesn't act like it sometimes, I know. But he didn't have to take me in.
-It's like I tell Major Dhatri. Best not look under a rock, if you don't really want to know what's there.
-Could be that NCR found some blood on me, and none of it mine. Could be that a few of those Khans didn't die from NCR bullets.
-I had scores of my own to settle... deeper ones than NCR ever had. Don't bother asking who they were with.
-[FAILED] No. What's it matter to you? Why's everybody care so much about other people's business?
-Just leave it lie. And leave me be.
-Okay. I will. Guess that's something I'd rather not talk about, that's all.
-All right. Goodbye.
-10 of Spades really ought to keep his mouth shut, but he's right. There were a lot of things in my past I just couldn't leave behind.
-It helped. A little. Well, more than a little. Betsy ought to pay a visit to Usanagi since it can't hurt none.
-I'm Bitter-Root. First Recon. You got a reason to talk to me?
-Can't talk now. Got to keep my eyes sharp.
-Eyes sharp, now.
-Wish I'd gotten a bullet in that Fiend...
-That's one less drugged-out waster. Best part of this job - shooting folks who deserve it.
-I've never lost a CO before. It doesn't feel right.
-Didn't think you'd be back. What's this about?
-Guess not. I don't mean nothing by it.
-You really want to talk to somebody, try 10 of Spades. He's always got plenty to say.
-Me, I'm here to do my job. For now, that job is shootin' Fiends.
-10 of Spades always had plenty to say, before he got himself killed. Me, I'm just here to do my job.
-You a merc? Then I guess you'd want to talk to my, uh... father. Major Dhatri. He's our CO.
-Yeah, look... he's not my real father. He just looked after me, for a while.
-It's a long story. And I'd get tired of talking before it was through.
-It's like I told you. Dhatri's not my real father. He just looked after me for a while.
-A while, I guess. I don't keep too careful track of time.
-I like to keep things simple. Just focus on now. That's why they made me a sniper.
-You let your mind wander back a ways, and you lose sight of what's in front of your eyes. Good way to miss a mark.
-You trying to start trouble? Or do you really not know where I got that name?
-[SUCCEEDED] It's a Khan name. You know... the "Great Khans." That's what my parents were.
-I figured I grew up around the bastards... they owed me a name, after all they put me through.
-They're dead. Got themselves killed at Bitter Springs. Served them right, if you ask me.
-They're scum. Lazy, trumped-up Raiders. Most of the time, they're drunk or high, and when they're not shooting chems, they're selling them.
-Used to have a settlement up at Bitter Springs, 'til they pissed off NCR and got slaughtered for their trouble.
-Lot of us got killed at Bitter Springs. Lot of them, I mean. My parents died, too.
-It was massacre. That's what a lot of NCR folk will tell you. Most of them feel plenty bad about what happened.
-But I was there. Saw it myself. I don't care what anybody says. The Khans asked for Bitter Springs. They wouldn't leave the NCR be.
-My damn parents, too. They were just as bad as the rest.
-Yeah. That's probably best.
-You're sorry? Well, that makes one of us. Bitter Springs was the best thing that ever happened to me.
-Best thing that ever happened to my parents, too. They were as bad as the rest. Worse, maybe.
-Don't I? Mister, you never met my parents.
-Don't I? Beg pardon, ma'am, but you never met my parents.
-My dad, he got himself fucked up, every chance he got. Always started with folk for no reason.
-Hell, he was the one who taught me to shoot. You know how? By taking potshots at NCR. And not just soldiers. Civilians, too. Even kids.
-Then he'd get high with his buddies and swap tales about the folk they killed. Bunch of animals.
-And my mom... couple times she tried to sell me to some waster, just to score some Jet. Even the other Khans said she was useless.
-Only reason they kept her around was because she was a... how'd my dad say it... "a smokin' piece of ass."
-In the Khans, you're not fully grown 'til you've taken a beat-down. Everybody gathers round and hits you until you're damn near dead.
-After that - if you haven't begged for mercy - you get to choose a new name. One you'll use for the rest of your life.
-When NCR slaughtered the Khans at Bitter Springs, I hadn't got my beat-down yet. I was still too young.
-Way I see it, Bitter Springs was my beat-down. So afterward... I gave myself a name. It's all I've got from the Khans, and it's all I ever want.
-Guess I could tell a pretty good story, if I had a mind. But the truth is, I don't know. Just got lucky.
-They brought me to Dhatri after the battle. He was just a Captain, back then. Guess he saw something in me... knew I didn't belong with the Khans.
-Maybe he felt bad, too. About how his men killed my folks. I told him he did me a service, but he didn't believe me. Still doesn't.
-He's a good man, Dhatri. Doesn't act like it sometimes, I know. But he didn't have to take me in.
-It's like I tell Major Dhatri. Best not look under a rock, if you don't really want to know what's there.
-Could be that NCR found some blood on me, and none of it mine. Could be that a few of those Khans didn't die from NCR bullets.
-I had scores of my own to settle... deeper ones than NCR ever had. Don't bother asking who they were with.
-[FAILED] No. What's it matter to you? Why's everybody care so much about other people's business?
-Just leave it lie. And leave me be.
-Okay. I will. Guess that's something I'd rather not talk about, that's all.
-All right. Goodbye.
-10 of Spades really ought to keep his mouth shut, but he's right. There were a lot of things in my past I just couldn't leave behind.
-It helped. A little. Well, more than a little. Betsy ought to pay a visit to Usanagi since it can't hurt none.
-Is there something I can do for you?
-Bye.
-I'll help you if I can. What are you looking for?
-There's the medic at Camp McCarran, but I've also heard there's a civilian doctor in the northeast part of New Vegas. I don't know for sure.
-The Crimson Caravan Company is north of here. They have just about everything you need.
-But, if you're in the market for guns, go see the Gun Runners. They're expensive, but they have stuff no one else carries.
-I'm a private in the NCR army, and I've been proudly serving for two years now.
-Although, if you were asking what I'm doing right this instant, I'm patrolling the farms. It's a safe post, but a little boring.
-I do get to take shots at marauding Molerats once in awhile, and that's always fun.
-Same as you, I'd imagine? Although, I'm assigned to watch over these farms and keep out trespassers.
-I do get to take shots at Molerats once in awhile, so that's always fun.
-It's NCR-owned farmland. It produces a lot of the crops that supply McCarran and the Dam. The farmers are all civilians, though.
-They work the farms, and in return they get a safe place to stay and clean food and water. Some of 'em aren't all that grateful, though.
-I shouldn't have brought it up. It's not my place to spread gossip.
-[SUCCEEDED] All right. Some of the farmers, especially Trent Bascom, claim the NCR isn't giving them the water they need to meet their crop quotas.
-Personally, I think they're just incompetent and making excuses. The NCR ought to send them all crying back to California.
-[FAILED] Not my place to talk. Sorry.
-Oh, you'd better believe it. I feel sorry for the troops who are charged with keeping the Fiends from overrunning everything.
-The Fiends are scary because they're unpredictable. One day, they'll be taking potshots at you and then running off before you can shoot back.
-And the next day, they'll come rushing at you pumped full of drugs and not stopping until you or they are dead.
-Current orders are to hold the line and nothing more. That's all we seem to do these days - hold the line.
-I guess it's a tricky situation since there's a vault in Fiend territory. If the NCR went after them, they'd just hole up.
-Well, I know Major Dhatri is offering bounties on some of the Fiends - that's the gang that controls the southeast part of the city.
-You can find the major at the camp just outside of the old airport.
-Not sure how to help you with that one. Major Dhatri was offering bounties on some of the Fiends, but I hear someone took care of that recently.
-What do you want?
 We're going, we're going!
-[SUCCEEDED] Sure. You got a deal.
-[FAILED] That don't buy much these days. Double it and you've got a deal.
-[SUCCEEDED] H-Hey... hey, don't worry, I was just kidding. We're going, right boys?
-[FAILED] I ain't moving my stuff just 'cause you ask, nicely or not. Get the fuck out of my sight, punk.
-Fuck you, asshole! You're gonna regret it!
-Oh really? And how are you gonna make us?
-Pleasure doing business with you.
-Then we ain't going nowhere.
-Pleasure doing business with you.
-Hey, I'm just a farmer. I don't want any trouble and I don't have anything valuable.
-Howdy. Something I can help you with?
-Our water ration suddenly increased. Can't help but think that you had something to do with it.
-You showed up just in time to say goodbye. Me and couple of the others are packing it in and heading back to California.
-The water ration's still a problem, and the NCR doesn't look like it's going to do anything about it anytime soon.
-Something else you need before I go?
-Howdy. Something else I can help you with?
-Adios.
-Sure do. Came from The Hub on account of the Thaler Act. Farming's decent work, but the whole thing's a bum deal.
-Something the politicians back in Shady Sands came up with. They pay us to move here and farm the land. They even protect the fields.
-Bad soil and rationed water. It's to be expected around here, but the rationing's off. Worst part is NCR won't admit it.
-Pretty hard to meet their crop quotas with twenty percent less water than we're supposed to be getting. Not that OSI cares about any of this.
-They're part of the deal, the Thaler Act. We work the fields while they protect the crops and the water.
-Lotta folks come to New Vegas and lose everything in Freeside or the Strip. They get hungry, desperate, and try to take our hard work.
-Much as I sympathize, their theft would put me in a bad spot. I got a crop quota to meet.
-Everything I can. Farmers out here don't have the luxury of being picky. I get by mostly on maize and tobacco.
-Can do.
+We're the finest sniper outfit in the whole NCR. If you need a bullet put into a target's eye from 800 yards away, you call us.
+We're the NCR's #1 supplier of weapons and ammunition. You might call us an unofficial branch of the army.
+Welcome to the 188 Slop & Shop. How can I help you?
+Welcome to the 188 Slop & Shop. Like our slogan says, "It's better than nothing."
+Welcome, brother! How can I help you?
+Welcome, sister! How can I help you?
+Well hey, the field's wide open, now that I'm gone. Probably lots of people looking to get in, once they hear I quit.
+Well shit, feel free to stick a knife in the old ego. I thought I'd made a name for myself around here.
+Well, here you are again. Have you once again failed to complete your quest?
+Well, I know Major Dhatri is offering bounties on some of the Fiends - that's the gang that controls the southeast part of the city.
+Well, I'm sorry to hear that. Only one thing concerns me right now, and that's killing the bastards that are murdering my men.
+Well, not all the time, anyway,
+Well, that could be Violet, or it could be someone else entirely. I'll take your word for it, but I can't give you a full reward.
+Well, that's an interesting question. Among the Church, I'm called Elder Gunnarsson. The Followers call me "Doc."
+Well, then, why are you wasting my time?
+Well, well, well. Driver Nephi. Nothing to say, you son of a bitch? No tips on my golf swing?
+Well, yeah.
+Well, you're too late - I just quit the bounty trade. Soon as I pick up some caps that Dhatri owes me, I'm out of this scrapyard.
+Well... I want three doses of healing powder. Bad times are coming and I'm going to be ready. Bring them to me and you can have the flint. Now get to it!
+Well... Oh, very well. Here is the flint. I wish you a safe journey, child. 
+Well... that wasn't really a matter of choice. Got myself caught by Legionnaires, up near Malpais.
+Well... There's been reports of trouble south, but me and Michelle can handle ourselves. And there's plenty of soldiers about, so that helps.
+Well... this is payback for at least one of my troopers. She'll be glad to know he's dead. Here's your caps.
+Well... we're still better off than we were. Maybe one of my snipers will get lucky. If not, and you change your mind... you know where I'll be.
 Westside, huh? I hope the NCR does something about those thieving bastards. I appreciate it, and so do the rest of the farmers.
-Maybe you don't want for food much, but you can sell these on the market for a good price. Like I said, we're much obliged for the help.
-That's what I figured. Don't know why the heck they're so stubborn they couldn't just admit it.
-Sure you don't. All just a happy coincidence, am I right?
-I hear the Brahmin ranchers out in Redding are looking for some hard workers, so I might try there first. I hate working with Brahmin, though.
-Good luck to you out here.
-I wouldn't be able to meet the quota, and the NCR would kick me out of my job, anyway. Nah, it's better I get out on my own terms.
-Yes, he said he was looking into the water shortage, but I haven't heard back from him. Got the feeling he wasn't here in any official way.
+What a pointless trip. Here I thought I'd get a shot at that junkie bastard. 
+What can I do for you?
+What can you teach me?
+What did you have in mind? You thinking of luring him into range of my snipers?
+What do you need?
+What do you think you are doing, child? This is no way for the Chosen One to act. Now get out of my sight!
+What do you want?
+What gave me away? The big gun, the shades, or the attitude? 
+What happened?
+What is it, trooper? You're not assigned to my squad, as far as I know.
+What is it?
+What is it? You know I have a lot to do!
+What kind of dumbass question is that? Of course I want payback.
+What the hell are you looking at, punk?
+What the hell's going on here?
+What was I supposed to do again?
+What were you doing - trying to get me killed in the temple?
+What? Hey, guys! Help me here!
+Whatcha want, freakshow?
+Whatever you need, we'll make sure it gets done.
+Whatever you're selling, I ain't buying.
+When 15 shut down, 95 became the route NCR citizens use to get to the Strip - or limp back home, after the Strip's drained 'em of caps.
+When NCR slaughtered the Khans at Bitter Springs, I hadn't got my beat-down yet. I was still too young.
+When they show their faces, that's when we go to work. One shot, one k-k-kill. That's the First Recon way.
+When traffic dried up, we took to our heels to find us some customers. I'm not one to sit around waiting to get saved, and Michelle ain't, neither.
+Where is Vault 13?
+Where was I supposed to go?
 White was talking to me about computer stuff and water delivery schedules through the pipes, but I'm just a farmer. Tech stuff is beyond me.
-The last person I saw him talking to was Lieutenant Romanowski. Romanowski's around here somewhere. Sorry I couldn't be more helpful.
+Who am I? I'm the scariest motherfucker you're ever gonna meet. I'm Cook-Cook, bitch, better not forget it.
+Who the fuck are you and why are you bothering me?
+Who wants to know? You here for my dogs? Can't have my dogs. Here for meat? Can't have my meat. Meat's for dogs.
+Whole things smells of Caesar to me. 'Course, that's just guesswork, but I'd still bet a few caps that he's stirring up the locals against us.
+Why are you here? Every minute you waste another of our people could be killed. And don't forget the GECK! We must have it.
+Why do you bother me, nephew? Can't you see I'm busy?
+Why do you bother me, niece? Can't you see I'm busy?
+Why do you do this?
+Wish I had a few grunts as good as you. Damn good working with you.
+Wish I'd gotten a bullet in that Fiend...
+Wish me luck, Elder, and I will not fail you.
+With regret comes a girl... smiling sad, brown robe, name Veronica, half here. Wraps her and her heart up like a pack, in the pack, a key, some say. 
+Wouldn't believe me when I told him to forget it. I mean, if that slab of meat had gotten me pregnant, then maybe I'd want to talk to a doctor. 
+Yeah, doesn't sound like me at all, right? But it happens.
+Yeah, I was there. I was Captain Dhatri, then. That whole situation was a mess and could easily have been avoided with good intel.
+Yeah, I'll s-s-see you around.
+Yeah, look... he's not my real father. He just looked after me, for a while.
+Yeah, r-right. That's Brahmin shit. Lucky for you we're on b-b-base, and I can't start trouble with civvies. How 'bout you get l-l-lost?
+Yeah, right. You're sniffing up the wrong skirt. Try me again when you're tall, blonde, and female. 
+Yeah, well, we can't all be heartless shitheads, right?
+Yeah, yeah. Stop yelling.
+Yeah, yeah. You're beginning to sound like a broken disk...
+Yeah. So what? I could take a bullet in the skull tomorrow. I haven't got time to take it slow and subtle. 
+Yeah. That's probably best.
+Yeah. The  LT shouldn't have b-brought that shit up. Not with civvies, anyway. Ain't right.
+Yeah. Try not to get killed.
+Yeah. Typical. Thing is, that fat pile of shit sneaked up on us from behind and kicked little 10 in the back of the head. 
+Yeah. We spot for each other, watch each other's backs. Usually works pretty well, unless you get paired up with an asshole.
+Yeah. You just walk away. No fool can trump the T-t-ten of Spades!
+Yeah... I always scare off the hot ones... 
+Yeah... that's Cook-cook. Did he always smell like this? Even before he was dead? And the Fiends let this guy touch their food?
+Yeah?
+Yep, I'm still here. Shit, I got nothing better to do, right?
+Yes, Aunt Morlis, but...
+Yes, Aunt Morlis.
+Yes, Aunt Morlis. I mean no, Aunt Morlis. Uh, I've got to go, Aunt Morlis.
+Yes, Elder.
+Yes, he said he was looking into the water shortage, but I haven't heard back from him. Got the feeling he wasn't here in any official way.
+Yes, here they are.
+Yes, ma'am!
+Yes, please do.
+Yes, the others in the squad said you'd come to them about her. It's a start, but let's hope she sticks with her treatment as long as it's necessary.
+Yes.
+Yes. Talk to Betsy and try to convince her to get medical help for her trauma. I sure hope you understand what I'm asking.
+You a merc? 'Cause you don't look like a prospector...
+You a merc? Then I guess you'd want to talk to my, uh... father. Major Dhatri. He's our CO.
+You and me at Gomorrah, rolled up in those silk sheets. I got leave coming up in a bit, so let me know if you'll be around.
+You are a traitor!
+You are not quick enough in combat for my training to help you, Chosen One.
+You are! Yes that's right!
+You bet.
+You better make it worthwhile. I ain't going to risk my neck in The Wasteland for shit.
+You bring me a head that looks like a rotten tomato, people will be doubting, and I won't be authorized to pay the entire bounty.
+You came through for us. I have to admit... I wasn't sure you'd make it.
+You can call me Bert, though.
+You can find the major at the camp just outside of the old airport.
+You can tell the Lieutenant that I caved.  And... thanks.
+You can tell the Lieutenant that I finally caved. I'll...  get help. There's a Doctor Usanagi who's supposed to be good at this sort of thing.
+You did good out there. Glad you let me get a piece of Nephi. 
+You do know these old roads were numbered, right? We're standing where the 95 and 93 meet. And 95 plus 93 equals... 188.
+You don't have to leave, girl. Better yet, come and find me when I'm off duty.
+You don't notice anything unusual about the brahmin.
+You don't see the others crying about every little bruise and scrape, do you?
+You go after them - any of them - you're in for a hell of a fight. So... which one is it going to be?
+You got it.
+You have learned well, Chosen One. May the wind be at your back.
+You hear the losers around here complaining how they lost their shirts on the Strip? It's pathetic.
+You keep talking to me, sweetness, and people are gonna think we're an item. Not that I mind.
+You killed another one? Let me have a look at the head...
+You killed him? Well, shit. Here I'd dreamed up this whole elaborate revenge fantasy. 
+You know all I can teach you, Chosen One. Good luck to you on your quest.
+You know it's illegal for us to gamble back home? The government wants to keep us poor.
+You let your mind wander back a ways, and you lose sight of what's in front of your eyes. Good way to miss a mark.
+You like it any better if I tell you to fuck off?
+You lure him out for us, and if we can score some payback... we'll all pitch in caps for a reward.
+You monster! Have you come to kill me, too?
+You must destroy the machine and kill the devils in this place. We will meet you outside! And Chosen One, if you have not found the GECK, seek it here. Our freedom is nothing if we can not save our village. Now go!
+You need to learn more about combat before I can help you, little brother.
+You not find vault. Find vault! Vault 13.
+You really want to talk to somebody, try 10 of Spades. He's always got plenty to say.
+You remember me, right? T-t-ten of Spades. First Recon.
+You see a regular domesticated brahmin.
+You see Jordan, twirling his spear as usual.
+You see Lucas.
+You see Morlis, one of your aunts -- the one who never liked you.
+You see the Elder of your village.
+You see your nephew, Feargus, crying about something as usual.
+You see your nephew, Feargus.
+You showed up just in time to say goodbye. Me and couple of the others are packing it in and heading back to California.
+You survived. The Chosen One cannot be weak or we are all doomed. Are you prepared for your quest?
+You took out a Deathclaw nest? Either you're lying, or you're tougher than you look.
+You trying to start trouble? Or do you really not know where I got that name?
+You want to talk to somebody in charge, I'd start with Colonel Hsu and work my way down. You'll find him in the Main Concourse.
+You're a fine-looking woman, no doubt about that. But I'm looking a little deeper than the skin, if you take my meaning.
+You're a swift student -- it looks like you've learned all I can teach you.
+You're playing the hand you've been dealt, but you don't let it rest, you shuffle and stack, and a gamble... a gamble that may pay off?  But how?
+You're sorry? Well, that makes one of us. Bitter Springs was the best thing that ever happened to me.
+You're very kind. I wish... well, I'll just thank you and leave you be.
+You've been one hell of a stroke of good luck, you know that? Those three scumbags probably killed twenty NCR troopers. And you bring them down alone.
+You've betrayed us. You will perish.
+You've gone after the Fiends before - I don't have to tell you to keep alert. Good luck.
+You've got it.
+You've got some guts, I'll give you that. Nephi is one tough son of a bitch. You let him get close, and he'll take your head off.
+Your call. Even if you were one of my troopers, I wouldn't force you to take a risk like that.
+Your face does the thinking - two to the skull, yet one gets up. Odds are against you... but they're just numbers after the two-to-one.
+Your loss.
+Yup. Lot of people make that connection. Big gun. Sniper. Some people don't even need to ask. 
+[FAILED] "People" ought to mind their own business.
+[FAILED] Do I look like a fucking arms caravan to you?
+[FAILED] I ain't moving my stuff just 'cause you ask, nicely or not. Get the fuck out of my sight, punk.
+[FAILED] I already told you that I'm fine. I don't need a head doc.
+[FAILED] I guess Lady Luck just smiles on me, that's all. Nothing special about it.
+[FAILED] Like I give a shit. Didn't I say get lost, or are you looking for a beating?
+[FAILED] No. What's it matter to you? Why's everybody care so much about other people's business?
+[FAILED] Not my place to talk. Sorry.
+[FAILED] That don't buy much these days. Double it and you've got a deal.
+[FAILED] What? Are you some kind of idiot? Why, uh... why would I know that?
+[FAILED] You're shitting me. You got a real offer, or are you just going to waste my time?
+[SUCCEEDED] All right. Some of the farmers, especially Trent Bascom, claim the NCR isn't giving them the water they need to meet their crop quotas.
+[SUCCEEDED] Damn. Never had you pegged for the drill instructor type, but you got my attention.
+[SUCCEEDED] H-Hey... hey, don't worry, I was just kidding. We're going, right boys?
+[SUCCEEDED] Heh. More than I could make in a week of shaking down these assholes anyways.
+[SUCCEEDED] I don't... wait. You've got a point.
+[SUCCEEDED] It's a Khan name. You know... the "Great Khans." That's what my parents were.
+[SUCCEEDED] Just another injury to take care of, huh? Well, when you put it that way... all right. You can tell the Lieutenant I finally caved.
+[SUCCEEDED] Oh, I getcha. Lookin for a slightly more chemical thrill?
+[SUCCEEDED] Sure. You got a deal.
+[SUCCEEDED] You know how they say you make your own luck? Let's just say I make mine with a little extra ink on the cards.
+[SUCCEEDED] You might be on to something. I like to hang on to any weapons mods I run across...
