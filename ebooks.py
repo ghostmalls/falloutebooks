@@ -101,7 +101,7 @@ def scrape_page(src_url, web_context, web_attributes):
 
 def grab_tweets(api, max_id=None):
     source_tweets = []
-    user_tweets = api.GetUserTimeline(screen_name=user, count=200, max_id=max_id, include_rts=True, trim_user=True, exclude_replies=True)
+    user_tweets = api.GetUserTimeline(screen_name=user, count=2000, max_id=max_id, include_rts=False, trim_user=False, exclude_replies=False)
     if user_tweets:
         max_id = user_tweets[-1].id - 1
         for tweet in user_tweets:
@@ -209,7 +209,7 @@ if __name__ == "__main__":
             print(ebook_status)
 
         # if a tweet is very short, this will randomly add a second sentence to it.
-        if ebook_status is not None and len(ebook_status) < 40:
+        if ebook_status is not None and len(ebook_status) < 80:
             rando = random.randint(0, 10)
             if rando == 0 or rando == 7:
                 print("Short tweet. Adding another sentence randomly")
@@ -224,13 +224,13 @@ if __name__ == "__main__":
                 ebook_status = ebook_status.upper()
 
         # throw out tweets that match anything from the source account.
-        if ebook_status is not None and len(ebook_status) < 210:
-            for status in source_statuses:
-                if ebook_status[:-1] not in status:
-                    continue
-                else:
-                    print("TOO SIMILAR: " + ebook_status)
-                    sys.exit()
+        # if ebook_status is not None and len(ebook_status) < 210:
+        #    for status in source_statuses:
+        #        if ebook_status[:-1] not in status:
+        #            continue
+        #        else:
+        #            print("TOO SIMILAR: " + ebook_status)
+        #            sys.exit()
 
             if not DEBUG:
                 if ENABLE_TWITTER_POSTING:
