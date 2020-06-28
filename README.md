@@ -1,58 +1,47 @@
-# Heroku_ebooks
+# rya_ebooks
 
-This is a basic Python port of [@harrisj's](https://twitter.com/harrisj) [iron_ebooks](https://github.com/harrisj/iron_ebooks/) Ruby script. Using Heroku's scheduler, you can post to an _ebooks Twitter account based on the corpus of an existing Twitter at pseudorandom intervals. Currently, it is the magic behind [@adriennelaf_ebx](http://www.twitter.com/adriennelaf_ebx) and [@stevebuttry_ebx](http://www.twitter.com/stevebuttry_ebx), among many, many others in the wild.
+this project should work in the latest releases of Python 2.7 and Python 3. i use Python 3 because it's easier to debug lately, as 2.7 is EOL.
+i assume you might have both python 2 and python 3 installed, like me. if so, replace any `python3` commands with whatever you use to invoke python 3.
 
-This project should work in the latest releases of Python 2.7 and Python 3. By default, in Heroku, this will be deployed to Python 3.
+## setup
 
-## Setup
+i dont know anymore
+how does this even work
 
-1. Clone this repo
-2. If posting to Twitter, create a Twitter account that you will post to.
-3. Sign into https://dev.twitter.com/apps with the same login and create an application. Make sure that your application has read and write permissions to make POST requests.
-4. Set `ENABLE_TWITTER_SOURCES` and `ENABLE_TWITTER_POSTING` to `True`.  
-5. In `local_settings.py`, be sure to add the handle of the Twitter user you want your _ebooks account to be based on. To make your tweets go live, change the `DEBUG` variable to `False`.
-6. If you also want to include Mastodon as a source set `ENABLE_MASTODON_SOURCES` to `True` and you'll need to create a Mastodon account to send to on an instance like [botsin.space](https://botsin.space). If you would also like to have the bot post to this account, set `ENABLE_MASTODON_POSTING` to `True`. 
-7. After creating the Mastodon account, open a python prompt in your project directory and follow the [directions below](#mastodon-setup). Update your `local_settings.py` file with the filenames of the generated client secret and user credential secret files.
-8. Create an account at Heroku, if you don't already have one. [Install the Heroku toolbelt](https://devcenter.heroku.com/articles/quickstart#step-2-install-the-heroku-toolbelt) and set your Heroku login on the command line.
-9. Type the command `heroku create` to generate the _ebooks Python app on the platform that you can schedule.
-10. The only Python requirements for this script are [python-twitter](https://github.com/bear/python-twitter), Mastodon.py, and BeautfulSoup; the `pip install` of which is handled by Heroku automatically.
-11. `git commit -am 'updated the local_settings.py'`
-12. `git push heroku master`
-13. Before Heroku will properly run your scripts, it will need to have the application keys you created in step 4. We'll configure these as environment variables in Heroku, which will not appear anywhere else in your code (or on Github). Have the consumer key (and secret) and access token (and secret) from your Twiter application ready. At the command line where you just pushed your code to Heroku, type: 
-```
-heroku config:set TWITTER_CONSUMER_KEY=enter_your_consumer_key_here
-heroku config:set TWITTER_CONSUMER_SECRET=enter_your_consumer_secret_here
-heroku config:set TWITTER_ACCESS_TOKEN_KEY=enter_your_access_token_here
-heroku config:set TWITTER_ACCESS_SECRET=enter_your_access_secret_here
-```
-Substitute your actual keys after the = sign. Don't include any spaces, and you don't need to wrap them in quotes. To ensure they all got entered correctly, type `heroku config` to see all the environment variables stored for your app. If you see all four keys in there, you're good to go.
-14. Now, test your upload by typing `heroku run worker`. You should either get a response that says "3, no, sorry, not this time" or a message with the body of your post. If you get the latter, check your _ebooks Twitter account to see if it worked.
-15. Now it's time to configure the scheduler. `heroku addons:create scheduler:standard`
-16. Once that runs, type `heroku addons:open scheduler`. This will open up a browser window where you can adjust the time interval for the script to run. The scheduled command should be `python ebooks.py`. I recommend setting it at one hour.
-17. Sit back and enjoy the fruits of your labor.
+1. clone this repo
+2. create a twitter account that you will post to, or use one you already have. i dunno, im not your parent.
+3. sign into https://dev.twitter.com/apps with the same account that you'll use to post to and then create an application. Make sure that your application has read and write permissions to make POST requests.
+4. in `ebooks.py`, set `ENABLE_TWITTER_SOURCES` and `ENABLE_TWITTER_POSTING` to `True`. this is set to TRUE by default for ez use.
+5. in `local_settings.py`, add the @ of the account you want to randomise from. to make your tweets go live, change the `DEBUG` variable to `False`. i also have this enabled by default for ez use.
+6. the only Python requirements for this script are [python-twitter](https://github.com/bear/python-twitter), Mastodon.py, and BeautfulSoup; so like, i think you type `pip3 install -r requirements.txt` in command line. if you only have Python 3 installed, just type `pip`, not `pip3`
+7. um, i think that's it, but if you want to add or change shit, keep reading below.
 
 ## Configuring
 
-There are several parameters that control the behavior of the bot. You can adjust them by setting them in your `local_settings.py` file.
+in `local_settings.py`, there's a few tweaks that i've made to maximise cool shit.
 
 ```
-ODDS = 8
+ODDS = 0
 ```
 
-The bot does not run on every invocation. It runs in a pseudorandom fashion. At the beginning of each time the script fires, `guess = random.choice(range(ODDS))`. If `guess == 0`, then it proceeds. If your `ODDS = 8`, it should run one out of every 8 times, more or less. You can override it to make it more or less frequent. To make it run every time, you can set it to 0.
+the bot did some random shit and wouldnt send tweets all the time. but obviously you want it to, otherwise why would you make one? so i have mine set to 0. the below is an explanation from the initial git that i copied.
 
-
-By default, the bot ignores any tweets with URLs in them because those might just be headlines for articles and not text you've written.
+At the beginning of each time the script fires, `guess = random.choice(range(ODDS))`. If `guess == 0`, then it proceeds. If your `ODDS = 8`, it should run one out of every 8 times, more or less. You can override it to make it more or less frequent.
 
 ```
 ORDER = 2
 ```
 
-The ORDER variable represents the Markov index, which is a measure of associativity in the generated Markov chains. 2 is generally more incoherent and 3 or 4 is more lucid. I tend to stick with 2.
+The ORDER variable represents the Markov index, which is a measure of associativity in the generated Markov chains. this basically just means how fuckin lit you want your bot to seem.
+2 is generally more incoherent and 3 or 4 is more lucid.
+i use 2, but might even go down to 1 sometime soon.
+
+basically 2 gives you a litty bot, and 4 is a man in a suit talking business.
 
 ### Additional sources
 
-This bot was originally designed to pull tweets from a Twitter account, however, it can also process comma-separated text in a text file, or scrape content from the web.
+this bot was made to pull shit from twitter, but you can nab ya archive or use random text from another place saved in a document or whatevs.
+the below is basically all from the initial README of this bot, you might be able to figure it out but i couldn't be fucked tbh.
 
 #### Static Text
 To use a local text file, set `STATIC_TEST = True` and specify the name of a text file containing comma-separated "tweets" as `TEST_SOURCE`.
@@ -68,6 +57,8 @@ __Note:__ Web scraping is experimental and may give you unexpected results. Make
 
 #### Twitter archive
 To use tweets from a Twitter account you have access to, you can download your Twitter Archive by following the steps from [Twitter's Help Center](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive).
+
+note: this shit doesnt work in 2020, cause twitter fucking sucks a big dick. i think i managed to grab some tweets but i ended up abandoning this archive way because man, it's not worth the fucking headache.
 
 1. Request your Twitter archive
 2. Extract the CSV file and ensure it is named the same as the `TWITTER_ARCHIVE_NAME` in `local_settings.py`
@@ -92,25 +83,6 @@ After that, commit the change and `git push heroku master`. Then run the command
 
 If you want to avoid hitting the Twitter API and instead want to use a static text file, you can do that. First, create a text file containing a Python list of quote-wrapped tweets. Then set the `STATIC_TEST` variable to `True`. Finally, specify the name of text file using the `TEST_SOURCE` variable in `local_settings.py`
 
-## Mastodon Setup
+## ok bye
 
-You only need to do this once!
-
-```python
->>> from mastodon import Mastodon
->>> Mastodon.create_app('pytooterapp', api_base_url='YOUR INSTANCE URL', to_file='YOUR_FILENAME_HERE')
-```
-
-Then, create a user credential file. NOTE: Your bot has to follow your source account.
-
-```python
->>> mastodon = Mastodon(client_id='YOUR_FILENAME_HERE', api_base_url='YOUR INSTANCE URL')
->>> mastodon.log_in('yourawesomeemail@whatever.com','incrediblygoodpassword',to_file='YOUR USER FILENAME HERE')
-```
-
-Commit those two files to your repository and you can toot away.
-
-## Credit
-This is based almost entirely on [@harrisj's](https://twitter.com/harrisj) [iron_ebooks](https://github.com/harrisj/iron_ebooks/). He created it in Ruby, and I wanted to port it to Python. All the credit goes to him. As a result, all of the blame for clunky implementation in Python fall on me.
-
-Many thanks to the [many folks who have contributed](CONTRIBUTORS.md) to the development of this project since it was open sourced in 2013. If you see ways to improve the code, please fork it and send a [pull request](https://github.com/tommeagher/heroku_ebooks/pulls), or [file an issue](https://github.com/tommeagher/heroku_ebooks/issues) for me, and I'll address it.
+love from rya
